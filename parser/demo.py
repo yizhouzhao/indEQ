@@ -1,6 +1,6 @@
-import sys
-sys.path.append("mmf")
-sys.path.append('vqa-maskrcnn-benchmark')
+# import sys
+# sys.path.append("mmf")
+# sys.path.append('vqa-maskrcnn-benchmark')
 
 import yaml
 import cv2
@@ -37,7 +37,7 @@ from mmf.utils.env import setup_imports
 from mmf.utils.configuration import Configuration
 
 
-class MMFDemo:
+class MMFPythiaParser:
     TARGET_IMAGE_SIZE = [448, 448]
     CHANNEL_MEAN = [0.485, 0.456, 0.406]
     CHANNEL_STD = [0.229, 0.224, 0.225]
@@ -122,46 +122,6 @@ class MMFDemo:
             k1 = k[7:]
             new_sd[k1] = v
         return new_sd
-
-    def predict(self, url, question):
-        with torch.no_grad():
-            detectron_features = self.get_detectron_features(url)
-            resnet_features = self.get_resnet_features(url)
-
-            sample = Sample()
-
-            processed_text = self.text_processor({"text": question})
-            sample.text = processed_text["text"]
-            sample.text_len = len(processed_text["tokens"])
-
-            sample.image_feature_0 = detectron_features
-            sample.image_info_0 = Sample(
-                {"max_features": torch.tensor(100, dtype=torch.long)}
-            )
-
-            sample.image_feature_1 = resnet_features
-
-            sample_list = SampleList([sample])
-            sample_list = sample_list.to("cuda")
-
-            scores = self.pythia_model(sample_list)["scores"]
-            scores = torch.nn.functional.softmax(scores, dim=1)
-            actual, indices = scores.topk(5, dim=1)
-
-            top_indices = indices[0]
-            top_scores = actual[0]
-
-            probs = []
-            answers = []
-
-            for idx, score in enumerate(top_scores):
-                probs.append(score.item())
-                answers.append(self.answer_processor.idx2word(top_indices[idx].item()))
-
-        gc.collect()
-        torch.cuda.empty_cache()
-
-        return probs, answers
 
     def _build_detection_model(self):
 
@@ -265,3 +225,86 @@ class MMFDemo:
             output = self.detection_model(current_img_list)
         feat_list = self._process_feature_extraction(output, im_scales, "fc6", 0.2)
         return feat_list[0]
+
+    def predict(self, url, question):
+        with torch.no_grad():
+            detectron_features = self.get_detectron_features(url)
+            resnet_features = self.get_resnet_features(url)
+
+            sample = Sample()
+
+            processed_text = self.text_processor({"text": question})
+            sample.text = processed_text["text"]
+            sample.text_len = len(processed_text["tokens"])
+
+            sample.image_feature_0 = detectron_features
+            sample.image_info_0 = Sample(
+                {"max_features": torch.tensor(100, dtype=torch.long)}
+            )
+
+            sample.image_feature_1 = resnet_features
+
+            sample_list = SampleList([sample])
+            sample_list = sample_list.to("cuda")
+
+            scores = self.pythia_model(sample_list)["scores"]
+            scores = torch.nn.functional.softmax(scores, dim=1)
+            actual, indices = scores.topk(5, dim=1)
+
+            top_indices = indices[0]
+            top_scores = actual[0]
+
+            probs = []
+            answers = []
+
+            for idx, score in enumerate(top_scores):
+                probs.append(score.item())
+                answers.append(self.answer_processor.idx2word(top_indices[idx].item()))
+
+        gc.collect()
+        torch.cuda.empty_cache()
+
+        return probs, answers
+
+    def predict_multi(self, image_path:str, questions:list):
+        """
+        Predict multiple question on the current image
+        """
+        with torch.no_grad():
+            detectron_features = self.get_detectron_features(image_path)
+            resnet_features = self.get_resnet_features(image_path)
+
+            sample_list_raw = []
+            for question in questions:
+                sample = Sample()
+                processed_text = self.text_processor({"text": question})
+                sample.text = processed_text["text"]
+                sample.text_len = len(processed_text["tokens"])
+
+                sample.image_feature_0 = detectron_features
+                sample.image_info_0 = Sample(
+                    {"max_features": torch.tensor(100, dtype=torch.long)}
+                )
+
+                sample.image_feature_1 = resnet_features
+                sample_list_raw.append(sample)
+
+            sample_list = SampleList(sample_list_raw)
+            sample_list = sample_list.to("cuda")
+
+            scores = self.pythia_model(sample_list)["scores"]
+            scores = torch.nn.functional.softmax(scores, dim=1)
+            actual, indices = scores.topk(5, dim=1)
+
+            indices = indices.tolist()
+            answers = []
+            for i in range(len(indices)):
+                top_five_answer = []
+                for j in range(5):
+                    top_five_answer.append(self.answer_processor.idx2word(indices[i][j]))
+                answers.append(top_five_answer)  
+
+        gc.collect()
+        torch.cuda.empty_cache()
+
+        return answers

@@ -1,0 +1,12 @@
+Id,Question,TopK,RelyOnQuestion,RelyOnAnswer
+1,How many people?,1,,
+2,Where is this place?,1,,
+3,How is the environment feeling?,1,,
+4,What does the person look like?,2,1,1
+5,How does the person feel like?,2,1,1
+6,What is the person doing?,2,1,1
+7,What does the person on the left look like?,2,1,1
+8,How does the person on the left feel like?,2,1,1
+9,What does the person on the right look like?,2,1,1
+10,How does the person on the right feel like?,2,1,1
+11,What are they doing?,2,1,
