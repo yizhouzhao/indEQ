@@ -10,9 +10,9 @@ def generate_answer_text(option_list:list, add_change_line=True):
     answer_text = ""
     for i, option in enumerate(option_list):
         char_code = 65 + i
-        answer_text += "({}) {}".format(chr(char_code), option)
+        answer_text += "({}) {} ".format(chr(char_code), option)
     if add_change_line:
-        answer_text += " \n "
+        answer_text += "\n "
     return answer_text
 
 def generate_unifiedqa_text(question:str, answer:str, description:str):

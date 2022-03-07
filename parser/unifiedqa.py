@@ -3,7 +3,7 @@ from transformers import AutoTokenizer, T5ForConditionalGeneration
 import pandas as pd
 from fuzzywuzzy import process
 
-from util import generate_answer_text, generate_unifiedqa_text
+from .util import generate_answer_text, generate_unifiedqa_text
 
 class QuestionCollection(object):
     '''
@@ -48,7 +48,7 @@ class QAMachine(object):
     '''
     A machine to hold dataset and qa-model to perform question and answering
     '''
-    def __init__(self, question_collection_file:str,
+    def __init__(self, question_collection_file:str, token_model_name = "allenai/unifiedqa-t5-large",
                 model_name:str="allenai/unifiedqa-t5-large"):
         '''
         :params:
@@ -56,7 +56,7 @@ class QAMachine(object):
             dataset_name: the name of the dataset listed in #from datasets import list_datasets
             model_name: the name of the model in UnifiedQA
         '''
-             # device
+        # device
         self.use_cuda = True and torch.cuda.is_available()
         self.device = torch.device("cuda:{}".format(0) if self.use_cuda else "cpu")
 
@@ -64,13 +64,15 @@ class QAMachine(object):
         self.question_collection = QuestionCollection(question_collection_file)
 
         # load model
+        self.token_model_name = token_model_name
+        self.model_name = model_name
         self.model = None
         self.tokenizer = None
         self.load_model()
 
     def load_model(self):
         print("load model......")
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name)
+        self.tokenizer = AutoTokenizer.from_pretrained(self.token_model_name)
         self.model = T5ForConditionalGeneration.from_pretrained(self.model_name)
         if self.use_cuda:
             self.model = self.model.to(self.device)
@@ -78,32 +80,33 @@ class QAMachine(object):
     def run_model(self, input_string, **generator_args):
         input_ids = self.tokenizer(input_string, padding=True, truncation=True, max_length=100, return_tensors="pt").input_ids
         if self.use_cuda:
-            input_ids = input_ids.to(self.device)
+            input_ids = input_ids.to(self.device)   
         res = self.model.generate(input_ids, **generator_args)
         return [self.tokenizer.decode(x) for x in res]
 
-    def conduct_survey_along_questions(self, question_id_list:list):
+    def predict_multi(self, text:str, question_list:list, answer_list:list, raw_answer_list:list):
         '''
-        running Q&A on dataset on questions(question_id_list)
+        predict multiple qa
         '''
+        assert len(question_list) == len(answer_list) == len(raw_answer_list)
         
         #print("Datasets QAMachine conduct survey on question {} : {}".format(str(question_id), 
         #    self.question_collection.question_answer_list[question_id][0]))
-        for i in tqdm(range(len(self.dataset))):
-        #for i in tqdm(range(100)):
-            batch_sentences = []
-            for question_id in question_id_list:
-                text = generate_unifiedqa_text(self.question_collection.question_list[question_id], 
-                            self.question_collection.answer_list[question_id], 
-                            self.dataset[i]['text'])
-                batch_sentences.append(text)
+        batch_sentences = []
+        for question, answer in zip(question_list, answer_list):
+            qa_text = generate_unifiedqa_text(question, answer, text)
+            batch_sentences.append(qa_text)
 
-            question_answers = self.run_model(batch_sentences)
-            #print(question_answers)
 
-            for question_index, question_id in enumerate(question_id_list):
-                answer_choice = process.extractOne(question_answers[question_index], self.question_collection.raw_answer_list[question_id])[0]
-                answer_index = self.question_collection.raw_answer_list[question_id].index(answer_choice)
-                #print("Datasets QAMachine conduct survey", text, question_answer, answer_choice, answer_index)
+        question_answers = self.run_model(batch_sentences)
+        #print(question_answers)
 
+        answer_choices = []
+        for question, qa, raw_answer in zip(question_list, question_answers, raw_answer_list):
+            answer_choice = process.extractOne(qa, raw_answer)[0]
+            # answer_index = self.question_collection.raw_answer_list[question_id].index(answer_choice)
+            print(question, text, answer_choice)
+            answer_choices.append(answer_choice)
+
+        return answer_choices
     

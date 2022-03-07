@@ -4,7 +4,8 @@ import cv2
 from PIL import Image
 
 from tqdm.auto import tqdm
-from param import MEMOR_ROOT, PARSED_DATA_ROOT
+
+from ..param import MEMOR_ROOT, PARSED_DATA_ROOT
 
 
 class MemorVideoPicker():
