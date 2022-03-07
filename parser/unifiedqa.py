@@ -1,5 +1,5 @@
 import torch
-from transformers import AutoTokenizer, T5ForConditionalGeneration
+from transformers import T5Tokenizer, AutoTokenizer, T5ForConditionalGeneration
 import pandas as pd
 from fuzzywuzzy import process
 
@@ -72,7 +72,7 @@ class QAMachine(object):
 
     def load_model(self):
         print("load model......")
-        self.tokenizer = AutoTokenizer.from_pretrained(self.token_model_name)
+        self.tokenizer = T5Tokenizer.from_pretrained(self.token_model_name)
         self.model = T5ForConditionalGeneration.from_pretrained(self.model_name)
         if self.use_cuda:
             self.model = self.model.to(self.device)

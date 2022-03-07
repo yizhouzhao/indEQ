@@ -1,0 +1,97 @@
+{
+    "text": "hello, mrs. latham. yes, i live with him. i don't, i, i really don't know why. tonight? sure, that'd be great. okay, i'll, i'll see you then. bye. she wants to have dinner and talk about my research.",
+    "qa": [
+        [
+            "what is the sentiment of the text?",
+            "positive"
+        ],
+        [
+            "is the text informative?",
+            "yes"
+        ],
+        [
+            "is the text interesting?",
+            "yes"
+        ],
+        [
+            "do you feel any anger from the text?",
+            "no"
+        ],
+        [
+            "do you feel any joy from the text?",
+            "no"
+        ],
+        [
+            "do you feel any worry from the text?",
+            "no"
+        ],
+        [
+            "do you feel any sadness from the text?",
+            "no"
+        ],
+        [
+            "is the writting style of the text formal or informal?",
+            "formal"
+        ],
+        [
+            "is the text narrative?",
+            "no"
+        ],
+        [
+            "is the text analytical?",
+            "yes"
+        ],
+        [
+            "is the text expository?",
+            "yes"
+        ],
+        [
+            "is the text persuasive?",
+            "no"
+        ],
+        [
+            "is the text argumentative?",
+            "yes"
+        ],
+        [
+            "is there any prediction in the text?",
+            "no"
+        ],
+        [
+            "does it tell something happened in the past?",
+            "no"
+        ],
+        [
+            "does it tell something happening currently?",
+            "no"
+        ],
+        [
+            "is it asking something?",
+            "yes"
+        ],
+        [
+            "is there any hypothesis or assumption in the text?",
+            "no"
+        ],
+        [
+            "is there any statement or claim in the text?",
+            "no"
+        ],
+        [
+            "is there any invitation or suggestion in the text?",
+            "yes"
+        ],
+        [
+            "is the text denying something?",
+            "no"
+        ],
+        [
+            "is the text saying greetings?",
+            "no"
+        ],
+        [
+            "is the text saying goodbye?",
+            "no"
+        ]
+    ]
+}

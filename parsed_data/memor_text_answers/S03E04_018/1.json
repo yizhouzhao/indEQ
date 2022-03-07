@@ -1,0 +1,97 @@
+{
+    "text": "wha... you're kidding!",
+    "qa": [
+        [
+            "what is the sentiment of the text?",
+            "positive"
+        ],
+        [
+            "is the text informative?",
+            "yes"
+        ],
+        [
+            "is the text interesting?",
+            "yes"
+        ],
+        [
+            "do you feel any anger from the text?",
+            "yes"
+        ],
+        [
+            "do you feel any joy from the text?",
+            "no"
+        ],
+        [
+            "do you feel any worry from the text?",
+            "no"
+        ],
+        [
+            "do you feel any sadness from the text?",
+            "no"
+        ],
+        [
+            "is the writting style of the text formal or informal?",
+            "informal"
+        ],
+        [
+            "is the text narrative?",
+            "yes"
+        ],
+        [
+            "is the text analytical?",
+            "no"
+        ],
+        [
+            "is the text expository?",
+            "yes"
+        ],
+        [
+            "is the text persuasive?",
+            "yes"
+        ],
+        [
+            "is the text argumentative?",
+            "yes"
+        ],
+        [
+            "is there any prediction in the text?",
+            "yes"
+        ],
+        [
+            "does it tell something happened in the past?",
+            "yes"
+        ],
+        [
+            "does it tell something happening currently?",
+            "yes"
+        ],
+        [
+            "is it asking something?",
+            "yes"
+        ],
+        [
+            "is there any hypothesis or assumption in the text?",
+            "yes"
+        ],
+        [
+            "is there any statement or claim in the text?",
+            "yes"
+        ],
+        [
+            "is there any invitation or suggestion in the text?",
+            "yes"
+        ],
+        [
+            "is the text denying something?",
+            "no"
+        ],
+        [
+            "is the text saying greetings?",
+            "no"
+        ],
+        [
+            "is the text saying goodbye?",
+            "no"
+        ]
+    ]
+}
