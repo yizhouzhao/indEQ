@@ -4,12 +4,8 @@ import cv2
 from PIL import Image
 
 from tqdm.auto import tqdm
+from param import MEMOR_ROOT, PARSED_DATA_ROOT
 
-# root of MEMOR data
-MEMOR_ROOT = "/home/yizhou/Research/MEmor/MEmoR/data/"
-
-# parsed video/image saving folder
-PARSED_DATA_ROOT= "../parsed_data/"
 
 class MemorVideoPicker():
     def __init__(self, memor_root = MEMOR_ROOT, parsed_data_root = PARSED_DATA_ROOT) -> None:

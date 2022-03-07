@@ -308,3 +308,4 @@ class MMFPythiaParser:
         torch.cuda.empty_cache()
 
         return answers
+
