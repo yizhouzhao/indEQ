@@ -105,7 +105,7 @@ class QAMachine(object):
         for question, qa, raw_answer in zip(question_list, question_answers, raw_answer_list):
             answer_choice = process.extractOne(qa, raw_answer)[0]
             # answer_index = self.question_collection.raw_answer_list[question_id].index(answer_choice)
-            print(question, text, answer_choice)
+            # print(question, text, answer_choice)
             answer_choices.append(answer_choice)
 
         return answer_choices
