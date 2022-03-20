@@ -16,6 +16,7 @@ class QuestionCollection(object):
         self.question_file = question_file
         self.question_list = [] # question in text
         self.answer_list = [] # answer in text
+        self.activation_list = [] # list of words to activate answers
 
         self.raw_answer_list = [] # answer in choice
         self.load_questions()
@@ -41,6 +42,10 @@ class QuestionCollection(object):
             self.question_list.append(question.lower())
             self.answer_list.append(answer.lower())
 
+            activation_words = df.iloc[i][5].split(",") if not pd.isna(df.iloc[i][5]) else []
+            self.activation_list.append(activation_words)
+
+
     def __len__(self):
         return len(self.question_list)
 
@@ -48,7 +53,7 @@ class QAMachine(object):
     '''
     A machine to hold dataset and qa-model to perform question and answering
     '''
-    def __init__(self, question_collection_file:str, token_model_name = "allenai/unifiedqa-t5-large",
+    def __init__(self,  question_collection_file:str, token_model_name = "allenai/unifiedqa-t5-large",
                 model_name:str="allenai/unifiedqa-t5-large"):
         '''
         :params:

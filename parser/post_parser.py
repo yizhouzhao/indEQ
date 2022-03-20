@@ -1,4 +1,6 @@
 import json
+from this import d
+from .unifiedqa import QuestionCollection
 
 class VideoCausalityParser():
     def __init__(self) -> None:
@@ -36,3 +38,27 @@ class VideoCausalityParser():
         return
             
 class TextRuleParser():
+    def __init__(self, question_collection_file) -> None:
+        self.qc = QuestionCollection(question_collection_file)
+    
+    def parse_text_answer(self, answer_dict):
+        answer_vector = [0 for _ in range(len(self.qc.question_list))]
+
+        self.modify_answer(answer_dict["text"], answer_vector)
+        answer_dict["answer_vec"] = answer_vector
+
+    def modify_answer(self, text, vec):
+        """
+        modify qa answers from answer list
+        """
+        for i in range(len(self.qc.question_list)):
+            if len(self.qc.activation_list[i]) > 0:
+                word_in_question = any([word in text for word in self.qc.activation_list[i]])
+                vec[i] = int(word_in_question)
+
+
+
+        
+        
+
+    
