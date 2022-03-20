@@ -35,3 +35,4 @@ class VideoCausalityParser():
         answer_dict["description"] = description
         return
             
+class TextRuleParser():
