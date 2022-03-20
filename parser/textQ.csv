@@ -21,4 +21,5 @@ Yes-no,Is there any statement or claim in the text?,,statement,content,
 Yes-no,Is there any invitation or suggestion in the text?,,invitation,content,
 Yes-no,Is the text denying something?,,negation,content,"n't ,not , nothing ,no "
 Yes-no,Is the text saying greetings?,,greetings,content,"hi ,hello "
-Yes-no,Is the text saying goodbye?,,goodbye,content,bye 
+Yes-no,Is the text saying goodbye?,,goodbye,content,"bye ,see you "
+Yes-no,Is the text saying agree?,,agree,content," agree,well,think so "

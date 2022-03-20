@@ -44,6 +44,12 @@ class TextRuleParser():
     def parse_text_answer(self, answer_dict):
         answer_vector = [0 for _ in range(len(self.qc.question_list))]
 
+        positive_args = ["yes","formal","positive"]
+        if len(answer_dict['qa']) > 0:
+            for i in range(len(answer_dict['qa'])):
+                vec_answer = int(any([word in answer_dict['qa'][i][1] for word in positive_args]))
+                answer_vector[i] = vec_answer
+
         self.modify_answer(answer_dict["text"], answer_vector)
         answer_dict["answer_vec"] = answer_vector
 
@@ -55,6 +61,7 @@ class TextRuleParser():
             if len(self.qc.activation_list[i]) > 0:
                 word_in_question = any([word in text for word in self.qc.activation_list[i]])
                 vec[i] = int(word_in_question)
+
 
 
 
