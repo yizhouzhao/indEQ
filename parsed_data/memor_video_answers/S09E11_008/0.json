@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "5"]], [2, "Where is this place?", ["inside", "indoors", "living room", "store", "office"]], [3, "How is the environment feeling?", ["cool", "dark", "good", "happy", "clear"]], [4, "What does the person look like?", ["man", "casual", "selfie", "business", "male"]], [5, "How does the person feel like?", ["bored", "sad", "tired", "happy", "confused"]], [6, "What is the person doing?", ["standing", "talking", "smiling", "looking", "sitting"]], [7, "What does the person on the left look like?", ["man", "person", "himself", "dog", "nothing"]], [8, "How does the person on the left feel like?", ["sad", "bored", "tired", "happy", "confused"]], [9, "What does the person on the right look like?", ["man", "himself", "person", "guitar", "casual"]], [10, "How does the person on the right feel like?", ["bored", "sad", "tired", "confused", "happy"]], [11, "What are they doing?", ["playing", "standing", "talking", "watching", "listening"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "5"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "indoors",
+                "living room",
+                "store",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "good",
+                "happy",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "casual",
+                "selfie",
+                "business",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "tired",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "talking",
+                "smiling",
+                "looking",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "himself",
+                "dog",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "himself",
+                "person",
+                "guitar",
+                "casual"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "tired",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing",
+                "standing",
+                "talking",
+                "watching",
+                "listening"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the inside. the person on the left looks like man or person and feels like sad and bored. the person on the right looks like man or himself and feels like bored and sad. they are playing or standing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "no"]], [2, "Where is this place?", ["kitchen", "house", "home", "dining room", "bathroom"]], [3, "How is the environment feeling?", ["warm", "happy", "calm", "dark", "normal"]], [4, "What does the person look like?", ["female", "woman", "confused", "clothes", "nothing"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "good", "tired"]], [6, "What is the person doing?", ["playing wii", "dancing", "standing", "wii", "talking"]], [7, "What does the person on the left look like?", ["man", "woman", "smile", "person", "human"]], [8, "How does the person on the left feel like?", ["good", "sad", "bored", "happy", "warm"]], [9, "What does the person on the right look like?", ["man", "female", "woman", "hair", "smile"]], [10, "How does the person on the right feel like?", ["bored", "tired", "sad", "good", "happy"]], [11, "What are they doing?", ["playing wii", "wii", "playing video game", "playing", "playing game"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "dining room",
+                "bathroom"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "calm",
+                "dark",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "confused",
+                "clothes",
+                "nothing"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "playing wii",
+                "dancing",
+                "standing",
+                "wii",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "woman",
+                "smile",
+                "person",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "bored",
+                "happy",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "female",
+                "woman",
+                "hair",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "tired",
+                "sad",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "wii",
+                "playing video game",
+                "playing",
+                "playing game"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the kitchen. the person on the left looks like man or woman and feels like good and sad. the person on the right looks like man or female and feels like bored and tired. they are playing wii or wii. "
+}

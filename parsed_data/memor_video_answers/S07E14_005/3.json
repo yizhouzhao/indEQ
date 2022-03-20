@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "standing"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "office"]], [3, "How is the environment feeling?", ["cool", "warm", "dark", "good", "normal"]], [4, "What does the person look like?", ["laptop", "sad", "glasses", "serious", "old"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "warm"]], [6, "What is the person doing?", ["working", "typing", "using laptop", "smiling", "on laptop"]], [7, "What does the person on the left look like?", ["laptop", "ghost", "mouse", "robot", "monitor"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "warm", "bored"]], [9, "What does the person on the right look like?", ["laptop", "no man", "dad", "man", "smile"]], [10, "How does the person on the right feel like?", ["good", "happy", "sad", "bored", "tired"]], [11, "What are they doing?", ["working", "talking", "sitting", "using laptop", "using computer"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "warm",
+                "dark",
+                "good",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "laptop",
+                "sad",
+                "glasses",
+                "serious",
+                "old"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "working",
+                "typing",
+                "using laptop",
+                "smiling",
+                "on laptop"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "laptop",
+                "ghost",
+                "mouse",
+                "robot",
+                "monitor"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "warm",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "laptop",
+                "no man",
+                "dad",
+                "man",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "talking",
+                "sitting",
+                "using laptop",
+                "using computer"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and warm. two people are in the living room. the person on the left looks like laptop or ghost and feels like good and happy. the person on the right looks like laptop or no man and feels like good and happy. they are working or talking. "
+}

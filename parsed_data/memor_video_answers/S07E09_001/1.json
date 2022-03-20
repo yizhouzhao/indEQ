@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "yes", "0"]], [2, "Where is this place?", ["living room", "home", "inside", "house", "library"]], [3, "How is the environment feeling?", ["happy", "cool", "dark", "warm", "good"]], [4, "What does the person look like?", ["professional", "sad", "fake", "casual", "female"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "cool"]], [6, "What is the person doing?", ["smiling", "sitting", "posing", "looking", "watching"]], [7, "What does the person on the left look like?", ["smile", "eyes", "butterfly", "animal", "ghost"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "cool", "cold"]], [9, "What does the person on the right look like?", ["himself", "smile", "animal", "happy", "nothing"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "bored", "tired"]], [11, "What are they doing?", ["sitting", "standing", "playing", "smiling", "looking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "inside",
+                "house",
+                "library"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "cool",
+                "dark",
+                "warm",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "professional",
+                "sad",
+                "fake",
+                "casual",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "sitting",
+                "posing",
+                "looking",
+                "watching"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "eyes",
+                "butterfly",
+                "animal",
+                "ghost"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "cool",
+                "cold"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "smile",
+                "animal",
+                "happy",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "standing",
+                "playing",
+                "smiling",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and cool. two people are in the living room. the person on the left looks like smile or eyes and feels like happy and good. the person on the right looks like himself or smile and feels like happy and good. they are sitting or standing. "
+}

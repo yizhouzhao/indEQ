@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "1", "5"]], [2, "Where is this place?", ["restaurant", "bar", "kitchen", "home", "dining room"]], [3, "How is the environment feeling?", ["dark", "warm", "happy", "no", "yes"]], [4, "What does the person look like?", ["photo", "formal", "female", "smile", "surprise"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "tired"]], [6, "What is the person doing?", ["talking", "sitting", "drinking", "dining", "eating"]], [7, "What does the person on the left look like?", ["no man", "hand", "abstract", "face", "normal"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "yes", "full"]], [9, "What does the person on the right look like?", ["flowers", "butterfly", "abstract", "flower", "floral"]], [10, "How does the person on the right feel like?", ["good", "happy", "sad", "bored", "hungry"]], [11, "What are they doing?", ["talking", "drinking", "sitting", "dining", "eating"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "1",
+                "5"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "bar",
+                "kitchen",
+                "home",
+                "dining room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "happy",
+                "no",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "photo",
+                "formal",
+                "female",
+                "smile",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "sitting",
+                "drinking",
+                "dining",
+                "eating"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "no man",
+                "hand",
+                "abstract",
+                "face",
+                "normal"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "yes",
+                "full"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "flowers",
+                "butterfly",
+                "abstract",
+                "flower",
+                "floral"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "hungry"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "drinking",
+                "sitting",
+                "dining",
+                "eating"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the restaurant. the person on the left looks like no man or hand and feels like good and sad. the person on the right looks like flowers or butterfly and feels like good and happy. they are talking or drinking. "
+}

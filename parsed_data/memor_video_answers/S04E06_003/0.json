@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "no"]], [2, "Where is this place?", ["office", "inside", "school", "classroom", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "calm", "cool", "clear"]], [4, "What does the person look like?", ["man", "cartoon", "male", "frisbee", "t shirt"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "confused"]], [6, "What is the person doing?", ["talking", "using computer", "typing", "sitting", "computer"]], [7, "What does the person on the left look like?", ["person", "smiley face", "cartoon", "face", "man"]], [8, "How does the person on the left feel like?", ["happy", "good", "confused", "sad", "bored"]], [9, "What does the person on the right look like?", ["cartoon", "smile", "frisbee", "happy", "man"]], [10, "How does the person on the right feel like?", ["happy", "confused", "bored", "good", "sad"]], [11, "What are they doing?", ["talking", "working", "sitting", "listening", "drinking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "inside",
+                "school",
+                "classroom",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "calm",
+                "cool",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "cartoon",
+                "male",
+                "frisbee",
+                "t shirt"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "using computer",
+                "typing",
+                "sitting",
+                "computer"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "smiley face",
+                "cartoon",
+                "face",
+                "man"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cartoon",
+                "smile",
+                "frisbee",
+                "happy",
+                "man"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "confused",
+                "bored",
+                "good",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "working",
+                "sitting",
+                "listening",
+                "drinking"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the office. the person on the left looks like person or smiley face and feels like happy and good. the person on the right looks like cartoon or smile and feels like happy and confused. they are talking or working. "
+}

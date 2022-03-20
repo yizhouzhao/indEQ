@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "3", "4", "2"]], [2, "Where is this place?", ["garage", "indoors", "inside", "home", "bar"]], [3, "How is the environment feeling?", ["clear", "dark", "cool", "warm", "no"]], [4, "What does the person look like?", ["old", "glasses", "selfie", "robot", "face"]], [5, "How does the person feel like?", ["happy", "sad", "good", "calm", "tired"]], [6, "What is the person doing?", ["sitting", "working", "standing", "cutting", "not sure"]], [7, "What does the person on the left look like?", ["robot", "face", "dog", "skull", "cup"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "tired", "bored"]], [9, "What does the person on the right look like?", ["robot", "pirate", "person", "ghost", "model"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "tired", "confused"]], [11, "What are they doing?", ["talking", "sitting", "working", "standing", "not sure"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "3",
+                "4",
+                "2"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "garage",
+                "indoors",
+                "inside",
+                "home",
+                "bar"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "clear",
+                "dark",
+                "cool",
+                "warm",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "old",
+                "glasses",
+                "selfie",
+                "robot",
+                "face"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "calm",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "working",
+                "standing",
+                "cutting",
+                "not sure"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "robot",
+                "face",
+                "dog",
+                "skull",
+                "cup"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "robot",
+                "pirate",
+                "person",
+                "ghost",
+                "model"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "working",
+                "standing",
+                "not sure"
+            ]
+        ]
+    ],
+    "description": "the environment feels clear and dark. one person is in the garage. the person looks like old or indoors and feels like happy and sad. the person is sitting or working. "
+}

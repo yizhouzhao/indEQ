@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "5", "1"]], [2, "Where is this place?", ["restaurant", "wedding", "inside", "indoors", "dining room"]], [3, "How is the environment feeling?", ["warm", "happy", "good", "fair", "cool"]], [4, "What does the person look like?", ["bride", "smile", "flowers", "woman", "smiling"]], [5, "How does the person feel like?", ["happy", "good", "bad", "sad", "fair"]], [6, "What is the person doing?", ["smiling", "standing", "drinking", "sitting", "posing"]], [7, "What does the person on the left look like?", ["person", "bride", "bear", "head", "fire"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "love", "hungry"]], [9, "What does the person on the right look like?", ["bride", "flowers", "person", "angel", "flower"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "bad", "confused"]], [11, "What are they doing?", ["drinking", "smiling", "sitting", "talking", "wine tasting"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "5",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "wedding",
+                "inside",
+                "indoors",
+                "dining room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "good",
+                "fair",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "bride",
+                "smile",
+                "flowers",
+                "woman",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bad",
+                "sad",
+                "fair"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "standing",
+                "drinking",
+                "sitting",
+                "posing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "bride",
+                "bear",
+                "head",
+                "fire"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "love",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "bride",
+                "flowers",
+                "person",
+                "angel",
+                "flower"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "smiling",
+                "sitting",
+                "talking",
+                "wine tasting"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the restaurant. the person on the left looks like person or bride and feels like good and happy. the person on the right looks like bride or flowers and feels like happy and good. they are drinking or smiling. "
+}

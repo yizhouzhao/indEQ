@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["0", "1", "3", "2", "9"]], [2, "Where is this place?", ["street", "outside", "city", "night", "train station"]], [3, "How is the environment feeling?", ["calm", "clear", "no", "poor", "bad"]], [4, "What does the person look like?", ["moon", "dark", "duck", "person", "ball"]], [5, "How does the person feel like?", ["sad", "no", "bored", "happy", "tired"]], [6, "What is the person doing?", ["standing", "taking picture", "night", "skateboarding", "not possible"]], [7, "What does the person on the left look like?", ["moon", "bird", "person", "lamp", "duck"]], [8, "How does the person on the left feel like?", ["no", "sad", "bad", "angry", "not possible"]], [9, "What does the person on the right look like?", ["moon", "duck", "bird", "ball", "lamp"]], [10, "How does the person on the right feel like?", ["sad", "tired", "angry", "bad", "bored"]], [11, "What are they doing?", ["not possible", "standing", "working", "watching", "night"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "0",
+                "1",
+                "3",
+                "2",
+                "9"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "street",
+                "outside",
+                "city",
+                "night",
+                "train station"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "clear",
+                "no",
+                "poor",
+                "bad"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "moon",
+                "dark",
+                "duck",
+                "person",
+                "ball"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "no",
+                "bored",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "taking picture",
+                "night",
+                "skateboarding",
+                "not possible"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "moon",
+                "bird",
+                "person",
+                "lamp",
+                "duck"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "no",
+                "sad",
+                "bad",
+                "angry",
+                "not possible"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "moon",
+                "duck",
+                "bird",
+                "ball",
+                "lamp"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "tired",
+                "angry",
+                "bad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "not possible",
+                "standing",
+                "working",
+                "watching",
+                "night"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and clear. nobody is in the street. "
+}

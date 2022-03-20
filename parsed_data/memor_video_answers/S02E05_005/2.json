@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "0", "no"]], [2, "Where is this place?", ["park", "outside", "field", "outdoors", "zoo"]], [3, "How is the environment feeling?", ["fair", "sunny", "good", "poor", "calm"]], [4, "What does the person look like?", ["surprise", "selfie", "happy", "face", "smile"]], [5, "How does the person feel like?", ["sad", "good", "happy", "confused", "bored"]], [6, "What is the person doing?", ["waiting", "smiling", "staring", "talking", "looking at camera"]], [7, "What does the person on the left look like?", ["face", "dog", "car", "smile", "person"]], [8, "How does the person on the left feel like?", ["sad", "happy", "confused", "good", "bored"]], [9, "What does the person on the right look like?", ["smile", "face", "dog", "surprise", "smiley face"]], [10, "How does the person on the right feel like?", ["sad", "confused", "happy", "good", "bored"]], [11, "What are they doing?", ["talking", "waiting", "looking", "standing", "staring"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "park",
+                "outside",
+                "field",
+                "outdoors",
+                "zoo"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "fair",
+                "sunny",
+                "good",
+                "poor",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "surprise",
+                "selfie",
+                "happy",
+                "face",
+                "smile"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "waiting",
+                "smiling",
+                "staring",
+                "talking",
+                "looking at camera"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "dog",
+                "car",
+                "smile",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "dog",
+                "surprise",
+                "smiley face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "confused",
+                "happy",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "waiting",
+                "looking",
+                "standing",
+                "staring"
+            ]
+        ]
+    ],
+    "description": "the environment feels fair and sunny. two people are in the park. the person on the left looks like face or dog and feels like sad and happy. the person on the right looks like smile or face and feels like sad and confused. they are talking or waiting. "
+}

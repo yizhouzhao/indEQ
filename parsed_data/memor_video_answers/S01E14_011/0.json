@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "0"]], [2, "Where is this place?", ["restaurant", "church", "inside", "salon", "wedding"]], [3, "How is the environment feeling?", ["happy", "cool", "warm", "cold", "calm"]], [4, "What does the person look like?", ["female", "family", "smiling", "smile", "fake"]], [5, "How does the person feel like?", ["sad", "good", "happy", "bored", "confused"]], [6, "What is the person doing?", ["sitting", "smiling", "standing", "talking", "dancing"]], [7, "What does the person on the left look like?", ["man", "rabbit", "statue", "soldier", "abstract"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "cold", "love"]], [9, "What does the person on the right look like?", ["flowers", "wreath", "rabbit", "smile", "statue"]], [10, "How does the person on the right feel like?", ["happy", "sad", "good", "bored", "confused"]], [11, "What are they doing?", ["talking", "sitting", "dancing", "standing", "posing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "church",
+                "inside",
+                "salon",
+                "wedding"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "cool",
+                "warm",
+                "cold",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "family",
+                "smiling",
+                "smile",
+                "fake"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "smiling",
+                "standing",
+                "talking",
+                "dancing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "rabbit",
+                "statue",
+                "soldier",
+                "abstract"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "cold",
+                "love"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "flowers",
+                "wreath",
+                "rabbit",
+                "smile",
+                "statue"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "dancing",
+                "standing",
+                "posing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and cool. two people are in the restaurant. the person on the left looks like man or rabbit and feels like happy and sad. the person on the right looks like flowers or wreath and feels like happy and sad. they are talking or sitting. "
+}

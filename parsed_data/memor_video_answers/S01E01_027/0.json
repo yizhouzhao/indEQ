@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "no"]], [2, "Where is this place?", ["living room", "house", "apartment", "inside", "home"]], [3, "How is the environment feeling?", ["happy", "warm", "good", "sunny", "clean"]], [4, "What does the person look like?", ["female", "casual", "selfie", "clothes", "makeup"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "calm"]], [6, "What is the person doing?", ["standing", "talking", "talking on phone", "looking out window", "looking"]], [7, "What does the person on the left look like?", ["dog", "robe", "no man", "couch", "jeans"]], [8, "How does the person on the left feel like?", ["sad", "bored", "good", "happy", "tired"]], [9, "What does the person on the right look like?", ["nothing", "herself", "cat", "human", "selfie"]], [10, "How does the person on the right feel like?", ["bored", "sad", "happy", "good", "tired"]], [11, "What are they doing?", ["talking", "standing", "looking out window", "talking on phone", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "apartment",
+                "inside",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "warm",
+                "good",
+                "sunny",
+                "clean"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "casual",
+                "selfie",
+                "clothes",
+                "makeup"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "talking",
+                "talking on phone",
+                "looking out window",
+                "looking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "robe",
+                "no man",
+                "couch",
+                "jeans"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "nothing",
+                "herself",
+                "cat",
+                "human",
+                "selfie"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "happy",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "looking out window",
+                "talking on phone",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and warm. two people are in the living room. the person on the left looks like dog or robe and feels like sad and bored. the person on the right looks like nothing or herself and feels like bored and sad. they are talking or standing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "3", "4", "2"]], [2, "Where is this place?", ["house", "home", "inside", "garage", "indoors"]], [3, "How is the environment feeling?", ["dark", "no", "cool", "calm", "clear"]], [4, "What does the person look like?", ["shirt and tie", "big", "man", "suit", "tie"]], [5, "How does the person feel like?", ["sad", "tired", "bored", "calm", "happy"]], [6, "What is the person doing?", ["talking", "pointing", "playing game", "standing", "tying tie"]], [7, "What does the person on the left look like?", ["face", "man", "tie", "big", "himself"]], [8, "How does the person on the left feel like?", ["good", "sad", "yes", "bored", "tired"]], [9, "What does the person on the right look like?", ["tie", "himself", "big", "shirt and tie", "nothing"]], [10, "How does the person on the right feel like?", ["tired", "bored", "confused", "good", "sad"]], [11, "What are they doing?", ["talking", "tying tie", "playing game", "standing", "working"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "3",
+                "4",
+                "2"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "home",
+                "inside",
+                "garage",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "no",
+                "cool",
+                "calm",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "shirt and tie",
+                "big",
+                "man",
+                "suit",
+                "tie"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "tired",
+                "bored",
+                "calm",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "pointing",
+                "playing game",
+                "standing",
+                "tying tie"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "man",
+                "tie",
+                "big",
+                "himself"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "yes",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "tie",
+                "himself",
+                "big",
+                "shirt and tie",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "bored",
+                "confused",
+                "good",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "tying tie",
+                "playing game",
+                "standing",
+                "working"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and no. one person is in the house. the person looks like shirt and tie or home and feels like sad and tired. the person is talking or pointing. "
+}

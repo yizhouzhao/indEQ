@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "yes", "standing"]], [2, "Where is this place?", ["living room", "home", "office", "library", "inside"]], [3, "How is the environment feeling?", ["dark", "happy", "cool", "good", "calm"]], [4, "What does the person look like?", ["man", "selfie", "face", "messy", "casual"]], [5, "How does the person feel like?", ["happy", "good", "cool", "yes", "confused"]], [6, "What is the person doing?", ["playing wii", "playing game", "playing video game", "wii", "playing"]], [7, "What does the person on the left look like?", ["man", "nothing", "face", "person", "glasses"]], [8, "How does the person on the left feel like?", ["good", "happy", "confused", "sad", "unknown"]], [9, "What does the person on the right look like?", ["himself", "nothing", "man", "face", "beard"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "bored", "tired"]], [11, "What are they doing?", ["playing wii", "playing", "playing video game", "playing game", "wii"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "yes",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "office",
+                "library",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "happy",
+                "cool",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "selfie",
+                "face",
+                "messy",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "yes",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "playing wii",
+                "playing game",
+                "playing video game",
+                "wii",
+                "playing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "nothing",
+                "face",
+                "person",
+                "glasses"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "confused",
+                "sad",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "nothing",
+                "man",
+                "face",
+                "beard"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "playing",
+                "playing video game",
+                "playing game",
+                "wii"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and happy. one person is in the living room. the person looks like man or home and feels like happy and good. the person is playing wii or playing game. "
+}

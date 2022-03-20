@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "3", "0"]], [2, "Where is this place?", ["office", "bedroom", "home", "living room", "room"]], [3, "How is the environment feeling?", ["dark", "no", "warm", "calm", "happy"]], [4, "What does the person look like?", ["happy", "sad", "smiling", "smile", "surprise"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "bad"]], [6, "What is the person doing?", ["sitting", "typing", "using laptop", "smiling", "working"]], [7, "What does the person on the left look like?", ["face", "smile", "mouse", "himself", "no man"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "bored", "confused"]], [9, "What does the person on the right look like?", ["smile", "himself", "no man", "happy", "smiling"]], [10, "How does the person on the right feel like?", ["happy", "bored", "good", "sad", "tired"]], [11, "What are they doing?", ["watching", "working", "sitting", "using laptop", "looking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "bedroom",
+                "home",
+                "living room",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "no",
+                "warm",
+                "calm",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "happy",
+                "sad",
+                "smiling",
+                "smile",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "typing",
+                "using laptop",
+                "smiling",
+                "working"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "smile",
+                "mouse",
+                "himself",
+                "no man"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "himself",
+                "no man",
+                "happy",
+                "smiling"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "watching",
+                "working",
+                "sitting",
+                "using laptop",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and no. two people are in the office. the person on the left looks like face or smile and feels like happy and sad. the person on the right looks like smile or himself and feels like happy and bored. they are watching or working. "
+}

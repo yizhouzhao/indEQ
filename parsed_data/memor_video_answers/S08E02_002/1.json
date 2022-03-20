@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "0", "no"]], [2, "Where is this place?", ["restaurant", "store", "kitchen", "inside", "mall"]], [3, "How is the environment feeling?", ["warm", "happy", "good", "clear", "yes"]], [4, "What does the person look like?", ["female", "person", "family", "woman", "smiling"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "good", "confused"]], [6, "What is the person doing?", ["talking", "listening to music", "standing", "watching", "cutting hair"]], [7, "What does the person on the left look like?", ["animal", "face", "abstract", "soldier", "rabbit"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "warm", "bored"]], [9, "What does the person on the right look like?", ["flowers", "smile", "rabbit", "soldier", "statue"]], [10, "How does the person on the right feel like?", ["sad", "bored", "happy", "good", "confused"]], [11, "What are they doing?", ["talking", "working", "standing", "listening to music", "cooking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "store",
+                "kitchen",
+                "inside",
+                "mall"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "good",
+                "clear",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "person",
+                "family",
+                "woman",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "good",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "listening to music",
+                "standing",
+                "watching",
+                "cutting hair"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "animal",
+                "face",
+                "abstract",
+                "soldier",
+                "rabbit"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "warm",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "flowers",
+                "smile",
+                "rabbit",
+                "soldier",
+                "statue"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "good",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "working",
+                "standing",
+                "listening to music",
+                "cooking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the restaurant. the person on the left looks like animal or face and feels like sad and happy. the person on the right looks like flowers or smile and feels like sad and bored. they are talking or working. "
+}

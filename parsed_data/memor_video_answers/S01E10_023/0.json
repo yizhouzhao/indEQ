@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "standing"]], [2, "Where is this place?", ["living room", "house", "home", "apartment", "inside"]], [3, "How is the environment feeling?", ["warm", "happy", "good", "sunny", "dark"]], [4, "What does the person look like?", ["woman", "female", "butterfly", "costume", "herself"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "tired"]], [6, "What is the person doing?", ["standing", "talking", "sitting", "looking", "hair"]], [7, "What does the person on the left look like?", ["man", "herself", "person", "woman", "butterfly"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "love", "warm"]], [9, "What does the person on the right look like?", ["costume", "herself", "woman", "person", "santa"]], [10, "How does the person on the right feel like?", ["happy", "sad", "good", "bored", "tired"]], [11, "What are they doing?", ["talking", "standing", "dancing", "playing", "drinking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "apartment",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "good",
+                "sunny",
+                "dark"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "female",
+                "butterfly",
+                "costume",
+                "herself"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "talking",
+                "sitting",
+                "looking",
+                "hair"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "herself",
+                "person",
+                "woman",
+                "butterfly"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "love",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "costume",
+                "herself",
+                "woman",
+                "person",
+                "santa"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "dancing",
+                "playing",
+                "drinking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the living room. the person on the left looks like man or herself and feels like happy and good. the person on the right looks like costume or herself and feels like happy and sad. they are talking or standing. "
+}

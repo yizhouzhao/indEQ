@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "4"]], [2, "Where is this place?", ["kitchen", "office", "restaurant", "school", "inside"]], [3, "How is the environment feeling?", ["cool", "dark", "warm", "no", "cold"]], [4, "What does the person look like?", ["selfie", "surprise", "casual", "pirate", "family"]], [5, "How does the person feel like?", ["bored", "good", "sad", "happy", "confused"]], [6, "What is the person doing?", ["talking", "singing", "playing", "haircut", "dancing"]], [7, "What does the person on the left look like?", ["surprise", "eyes", "face", "ghost", "person"]], [8, "How does the person on the left feel like?", ["sad", "confused", "good", "bored", "happy"]], [9, "What does the person on the right look like?", ["surprise", "selfie", "face", "pirate", "ghost"]], [10, "How does the person on the right feel like?", ["sad", "bored", "confused", "happy", "good"]], [11, "What are they doing?", ["talking", "haircut", "singing", "dancing", "crafts"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "office",
+                "restaurant",
+                "school",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "warm",
+                "no",
+                "cold"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "surprise",
+                "casual",
+                "pirate",
+                "family"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "good",
+                "sad",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "singing",
+                "playing",
+                "haircut",
+                "dancing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "surprise",
+                "eyes",
+                "face",
+                "ghost",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "confused",
+                "good",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "surprise",
+                "selfie",
+                "face",
+                "pirate",
+                "ghost"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "happy",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "haircut",
+                "singing",
+                "dancing",
+                "crafts"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the kitchen. the person on the left looks like surprise or eyes and feels like sad and confused. the person on the right looks like surprise or selfie and feels like sad and bored. they are talking or haircut. "
+}

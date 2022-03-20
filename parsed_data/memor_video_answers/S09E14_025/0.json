@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["0", "1", "no", "3", "9"]], [2, "Where is this place?", ["japan", "bathroom", "hawaii", "outside", "ocean"]], [3, "How is the environment feeling?", ["sunny", "good", "calm", "fair", "poor"]], [4, "What does the person look like?", ["blurry", "nothing", "bad", "smile", "balloon"]], [5, "How does the person feel like?", ["sad", "happy", "good", "tired", "bad"]], [6, "What is the person doing?", ["standing", "playing tennis", "looking", "batting", "tennis"]], [7, "What does the person on the left look like?", ["person", "face", "smile", "smiley face", "circle"]], [8, "How does the person on the left feel like?", ["sad", "bad", "happy", "good", "bored"]], [9, "What does the person on the right look like?", ["smile", "nothing", "smiley face", "face", "circle"]], [10, "How does the person on the right feel like?", ["sad", "happy", "bad", "bored", "tired"]], [11, "What are they doing?", ["standing", "watching", "singing", "tennis", "nothing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "0",
+                "1",
+                "no",
+                "3",
+                "9"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "japan",
+                "bathroom",
+                "hawaii",
+                "outside",
+                "ocean"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "sunny",
+                "good",
+                "calm",
+                "fair",
+                "poor"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "blurry",
+                "nothing",
+                "bad",
+                "smile",
+                "balloon"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "tired",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "playing tennis",
+                "looking",
+                "batting",
+                "tennis"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "face",
+                "smile",
+                "smiley face",
+                "circle"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bad",
+                "happy",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "nothing",
+                "smiley face",
+                "face",
+                "circle"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "bad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "watching",
+                "singing",
+                "tennis",
+                "nothing"
+            ]
+        ]
+    ],
+    "description": "the environment feels sunny and good. nobody is in the japan. "
+}

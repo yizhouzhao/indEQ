@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "1"]], [2, "Where is this place?", ["school", "gym", "classroom", "store", "hospital"]], [3, "How is the environment feeling?", ["cool", "good", "fair", "warm", "clear"]], [4, "What does the person look like?", ["man", "male", "men", "professional", "business"]], [5, "How does the person feel like?", ["bored", "sad", "good", "confused", "happy"]], [6, "What is the person doing?", ["talking", "standing", "looking", "shaking hands", "working"]], [7, "What does the person on the left look like?", ["man", "person", "robot", "ghost", "hand"]], [8, "How does the person on the left feel like?", ["sad", "good", "bored", "confused", "tired"]], [9, "What does the person on the right look like?", ["man", "robot", "ghost", "gun", "himself"]], [10, "How does the person on the right feel like?", ["confused", "bored", "sad", "tired", "good"]], [11, "What are they doing?", ["talking", "standing", "shaking hands", "working", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "school",
+                "gym",
+                "classroom",
+                "store",
+                "hospital"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "good",
+                "fair",
+                "warm",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "male",
+                "men",
+                "professional",
+                "business"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "good",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "standing",
+                "looking",
+                "shaking hands",
+                "working"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "robot",
+                "ghost",
+                "hand"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "confused",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "robot",
+                "ghost",
+                "gun",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "bored",
+                "sad",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "shaking hands",
+                "working",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and good. two people are in the school. the person on the left looks like man or person and feels like sad and good. the person on the right looks like man or robot and feels like confused and bored. they are talking or standing. "
+}

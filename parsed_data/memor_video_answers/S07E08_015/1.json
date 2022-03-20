@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "0", "4", "no"]], [2, "Where is this place?", ["school", "can't tell", "hospital", "indoors", "office"]], [3, "How is the environment feeling?", ["calm", "dark", "happy", "clear", "cool"]], [4, "What does the person look like?", ["selfie", "casual", "family", "surprise", "smiling"]], [5, "How does the person feel like?", ["good", "bored", "sad", "happy", "confused"]], [6, "What is the person doing?", ["texting", "looking at phone", "standing", "phone", "sitting"]], [7, "What does the person on the left look like?", ["face", "smile", "person", "eyes", "human"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "yes", "confused"]], [9, "What does the person on the right look like?", ["smile", "surprise", "tie", "smiling", "selfie"]], [10, "How does the person on the right feel like?", ["happy", "good", "bored", "sad", "confused"]], [11, "What are they doing?", ["texting", "looking at phone", "taking pictures", "phones", "playing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "0",
+                "4",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "school",
+                "can't tell",
+                "hospital",
+                "indoors",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "dark",
+                "happy",
+                "clear",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "casual",
+                "family",
+                "surprise",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "bored",
+                "sad",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "looking at phone",
+                "standing",
+                "phone",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "smile",
+                "person",
+                "eyes",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "surprise",
+                "tie",
+                "smiling",
+                "selfie"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "texting",
+                "looking at phone",
+                "taking pictures",
+                "phones",
+                "playing"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and dark. two people are in the school. the person on the left looks like face or smile and feels like happy and good. the person on the right looks like smile or surprise and feels like happy and good. they are texting or looking at phone. "
+}

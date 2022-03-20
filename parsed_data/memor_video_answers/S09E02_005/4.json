@@ -1,1 +1,127 @@
-{"img_name": "4.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "yes", "4"]], [2, "Where is this place?", ["office", "restaurant", "school", "inside", "indoors"]], [3, "How is the environment feeling?", ["warm", "dark", "good", "cool", "messy"]], [4, "What does the person look like?", ["man", "surprise", "casual", "happy", "male"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "confused"]], [6, "What is the person doing?", ["sitting", "using computer", "working", "typing", "texting"]], [7, "What does the person on the left look like?", ["man", "person", "beard", "human", "hat"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "yes", "bored"]], [9, "What does the person on the right look like?", ["man", "beard", "himself", "surprise", "person"]], [10, "How does the person on the right feel like?", ["good", "happy", "sad", "bored", "confused"]], [11, "What are they doing?", ["working", "playing", "sitting", "using computer", "reading"]]]}
+{
+    "img_name": "4.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "yes",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "restaurant",
+                "school",
+                "inside",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "good",
+                "cool",
+                "messy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "surprise",
+                "casual",
+                "happy",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "using computer",
+                "working",
+                "typing",
+                "texting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "beard",
+                "human",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "beard",
+                "himself",
+                "surprise",
+                "person"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "playing",
+                "sitting",
+                "using computer",
+                "reading"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the office. the person on the left looks like man or person and feels like happy and good. the person on the right looks like man or beard and feels like good and happy. they are working or playing. "
+}

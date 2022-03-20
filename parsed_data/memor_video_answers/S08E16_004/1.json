@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "0", "1", "no"]], [2, "Where is this place?", ["school", "can't tell", "inside", "indoors", "japan"]], [3, "How is the environment feeling?", ["happy", "fair", "calm", "good", "cool"]], [4, "What does the person look like?", ["female", "woman", "sad", "teacher", "nothing"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "tired"]], [6, "What is the person doing?", ["working", "using computer", "using laptop", "on laptop", "listening to music"]], [7, "What does the person on the left look like?", ["face", "nothing", "smile", "person", "human"]], [8, "How does the person on the left feel like?", ["sad", "good", "bored", "confused", "happy"]], [9, "What does the person on the right look like?", ["smile", "face", "nothing", "confused", "smiley face"]], [10, "How does the person on the right feel like?", ["sad", "bored", "confused", "good", "tired"]], [11, "What are they doing?", ["working", "talking", "reading", "learning", "listening to music"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "0",
+                "1",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "school",
+                "can't tell",
+                "inside",
+                "indoors",
+                "japan"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "fair",
+                "calm",
+                "good",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "sad",
+                "teacher",
+                "nothing"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "working",
+                "using computer",
+                "using laptop",
+                "on laptop",
+                "listening to music"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "nothing",
+                "smile",
+                "person",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "nothing",
+                "confused",
+                "smiley face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "talking",
+                "reading",
+                "learning",
+                "listening to music"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and fair. two people are in the school. the person on the left looks like face or nothing and feels like sad and good. the person on the right looks like smile or face and feels like sad and bored. they are working or talking. "
+}

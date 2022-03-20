@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "3"]], [2, "Where is this place?", ["store", "kitchen", "bedroom", "indoors", "living room"]], [3, "How is the environment feeling?", ["no", "dark", "happy", "cool", "good"]], [4, "What does the person look like?", ["dog", "happy", "animal", "woman", "nothing"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "bad"]], [6, "What is the person doing?", ["smiling", "sitting", "playing", "looking", "looking at camera"]], [7, "What does the person on the left look like?", ["dog", "puppy", "animal", "nothing", "no cat"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "soft", "unknown"]], [9, "What does the person on the right look like?", ["dog", "animal", "cat", "don't know", "puppy"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "unknown", "hungry"]], [11, "What are they doing?", ["playing", "looking", "watching tv", "watching", "sitting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "store",
+                "kitchen",
+                "bedroom",
+                "indoors",
+                "living room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "dark",
+                "happy",
+                "cool",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "dog",
+                "happy",
+                "animal",
+                "woman",
+                "nothing"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "sitting",
+                "playing",
+                "looking",
+                "looking at camera"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "puppy",
+                "animal",
+                "nothing",
+                "no cat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "soft",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "animal",
+                "cat",
+                "don't know",
+                "puppy"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "unknown",
+                "hungry"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing",
+                "looking",
+                "watching tv",
+                "watching",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and dark. two people are in the store. the person on the left looks like dog or puppy and feels like happy and good. the person on the right looks like dog or animal and feels like happy and good. they are playing or looking. "
+}

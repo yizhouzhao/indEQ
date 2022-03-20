@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "0"]], [2, "Where is this place?", ["kitchen", "house", "living room", "apartment", "home"]], [3, "How is the environment feeling?", ["warm", "dark", "happy", "calm", "good"]], [4, "What does the person look like?", ["man", "casual", "selfie", "messy", "happy"]], [5, "How does the person feel like?", ["sad", "happy", "bored", "tired", "calm"]], [6, "What is the person doing?", ["sitting", "standing", "talking", "talking on phone", "laughing"]], [7, "What does the person on the left look like?", ["man", "nothing", "giraffe", "person", "color"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "bored", "tired"]], [9, "What does the person on the right look like?", ["man", "nothing", "giraffe", "color", "himself"]], [10, "How does the person on the right feel like?", ["sad", "bored", "happy", "tired", "good"]], [11, "What are they doing?", ["cooking", "eating", "standing", "talking", "watching tv"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "living room",
+                "apartment",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "happy",
+                "calm",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "casual",
+                "selfie",
+                "messy",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "tired",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "standing",
+                "talking",
+                "talking on phone",
+                "laughing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "nothing",
+                "giraffe",
+                "person",
+                "color"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "nothing",
+                "giraffe",
+                "color",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "cooking",
+                "eating",
+                "standing",
+                "talking",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the kitchen. the person on the left looks like man or nothing and feels like sad and happy. the person on the right looks like man or nothing and feels like sad and bored. they are cooking or eating. "
+}

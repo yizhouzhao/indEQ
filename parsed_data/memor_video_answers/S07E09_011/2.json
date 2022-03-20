@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "yes", "1"]], [2, "Where is this place?", ["car", "in car", "on road", "california", "outside"]], [3, "How is the environment feeling?", ["no", "calm", "poor", "bad", "rainy"]], [4, "What does the person look like?", ["selfie", "happy", "old", "sad", "woman"]], [5, "How does the person feel like?", ["sad", "happy", "bored", "good", "tired"]], [6, "What is the person doing?", ["driving", "texting", "sitting", "talking on phone", "reading"]], [7, "What does the person on the left look like?", ["smile", "glasses", "mirror", "person", "selfie"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "yes", "tired"]], [9, "What does the person on the right look like?", ["selfie", "smile", "glasses", "happy", "himself"]], [10, "How does the person on the right feel like?", ["sad", "happy", "tired", "bored", "good"]], [11, "What are they doing?", ["driving", "texting", "riding", "sitting", "looking at phone"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "yes",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "on road",
+                "california",
+                "outside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "calm",
+                "poor",
+                "bad",
+                "rainy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "happy",
+                "old",
+                "sad",
+                "woman"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "texting",
+                "sitting",
+                "talking on phone",
+                "reading"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "glasses",
+                "mirror",
+                "person",
+                "selfie"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "yes",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "smile",
+                "glasses",
+                "happy",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "driving",
+                "texting",
+                "riding",
+                "sitting",
+                "looking at phone"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and calm. two people are in the car. the person on the left looks like smile or glasses and feels like sad and happy. the person on the right looks like selfie or smile and feels like sad and happy. they are driving or texting. "
+}

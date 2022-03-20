@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "0", "4"]], [2, "Where is this place?", ["living room", "apartment", "inside", "house", "restaurant"]], [3, "How is the environment feeling?", ["dirty", "cool", "messy", "warm", "fair"]], [4, "What does the person look like?", ["man", "big", "sheet", "balloon", "hospital"]], [5, "How does the person feel like?", ["tired", "happy", "good", "sad", "cold"]], [6, "What is the person doing?", ["looking", "standing", "pointing", "waiting", "watching"]], [7, "What does the person on the left look like?", ["ghost", "man", "person", "suit", "machine"]], [8, "How does the person on the left feel like?", ["tired", "happy", "sad", "soft", "comfort"]], [9, "What does the person on the right look like?", ["ghost", "person", "cartoon", "man", "nothing"]], [10, "How does the person on the right feel like?", ["tired", "happy", "good", "sad", "bored"]], [11, "What are they doing?", ["playing wii", "playing game", "standing", "waiting", "cleaning"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "apartment",
+                "inside",
+                "house",
+                "restaurant"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dirty",
+                "cool",
+                "messy",
+                "warm",
+                "fair"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "big",
+                "sheet",
+                "balloon",
+                "hospital"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "tired",
+                "happy",
+                "good",
+                "sad",
+                "cold"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "looking",
+                "standing",
+                "pointing",
+                "waiting",
+                "watching"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ghost",
+                "man",
+                "person",
+                "suit",
+                "machine"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "tired",
+                "happy",
+                "sad",
+                "soft",
+                "comfort"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "ghost",
+                "person",
+                "cartoon",
+                "man",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "happy",
+                "good",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "playing game",
+                "standing",
+                "waiting",
+                "cleaning"
+            ]
+        ]
+    ],
+    "description": "the environment feels dirty and cool. two people are in the living room. the person on the left looks like ghost or man and feels like tired and happy. the person on the right looks like ghost or person and feels like tired and happy. they are playing wii or playing game. "
+}

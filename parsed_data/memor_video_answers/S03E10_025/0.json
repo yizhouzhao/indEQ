@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "yes", "0"]], [2, "Where is this place?", ["living room", "house", "home", "inside", "hotel"]], [3, "How is the environment feeling?", ["dark", "warm", "happy", "good", "calm"]], [4, "What does the person look like?", ["child", "cartoon", "baby", "kid", "casual"]], [5, "How does the person feel like?", ["bored", "sad", "happy", "good", "tired"]], [6, "What is the person doing?", ["looking at phone", "texting", "taking picture", "sitting", "looking"]], [7, "What does the person on the left look like?", ["cartoon", "giraffe", "no", "butterfly", "cat"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "yes", "tired"]], [9, "What does the person on the right look like?", ["cartoon", "yes", "child", "cat", "giraffe"]], [10, "How does the person on the right feel like?", ["sad", "bored", "happy", "confused", "good"]], [11, "What are they doing?", ["texting", "taking pictures", "looking at phone", "taking picture", "sitting"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "inside",
+                "hotel"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "happy",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "child",
+                "cartoon",
+                "baby",
+                "kid",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "happy",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "looking at phone",
+                "texting",
+                "taking picture",
+                "sitting",
+                "looking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "cartoon",
+                "giraffe",
+                "no",
+                "butterfly",
+                "cat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "yes",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cartoon",
+                "yes",
+                "child",
+                "cat",
+                "giraffe"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "confused",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "texting",
+                "taking pictures",
+                "looking at phone",
+                "taking picture",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like cartoon or giraffe and feels like happy and sad. the person on the right looks like cartoon or yes and feels like sad and bored. they are texting or taking pictures. "
+}

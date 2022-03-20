@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "no"]], [2, "Where is this place?", ["home", "house", "inside", "indoors", "bedroom"]], [3, "How is the environment feeling?", ["happy", "cool", "calm", "warm", "cold"]], [4, "What does the person look like?", ["suit", "costume", "tie", "dress", "white"]], [5, "How does the person feel like?", ["good", "happy", "sad", "confused", "calm"]], [6, "What is the person doing?", ["tying tie", "looking", "smiling", "talking", "standing"]], [7, "What does the person on the left look like?", ["bear", "butterfly", "animal", "suit", "don't know"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "cold", "love"]], [9, "What does the person on the right look like?", ["butterfly", "don't know", "tie", "smile", "dress"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "confused", "calm"]], [11, "What are they doing?", ["tying tie", "talking", "looking", "hugging", "posing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "house",
+                "inside",
+                "indoors",
+                "bedroom"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "cool",
+                "calm",
+                "warm",
+                "cold"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "suit",
+                "costume",
+                "tie",
+                "dress",
+                "white"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "confused",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "tying tie",
+                "looking",
+                "smiling",
+                "talking",
+                "standing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "bear",
+                "butterfly",
+                "animal",
+                "suit",
+                "don't know"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "cold",
+                "love"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "butterfly",
+                "don't know",
+                "tie",
+                "smile",
+                "dress"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "confused",
+                "calm"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "tying tie",
+                "talking",
+                "looking",
+                "hugging",
+                "posing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and cool. two people are in the home. the person on the left looks like bear or butterfly and feels like happy and sad. the person on the right looks like butterfly or don't know and feels like happy and good. they are tying tie or talking. "
+}

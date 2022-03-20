@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "0"]], [2, "Where is this place?", ["restaurant", "indoors", "home", "inside", "church"]], [3, "How is the environment feeling?", ["warm", "clear", "cool", "dark", "happy"]], [4, "What does the person look like?", ["man", "surprise", "business", "male", "face"]], [5, "How does the person feel like?", ["happy", "bored", "good", "sad", "confused"]], [6, "What is the person doing?", ["eating", "drinking", "posing", "standing", "smiling"]], [7, "What does the person on the left look like?", ["person", "man", "human", "face", "cup"]], [8, "How does the person on the left feel like?", ["happy", "confused", "sad", "hungry", "good"]], [9, "What does the person on the right look like?", ["person", "human", "smile", "surprise", "face"]], [10, "How does the person on the right feel like?", ["confused", "happy", "bored", "sad", "hungry"]], [11, "What are they doing?", ["eating", "drinking", "talking", "standing", "sitting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "indoors",
+                "home",
+                "inside",
+                "church"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "clear",
+                "cool",
+                "dark",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "surprise",
+                "business",
+                "male",
+                "face"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "eating",
+                "drinking",
+                "posing",
+                "standing",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "man",
+                "human",
+                "face",
+                "cup"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "confused",
+                "sad",
+                "hungry",
+                "good"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "person",
+                "human",
+                "smile",
+                "surprise",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "happy",
+                "bored",
+                "sad",
+                "hungry"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "eating",
+                "drinking",
+                "talking",
+                "standing",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and clear. two people are in the restaurant. the person on the left looks like person or man and feels like happy and confused. the person on the right looks like person or human and feels like confused and happy. they are eating or drinking. "
+}

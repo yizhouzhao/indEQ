@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "0", "3", "no", "2"]], [2, "Where is this place?", ["outside", "ground", "outdoors", "china", "not sure"]], [3, "How is the environment feeling?", ["clear", "warm", "good", "sunny", "don't know"]], [4, "What does the person look like?", ["cartoon", "monkey", "bunny", "duck", "mouse"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "warm"]], [6, "What is the person doing?", ["cutting hair", "playing", "singing", "cutting", "brushing"]], [7, "What does the person on the left look like?", ["monkey", "cartoon", "bunny", "cat", "face"]], [8, "How does the person on the left feel like?", ["good", "yes", "warm", "happy", "soft"]], [9, "What does the person on the right look like?", ["cat", "monkey", "bunny", "cartoon", "face"]], [10, "How does the person on the right feel like?", ["happy", "sad", "good", "bored", "calm"]], [11, "What are they doing?", ["singing", "flying kites", "playing", "flying", "sitting"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "0",
+                "3",
+                "no",
+                "2"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "ground",
+                "outdoors",
+                "china",
+                "not sure"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "clear",
+                "warm",
+                "good",
+                "sunny",
+                "don't know"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "cartoon",
+                "monkey",
+                "bunny",
+                "duck",
+                "mouse"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "cutting hair",
+                "playing",
+                "singing",
+                "cutting",
+                "brushing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "monkey",
+                "cartoon",
+                "bunny",
+                "cat",
+                "face"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "yes",
+                "warm",
+                "happy",
+                "soft"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cat",
+                "monkey",
+                "bunny",
+                "cartoon",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "singing",
+                "flying kites",
+                "playing",
+                "flying",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels clear and warm. one person is in the outside. the person looks like cartoon or ground and feels like good and happy. the person is cutting hair or playing. "
+}

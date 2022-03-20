@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "yes", "0"]], [2, "Where is this place?", ["office", "work", "conference", "business", "indoors"]], [3, "How is the environment feeling?", ["cool", "dark", "no", "clear", "good"]], [4, "What does the person look like?", ["selfie", "man", "surprise", "glasses", "male"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "confused"]], [6, "What is the person doing?", ["sitting", "talking", "talking on phone", "using computer", "listening to music"]], [7, "What does the person on the left look like?", ["surprise", "face", "selfie", "smile", "hat"]], [8, "How does the person on the left feel like?", ["sad", "happy", "no", "bored", "tired"]], [9, "What does the person on the right look like?", ["surprise", "selfie", "himself", "smile", "hat"]], [10, "How does the person on the right feel like?", ["sad", "bored", "good", "tired", "confused"]], [11, "What are they doing?", ["talking", "sitting", "nothing", "looking", "listening to music"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "work",
+                "conference",
+                "business",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "no",
+                "clear",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "man",
+                "surprise",
+                "glasses",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "talking",
+                "talking on phone",
+                "using computer",
+                "listening to music"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "surprise",
+                "face",
+                "selfie",
+                "smile",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "no",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "surprise",
+                "selfie",
+                "himself",
+                "smile",
+                "hat"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "tired",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "nothing",
+                "looking",
+                "listening to music"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the office. the person on the left looks like surprise or face and feels like sad and happy. the person on the right looks like surprise or selfie and feels like sad and bored. they are talking or sitting. "
+}

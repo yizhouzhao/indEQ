@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "0", "yes", "1", "3"]], [2, "Where is this place?", ["house", "home", "living room", "kitchen", "inside"]], [3, "How is the environment feeling?", ["warm", "happy", "good", "dark", "cool"]], [4, "What does the person look like?", ["sad", "female", "woman", "smile", "flowers"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "tired"]], [6, "What is the person doing?", ["smiling", "talking", "standing", "sitting", "nothing"]], [7, "What does the person on the left look like?", ["nothing", "smile", "butterfly", "herself", "hand"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "bored", "tired"]], [9, "What does the person on the right look like?", ["smile", "herself", "butterfly", "nothing", "cat"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "bored", "tired"]], [11, "What are they doing?", ["talking", "smiling", "dancing", "sitting", "standing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "0",
+                "yes",
+                "1",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "home",
+                "living room",
+                "kitchen",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "good",
+                "dark",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "sad",
+                "female",
+                "woman",
+                "smile",
+                "flowers"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "talking",
+                "standing",
+                "sitting",
+                "nothing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "smile",
+                "butterfly",
+                "herself",
+                "hand"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "herself",
+                "butterfly",
+                "nothing",
+                "cat"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "smiling",
+                "dancing",
+                "sitting",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the house. the person on the left looks like nothing or smile and feels like good and happy. the person on the right looks like smile or herself and feels like happy and good. they are talking or smiling. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["3", "2", "4", "5", "1"]], [2, "Where is this place?", ["outside", "motorcycle", "inside", "garage", "party"]], [3, "How is the environment feeling?", ["warm", "clear", "poor", "fair", "calm"]], [4, "What does the person look like?", ["pirate", "goggles", "person", "biker", "man"]], [5, "How does the person feel like?", ["bored", "sad", "happy", "tired", "good"]], [6, "What is the person doing?", ["smiling", "standing", "posing", "riding", "riding motorcycle"]], [7, "What does the person on the left look like?", ["person", "skull", "pirate", "dog", "robot"]], [8, "How does the person on the left feel like?", ["sad", "good", "bored", "happy", "unknown"]], [9, "What does the person on the right look like?", ["person", "pirate", "mask", "no", "dog"]], [10, "How does the person on the right feel like?", ["sad", "bored", "tired", "good", "happy"]], [11, "What are they doing?", ["riding", "standing", "talking", "watching", "riding motorcycle"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "3",
+                "2",
+                "4",
+                "5",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "motorcycle",
+                "inside",
+                "garage",
+                "party"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "clear",
+                "poor",
+                "fair",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "pirate",
+                "goggles",
+                "person",
+                "biker",
+                "man"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "standing",
+                "posing",
+                "riding",
+                "riding motorcycle"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "skull",
+                "pirate",
+                "dog",
+                "robot"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "person",
+                "pirate",
+                "mask",
+                "no",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "riding",
+                "standing",
+                "talking",
+                "watching",
+                "riding motorcycle"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and clear. a group of people are in the outside. they are riding or standing. "
+}

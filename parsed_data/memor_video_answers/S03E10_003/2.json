@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "3", "0"]], [2, "Where is this place?", ["living room", "restaurant", "home", "house", "indoors"]], [3, "How is the environment feeling?", ["dark", "happy", "warm", "calm", "cool"]], [4, "What does the person look like?", ["red", "face", "surprise", "baseball", "happy"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "good", "tired"]], [6, "What is the person doing?", ["smiling", "posing", "standing", "waiting", "looking at camera"]], [7, "What does the person on the left look like?", ["dog", "face", "smile", "smiley face", "surprise"]], [8, "How does the person on the left feel like?", ["sad", "happy", "confused", "good", "bored"]], [9, "What does the person on the right look like?", ["smile", "surprise", "pirate", "face", "dog"]], [10, "How does the person on the right feel like?", ["confused", "bored", "sad", "tired", "happy"]], [11, "What are they doing?", ["posing", "standing", "sitting", "smiling", "eating"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "restaurant",
+                "home",
+                "house",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "happy",
+                "warm",
+                "calm",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "red",
+                "face",
+                "surprise",
+                "baseball",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "posing",
+                "standing",
+                "waiting",
+                "looking at camera"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "face",
+                "smile",
+                "smiley face",
+                "surprise"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "surprise",
+                "pirate",
+                "face",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "bored",
+                "sad",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "posing",
+                "standing",
+                "sitting",
+                "smiling",
+                "eating"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and happy. two people are in the living room. the person on the left looks like dog or face and feels like sad and happy. the person on the right looks like smile or surprise and feels like confused and bored. they are posing or standing. "
+}

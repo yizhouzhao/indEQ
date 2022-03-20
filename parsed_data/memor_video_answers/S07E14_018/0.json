@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "yes", "10"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "room"]], [3, "How is the environment feeling?", ["happy", "good", "cool", "warm", "calm"]], [4, "What does the person look like?", ["business", "casual", "student", "man", "professional"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "calm"]], [6, "What is the person doing?", ["texting", "sitting", "looking at phone", "on phone", "playing game"]], [7, "What does the person on the left look like?", ["man", "himself", "surprised", "smile", "nothing"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "confused", "tired"]], [9, "What does the person on the right look like?", ["himself", "happy", "smile", "surprise", "serious"]], [10, "How does the person on the right feel like?", ["happy", "sad", "good", "bored", "confused"]], [11, "What are they doing?", ["texting", "playing", "looking at phone", "sitting", "playing game"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "yes",
+                "10"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "warm",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "business",
+                "casual",
+                "student",
+                "man",
+                "professional"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "sitting",
+                "looking at phone",
+                "on phone",
+                "playing game"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "himself",
+                "surprised",
+                "smile",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "confused",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "happy",
+                "smile",
+                "surprise",
+                "serious"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "texting",
+                "playing",
+                "looking at phone",
+                "sitting",
+                "playing game"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and good. one person is in the living room. the person looks like business or home and feels like happy and good. the person is texting or sitting. "
+}

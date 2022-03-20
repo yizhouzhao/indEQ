@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["1", "2", "0", "no", "3"]], [2, "Where is this place?", ["hospital", "bus", "unknown", "school", "unsure"]], [3, "How is the environment feeling?", ["cool", "poor", "cloudy", "no", "warm"]], [4, "What does the person look like?", ["mirror", "selfie", "woman", "person", "face"]], [5, "How does the person feel like?", ["happy", "sad", "good", "tired", "bored"]], [6, "What is the person doing?", ["sitting", "posing", "smiling", "riding", "painting"]], [7, "What does the person on the left look like?", ["mirror", "face", "car", "person", "woman"]], [8, "How does the person on the left feel like?", ["sad", "happy", "tired", "confused", "bored"]], [9, "What does the person on the right look like?", ["mirror", "pirate", "person", "face", "glasses"]], [10, "How does the person on the right feel like?", ["sad", "happy", "good", "tired", "bored"]], [11, "What are they doing?", ["posing", "sitting", "taking pictures", "singing", "talking"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "0",
+                "no",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "hospital",
+                "bus",
+                "unknown",
+                "school",
+                "unsure"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "poor",
+                "cloudy",
+                "no",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "mirror",
+                "selfie",
+                "woman",
+                "person",
+                "face"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "posing",
+                "smiling",
+                "riding",
+                "painting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "mirror",
+                "face",
+                "car",
+                "person",
+                "woman"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "mirror",
+                "pirate",
+                "person",
+                "face",
+                "glasses"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "posing",
+                "sitting",
+                "taking pictures",
+                "singing",
+                "talking"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and poor. one person is in the hospital. the person looks like mirror or bus and feels like happy and sad. the person is sitting or posing. "
+}

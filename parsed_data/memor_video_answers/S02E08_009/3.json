@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "standing", "0"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "apartment"]], [3, "How is the environment feeling?", ["happy", "dark", "warm", "dim", "good"]], [4, "What does the person look like?", ["man", "male", "red", "serious", "happy"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "tired", "good"]], [6, "What is the person doing?", ["sitting", "smiling", "posing", "waiting", "watching"]], [7, "What does the person on the left look like?", ["man", "mouse", "nothing", "dog", "person"]], [8, "How does the person on the left feel like?", ["happy", "good", "tired", "sad", "bored"]], [9, "What does the person on the right look like?", ["man", "i don't know", "hat", "nothing", "ghost"]], [10, "How does the person on the right feel like?", ["tired", "bored", "sad", "happy", "good"]], [11, "What are they doing?", ["sitting", "watching tv", "watching", "playing wii", "talking"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "standing",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "dark",
+                "warm",
+                "dim",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "male",
+                "red",
+                "serious",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "smiling",
+                "posing",
+                "waiting",
+                "watching"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "mouse",
+                "nothing",
+                "dog",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "tired",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "i don't know",
+                "hat",
+                "nothing",
+                "ghost"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "bored",
+                "sad",
+                "happy",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "watching tv",
+                "watching",
+                "playing wii",
+                "talking"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and dark. two people are in the living room. the person on the left looks like man or mouse and feels like happy and good. the person on the right looks like man or i don't know and feels like tired and bored. they are sitting or watching tv. "
+}

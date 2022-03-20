@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "0", "yes", "4"]], [2, "Where is this place?", ["kitchen", "house", "home", "bedroom", "inside"]], [3, "How is the environment feeling?", ["warm", "dark", "happy", "good", "calm"]], [4, "What does the person look like?", ["man", "face", "surprise", "cartoon", "herself"]], [5, "How does the person feel like?", ["happy", "good", "tired", "bored", "sad"]], [6, "What is the person doing?", ["cooking", "watching tv", "eating", "playing video game", "gaming"]], [7, "What does the person on the left look like?", ["face", "dog", "mouse", "skull", "smiley face"]], [8, "How does the person on the left feel like?", ["happy", "sad", "bored", "good", "bad"]], [9, "What does the person on the right look like?", ["man", "smile", "mouse", "face", "pirate"]], [10, "How does the person on the right feel like?", ["happy", "bored", "sad", "good", "tired"]], [11, "What are they doing?", ["cooking", "playing", "watching tv", "eating", "playing video game"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "0",
+                "yes",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "bedroom",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "happy",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "face",
+                "surprise",
+                "cartoon",
+                "herself"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "tired",
+                "bored",
+                "sad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "cooking",
+                "watching tv",
+                "eating",
+                "playing video game",
+                "gaming"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "dog",
+                "mouse",
+                "skull",
+                "smiley face"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "bored",
+                "good",
+                "bad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "smile",
+                "mouse",
+                "face",
+                "pirate"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "sad",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "cooking",
+                "playing",
+                "watching tv",
+                "eating",
+                "playing video game"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the kitchen. the person on the left looks like face or dog and feels like happy and sad. the person on the right looks like man or smile and feels like happy and bored. they are cooking or playing. "
+}

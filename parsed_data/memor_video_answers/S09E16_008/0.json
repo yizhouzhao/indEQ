@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "yes"]], [2, "Where is this place?", ["living room", "house", "home", "apartment", "inside"]], [3, "How is the environment feeling?", ["messy", "good", "calm", "happy", "warm"]], [4, "What does the person look like?", ["man", "serious", "himself", "casual", "old"]], [5, "How does the person feel like?", ["bored", "sad", "happy", "good", "calm"]], [6, "What is the person doing?", ["sitting", "working", "talking", "using computer", "typing"]], [7, "What does the person on the left look like?", ["hat", "photographer", "himself", "fan", "glasses"]], [8, "How does the person on the left feel like?", ["sad", "bored", "good", "yes", "tired"]], [9, "What does the person on the right look like?", ["himself", "hat", "photographer", "nothing", "no man"]], [10, "How does the person on the right feel like?", ["bored", "sad", "tired", "good", "happy"]], [11, "What are they doing?", ["sitting", "working", "talking", "relaxing", "watching tv"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "apartment",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "messy",
+                "good",
+                "calm",
+                "happy",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "serious",
+                "himself",
+                "casual",
+                "old"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "happy",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "working",
+                "talking",
+                "using computer",
+                "typing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "hat",
+                "photographer",
+                "himself",
+                "fan",
+                "glasses"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "yes",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "hat",
+                "photographer",
+                "nothing",
+                "no man"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "tired",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "working",
+                "talking",
+                "relaxing",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels messy and good. two people are in the living room. the person on the left looks like hat or photographer and feels like sad and bored. the person on the right looks like himself or hat and feels like bored and sad. they are sitting or working. "
+}

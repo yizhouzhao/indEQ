@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "yes", "0"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "library"]], [3, "How is the environment feeling?", ["warm", "happy", "dark", "good", "calm"]], [4, "What does the person look like?", ["selfie", "surprise", "man", "serious", "angry"]], [5, "How does the person feel like?", ["happy", "bored", "good", "sad", "tired"]], [6, "What is the person doing?", ["photography", "taking picture", "taking photo", "taking pictures", "taking selfie"]], [7, "What does the person on the left look like?", ["robot", "dog", "himself", "man", "hat"]], [8, "How does the person on the left feel like?", ["yes", "happy", "good", "tired", "sad"]], [9, "What does the person on the right look like?", ["himself", "adult", "surprise", "angry", "selfie"]], [10, "How does the person on the right feel like?", ["tired", "bored", "happy", "sad", "good"]], [11, "What are they doing?", ["photography", "taking pictures", "pictures", "playing", "taking picture"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "library"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "dark",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "surprise",
+                "man",
+                "serious",
+                "angry"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "photography",
+                "taking picture",
+                "taking photo",
+                "taking pictures",
+                "taking selfie"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "robot",
+                "dog",
+                "himself",
+                "man",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "yes",
+                "happy",
+                "good",
+                "tired",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "adult",
+                "surprise",
+                "angry",
+                "selfie"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "bored",
+                "happy",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "photography",
+                "taking pictures",
+                "pictures",
+                "playing",
+                "taking picture"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. one person is in the living room. the person looks like selfie or home and feels like happy and bored. the person is photography or taking picture. "
+}

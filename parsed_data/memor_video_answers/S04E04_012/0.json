@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "4"]], [2, "Where is this place?", ["living room", "house", "inside", "indoors", "home"]], [3, "How is the environment feeling?", ["warm", "happy", "cool", "sunny", "good"]], [4, "What does the person look like?", ["casual", "happy", "selfie", "blurry", "male"]], [5, "How does the person feel like?", ["happy", "bored", "good", "sad", "confused"]], [6, "What is the person doing?", ["talking", "looking", "standing", "smiling", "sitting"]], [7, "What does the person on the left look like?", ["tiger", "bear", "pumpkin", "cat", "person"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "confused", "bored"]], [9, "What does the person on the right look like?", ["tiger", "smile", "nothing", "cat", "bear"]], [10, "How does the person on the right feel like?", ["bored", "happy", "sad", "good", "confused"]], [11, "What are they doing?", ["sitting", "talking", "looking", "standing", "dancing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "inside",
+                "indoors",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "cool",
+                "sunny",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "happy",
+                "selfie",
+                "blurry",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "looking",
+                "standing",
+                "smiling",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "tiger",
+                "bear",
+                "pumpkin",
+                "cat",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "tiger",
+                "smile",
+                "nothing",
+                "cat",
+                "bear"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "happy",
+                "sad",
+                "good",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "talking",
+                "looking",
+                "standing",
+                "dancing"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the living room. the person on the left looks like tiger or bear and feels like happy and sad. the person on the right looks like tiger or smile and feels like bored and happy. they are sitting or talking. "
+}

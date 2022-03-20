@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "0", "no"]], [2, "Where is this place?", ["home", "inside", "house", "city", "restaurant"]], [3, "How is the environment feeling?", ["happy", "calm", "dark", "no", "warm"]], [4, "What does the person look like?", ["selfie", "business", "sad", "surprise", "white"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "good", "tired"]], [6, "What is the person doing?", ["looking", "talking", "sitting", "using laptop", "waiting"]], [7, "What does the person on the left look like?", ["bird", "man", "face", "nothing", "butterfly"]], [8, "How does the person on the left feel like?", ["sad", "tired", "happy", "bored", "confused"]], [9, "What does the person on the right look like?", ["smile", "sad", "surprise", "face", "butterfly"]], [10, "How does the person on the right feel like?", ["sad", "bored", "tired", "confused", "happy"]], [11, "What are they doing?", ["talking", "looking", "sitting", "waiting", "listening"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "inside",
+                "house",
+                "city",
+                "restaurant"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "calm",
+                "dark",
+                "no",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "business",
+                "sad",
+                "surprise",
+                "white"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "looking",
+                "talking",
+                "sitting",
+                "using laptop",
+                "waiting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "bird",
+                "man",
+                "face",
+                "nothing",
+                "butterfly"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "tired",
+                "happy",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "sad",
+                "surprise",
+                "face",
+                "butterfly"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "looking",
+                "sitting",
+                "waiting",
+                "listening"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and calm. two people are in the home. the person on the left looks like bird or man and feels like sad and tired. the person on the right looks like smile or sad and feels like sad and bored. they are talking or looking. "
+}

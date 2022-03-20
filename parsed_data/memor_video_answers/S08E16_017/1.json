@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "woman", "0"]], [2, "Where is this place?", ["home", "kitchen", "restaurant", "dining room", "house"]], [3, "How is the environment feeling?", ["warm", "happy", "sunny", "cool", "dark"]], [4, "What does the person look like?", ["child", "surprise", "smile", "happy", "hungry"]], [5, "How does the person feel like?", ["sad", "bored", "confused", "tired", "happy"]], [6, "What is the person doing?", ["eating", "sitting", "cooking", "dining", "cutting"]], [7, "What does the person on the left look like?", ["smile", "face", "himself", "person", "surprise"]], [8, "How does the person on the left feel like?", ["sad", "confused", "hungry", "happy", "bored"]], [9, "What does the person on the right look like?", ["smile", "face", "surprise", "child", "himself"]], [10, "How does the person on the right feel like?", ["sad", "confused", "bored", "hungry", "happy"]], [11, "What are they doing?", ["eating", "sitting", "dining", "talking", "cooking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "woman",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "kitchen",
+                "restaurant",
+                "dining room",
+                "house"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "sunny",
+                "cool",
+                "dark"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "child",
+                "surprise",
+                "smile",
+                "happy",
+                "hungry"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "eating",
+                "sitting",
+                "cooking",
+                "dining",
+                "cutting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "face",
+                "himself",
+                "person",
+                "surprise"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "confused",
+                "hungry",
+                "happy",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "surprise",
+                "child",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "confused",
+                "bored",
+                "hungry",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "eating",
+                "sitting",
+                "dining",
+                "talking",
+                "cooking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the home. the person on the left looks like smile or face and feels like sad and confused. the person on the right looks like smile or face and feels like sad and confused. they are eating or sitting. "
+}

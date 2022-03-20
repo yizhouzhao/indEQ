@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "0", "standing"]], [2, "Where is this place?", ["home", "kitchen", "inside", "house", "living room"]], [3, "How is the environment feeling?", ["dark", "calm", "happy", "clear", "warm"]], [4, "What does the person look like?", ["female", "young", "woman", "man", "child"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "confused"]], [6, "What is the person doing?", ["standing", "smiling", "posing", "nothing", "looking"]], [7, "What does the person on the left look like?", ["person", "face", "nothing", "man", "smile"]], [8, "How does the person on the left feel like?", ["sad", "happy", "confused", "good", "bored"]], [9, "What does the person on the right look like?", ["nothing", "smile", "face", "person", "eyes"]], [10, "How does the person on the right feel like?", ["bored", "sad", "confused", "happy", "tired"]], [11, "What are they doing?", ["standing", "playing", "nothing", "talking", "posing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "0",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "kitchen",
+                "inside",
+                "house",
+                "living room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "calm",
+                "happy",
+                "clear",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "young",
+                "woman",
+                "man",
+                "child"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "smiling",
+                "posing",
+                "nothing",
+                "looking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "face",
+                "nothing",
+                "man",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "nothing",
+                "smile",
+                "face",
+                "person",
+                "eyes"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "confused",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "playing",
+                "nothing",
+                "talking",
+                "posing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and calm. two people are in the home. the person on the left looks like person or face and feels like sad and happy. the person on the right looks like nothing or smile and feels like bored and sad. they are standing or playing. "
+}

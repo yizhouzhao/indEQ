@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "0", "standing"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "room"]], [3, "How is the environment feeling?", ["happy", "warm", "dark", "cool", "clear"]], [4, "What does the person look like?", ["woman", "female", "sad", "smile", "happy"]], [5, "How does the person feel like?", ["happy", "good", "sad", "yes", "fun"]], [6, "What is the person doing?", ["drinking", "smiling", "standing", "posing", "singing"]], [7, "What does the person on the left look like?", ["nothing", "woman", "face", "butterfly", "female"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "unknown", "bored"]], [9, "What does the person on the right look like?", ["female", "cat", "butterfly", "nothing", "woman"]], [10, "How does the person on the right feel like?", ["good", "happy", "sad", "unknown", "bored"]], [11, "What are they doing?", ["drinking", "wine tasting", "smiling", "talking", "standing"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "0",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "warm",
+                "dark",
+                "cool",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "female",
+                "sad",
+                "smile",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "fun"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "drinking",
+                "smiling",
+                "standing",
+                "posing",
+                "singing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "woman",
+                "face",
+                "butterfly",
+                "female"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "unknown",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "female",
+                "cat",
+                "butterfly",
+                "nothing",
+                "woman"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "unknown",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "wine tasting",
+                "smiling",
+                "talking",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and warm. two people are in the living room. the person on the left looks like nothing or woman and feels like good and happy. the person on the right looks like female or cat and feels like good and happy. they are drinking or wine tasting. "
+}

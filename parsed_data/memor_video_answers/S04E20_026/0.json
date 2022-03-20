@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "yes", "0"]], [2, "Where is this place?", ["home", "house", "outside", "church", "inside"]], [3, "How is the environment feeling?", ["dark", "cool", "good", "warm", "calm"]], [4, "What does the person look like?", ["selfie", "clothes", "fake", "glasses", "costume"]], [5, "How does the person feel like?", ["sad", "good", "happy", "bored", "calm"]], [6, "What is the person doing?", ["smiling", "talking", "standing", "listening to music", "looking at phone"]], [7, "What does the person on the left look like?", ["hand", "ghost", "suit", "butterfly", "fish"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "bored", "tired"]], [9, "What does the person on the right look like?", ["suit", "hand", "glasses", "nothing", "pirate"]], [10, "How does the person on the right feel like?", ["sad", "happy", "good", "bored", "tired"]], [11, "What are they doing?", ["talking", "listening to music", "walking", "smiling", "standing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "house",
+                "outside",
+                "church",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "cool",
+                "good",
+                "warm",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "clothes",
+                "fake",
+                "glasses",
+                "costume"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "talking",
+                "standing",
+                "listening to music",
+                "looking at phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "hand",
+                "ghost",
+                "suit",
+                "butterfly",
+                "fish"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "suit",
+                "hand",
+                "glasses",
+                "nothing",
+                "pirate"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "listening to music",
+                "walking",
+                "smiling",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and cool. two people are in the home. the person on the left looks like hand or ghost and feels like sad and good. the person on the right looks like suit or hand and feels like sad and happy. they are talking or listening to music. "
+}

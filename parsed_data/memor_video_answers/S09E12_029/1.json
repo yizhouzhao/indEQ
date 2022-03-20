@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["3", "2", "yes", "5", "1"]], [2, "Where is this place?", ["rv", "house", "hotel", "bedroom", "camper"]], [3, "How is the environment feeling?", ["warm", "good", "clean", "calm", "happy"]], [4, "What does the person look like?", ["family", "man", "father", "old", "soldier"]], [5, "How does the person feel like?", ["happy", "good", "yes", "sad", "warm"]], [6, "What is the person doing?", ["sitting", "smiling", "talking", "watching", "posing"]], [7, "What does the person on the left look like?", ["man", "nothing", "dad", "ghost", "father"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "sad", "warm"]], [9, "What does the person on the right look like?", ["father", "man", "dad", "blue", "adult"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "bored", "yes"]], [11, "What are they doing?", ["sitting", "talking", "watching", "relaxing", "watching tv"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "3",
+                "2",
+                "yes",
+                "5",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "rv",
+                "house",
+                "hotel",
+                "bedroom",
+                "camper"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "good",
+                "clean",
+                "calm",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "family",
+                "man",
+                "father",
+                "old",
+                "soldier"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "sad",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "smiling",
+                "talking",
+                "watching",
+                "posing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "nothing",
+                "dad",
+                "ghost",
+                "father"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "sad",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "father",
+                "man",
+                "dad",
+                "blue",
+                "adult"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "yes"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "talking",
+                "watching",
+                "relaxing",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and good. a group of people are in the rv. they are sitting or talking. "
+}

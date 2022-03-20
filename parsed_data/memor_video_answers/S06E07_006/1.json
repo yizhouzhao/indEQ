@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "3"]], [2, "Where is this place?", ["store", "bar", "living room", "restaurant", "inside"]], [3, "How is the environment feeling?", ["happy", "warm", "cool", "dark", "yes"]], [4, "What does the person look like?", ["bride", "smile", "woman", "smiling", "female"]], [5, "How does the person feel like?", ["happy", "good", "yes", "sad", "bad"]], [6, "What is the person doing?", ["smiling", "posing", "standing", "taking picture", "nothing"]], [7, "What does the person on the left look like?", ["smile", "dog", "smiley face", "hand", "woman"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "cool", "love"]], [9, "What does the person on the right look like?", ["smile", "bride", "dog", "smiley face", "herself"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "cool", "bored"]], [11, "What are they doing?", ["smiling", "posing", "taking picture", "drinking", "talking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "store",
+                "bar",
+                "living room",
+                "restaurant",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "warm",
+                "cool",
+                "dark",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "bride",
+                "smile",
+                "woman",
+                "smiling",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "sad",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "posing",
+                "standing",
+                "taking picture",
+                "nothing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "dog",
+                "smiley face",
+                "hand",
+                "woman"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "cool",
+                "love"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "bride",
+                "dog",
+                "smiley face",
+                "herself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "cool",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "smiling",
+                "posing",
+                "taking picture",
+                "drinking",
+                "talking"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and warm. two people are in the store. the person on the left looks like smile or dog and feels like good and happy. the person on the right looks like smile or bride and feels like happy and good. they are smiling or posing. "
+}

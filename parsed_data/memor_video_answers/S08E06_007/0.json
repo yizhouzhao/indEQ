@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "yes", "3", "4"]], [2, "Where is this place?", ["outside", "home", "street", "outdoors", "bedroom"]], [3, "How is the environment feeling?", ["no", "dark", "clear", "night", "not sure"]], [4, "What does the person look like?", ["ghost", "helmet", "hat", "fake", "baseball cap"]], [5, "How does the person feel like?", ["sad", "happy", "bored", "unknown", "calm"]], [6, "What is the person doing?", ["standing", "skateboarding", "jumping", "skating", "night time"]], [7, "What does the person on the left look like?", ["hat", "ghost", "person", "light", "flashlight"]], [8, "How does the person on the left feel like?", ["sad", "happy", "bored", "unknown", "bad"]], [9, "What does the person on the right look like?", ["ghost", "hat", "person", "smile", "robot"]], [10, "How does the person on the right feel like?", ["sad", "happy", "bored", "tired", "unknown"]], [11, "What are they doing?", ["taking pictures", "not sure", "photography", "talking", "standing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "yes",
+                "3",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "home",
+                "street",
+                "outdoors",
+                "bedroom"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "dark",
+                "clear",
+                "night",
+                "not sure"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "ghost",
+                "helmet",
+                "hat",
+                "fake",
+                "baseball cap"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "unknown",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "skateboarding",
+                "jumping",
+                "skating",
+                "night time"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "hat",
+                "ghost",
+                "person",
+                "light",
+                "flashlight"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "unknown",
+                "bad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "ghost",
+                "hat",
+                "person",
+                "smile",
+                "robot"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "tired",
+                "unknown"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking pictures",
+                "not sure",
+                "photography",
+                "talking",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and dark. one person is in the outside. the person looks like ghost or home and feels like sad and happy. the person is standing or skateboarding. "
+}

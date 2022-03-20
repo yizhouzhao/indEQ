@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "1"]], [2, "Where is this place?", ["living room", "house", "home", "indoors", "inside"]], [3, "How is the environment feeling?", ["warm", "cool", "happy", "sunny", "yes"]], [4, "What does the person look like?", ["woman", "man", "selfie", "female", "herself"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "tired"]], [6, "What is the person doing?", ["talking on phone", "taking picture", "taking selfie", "holding phone", "smoking"]], [7, "What does the person on the left look like?", ["herself", "man", "woman", "person", "nothing"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "bored", "warm"]], [9, "What does the person on the right look like?", ["woman", "herself", "man", "person", "smile"]], [10, "How does the person on the right feel like?", ["good", "bored", "happy", "sad", "tired"]], [11, "What are they doing?", ["taking pictures", "singing", "talking", "taking selfie", "dancing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "indoors",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "cool",
+                "happy",
+                "sunny",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "man",
+                "selfie",
+                "female",
+                "herself"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "taking picture",
+                "taking selfie",
+                "holding phone",
+                "smoking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "herself",
+                "man",
+                "woman",
+                "person",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "woman",
+                "herself",
+                "man",
+                "person",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "bored",
+                "happy",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking pictures",
+                "singing",
+                "talking",
+                "taking selfie",
+                "dancing"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and cool. two people are in the living room. the person on the left looks like herself or man and feels like good and happy. the person on the right looks like woman or herself and feels like good and bored. they are taking pictures or singing. "
+}

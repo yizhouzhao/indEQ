@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "yes"]], [2, "Where is this place?", ["living room", "apartment", "house", "home", "hotel"]], [3, "How is the environment feeling?", ["dark", "warm", "happy", "normal", "cool"]], [4, "What does the person look like?", ["man", "surprise", "dark", "selfie", "happy"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "tired", "good"]], [6, "What is the person doing?", ["standing", "playing wii", "talking", "playing", "playing video game"]], [7, "What does the person on the left look like?", ["man", "dog", "ghost", "person", "nothing"]], [8, "How does the person on the left feel like?", ["bored", "happy", "tired", "sad", "good"]], [9, "What does the person on the right look like?", ["man", "person", "old", "ghost", "dog"]], [10, "How does the person on the right feel like?", ["bored", "tired", "sad", "happy", "good"]], [11, "What are they doing?", ["playing wii", "playing", "playing video game", "playing video games", "watching tv"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "apartment",
+                "house",
+                "home",
+                "hotel"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "happy",
+                "normal",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "surprise",
+                "dark",
+                "selfie",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "playing wii",
+                "talking",
+                "playing",
+                "playing video game"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "dog",
+                "ghost",
+                "person",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "bored",
+                "happy",
+                "tired",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "person",
+                "old",
+                "ghost",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "tired",
+                "sad",
+                "happy",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "playing",
+                "playing video game",
+                "playing video games",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like man or dog and feels like bored and happy. the person on the right looks like man or person and feels like bored and tired. they are playing wii or playing. "
+}

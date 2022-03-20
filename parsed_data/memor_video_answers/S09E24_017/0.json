@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "no", "0"]], [2, "Where is this place?", ["car", "home", "inside", "house", "indoors"]], [3, "How is the environment feeling?", ["cool", "dark", "calm", "happy", "cloudy"]], [4, "What does the person look like?", ["woman", "girl", "cat", "female", "surprise"]], [5, "How does the person feel like?", ["sad", "happy", "good", "bored", "tired"]], [6, "What is the person doing?", ["talking on phone", "talking", "sitting", "phone", "smiling"]], [7, "What does the person on the left look like?", ["dog", "nothing", "face", "car", "cat"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "bored", "hungry"]], [9, "What does the person on the right look like?", ["dog", "nothing", "face", "cat", "phone"]], [10, "How does the person on the right feel like?", ["sad", "happy", "bored", "good", "tired"]], [11, "What are they doing?", ["talking", "talking on phone", "taking pictures", "watching", "singing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "no",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "home",
+                "inside",
+                "house",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "calm",
+                "happy",
+                "cloudy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "girl",
+                "cat",
+                "female",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "talking",
+                "sitting",
+                "phone",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "nothing",
+                "face",
+                "car",
+                "cat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "nothing",
+                "face",
+                "cat",
+                "phone"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "talking on phone",
+                "taking pictures",
+                "watching",
+                "singing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the car. the person on the left looks like dog or nothing and feels like sad and happy. the person on the right looks like dog or nothing and feels like sad and happy. they are talking or talking on phone. "
+}

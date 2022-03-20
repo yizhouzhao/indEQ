@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "0", "3", "1", "yes"]], [2, "Where is this place?", ["kitchen", "living room", "house", "room", "apartment"]], [3, "How is the environment feeling?", ["happy", "yes", "warm", "cool", "good"]], [4, "What does the person look like?", ["female", "woman", "smile", "bride", "smiling"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "confused"]], [6, "What is the person doing?", ["talking", "standing", "smiling", "dancing", "sitting"]], [7, "What does the person on the left look like?", ["angel", "smile", "abstract", "woman", "rabbit"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "bored", "confused"]], [9, "What does the person on the right look like?", ["smile", "bride", "angel", "woman", "rabbit"]], [10, "How does the person on the right feel like?", ["good", "sad", "happy", "bored", "confused"]], [11, "What are they doing?", ["talking", "dancing", "smiling", "drinking", "standing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "0",
+                "3",
+                "1",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "living room",
+                "house",
+                "room",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "yes",
+                "warm",
+                "cool",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "smile",
+                "bride",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "standing",
+                "smiling",
+                "dancing",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "angel",
+                "smile",
+                "abstract",
+                "woman",
+                "rabbit"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "bride",
+                "angel",
+                "woman",
+                "rabbit"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "dancing",
+                "smiling",
+                "drinking",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and yes. two people are in the kitchen. the person on the left looks like angel or smile and feels like good and sad. the person on the right looks like smile or bride and feels like good and sad. they are talking or dancing. "
+}

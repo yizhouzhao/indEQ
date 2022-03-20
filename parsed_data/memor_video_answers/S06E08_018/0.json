@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "yes", "0"]], [2, "Where is this place?", ["school", "classroom", "office", "store", "inside"]], [3, "How is the environment feeling?", ["cool", "good", "dark", "calm", "happy"]], [4, "What does the person look like?", ["man", "business", "selfie", "male", "smiling"]], [5, "How does the person feel like?", ["happy", "good", "bad", "cool", "warm"]], [6, "What is the person doing?", ["smiling", "talking", "using laptop", "sitting", "working"]], [7, "What does the person on the left look like?", ["man", "face", "smile", "himself", "person"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "confused", "yes"]], [9, "What does the person on the right look like?", ["smile", "man", "smiling", "himself", "happy"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "sad", "bored"]], [11, "What are they doing?", ["talking", "listening to music", "working", "smiling", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "school",
+                "classroom",
+                "office",
+                "store",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "good",
+                "dark",
+                "calm",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "business",
+                "selfie",
+                "male",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bad",
+                "cool",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "talking",
+                "using laptop",
+                "sitting",
+                "working"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "face",
+                "smile",
+                "himself",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "confused",
+                "yes"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "man",
+                "smiling",
+                "himself",
+                "happy"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "listening to music",
+                "working",
+                "smiling",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and good. two people are in the school. the person on the left looks like man or face and feels like happy and good. the person on the right looks like smile or man and feels like happy and good. they are talking or listening to music. "
+}

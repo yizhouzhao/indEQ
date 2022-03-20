@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "yes", "1"]], [2, "Where is this place?", ["bar", "restaurant", "store", "indoors", "inside"]], [3, "How is the environment feeling?", ["cool", "dark", "clear", "yes", "busy"]], [4, "What does the person look like?", ["man", "person", "male", "casual", "surprise"]], [5, "How does the person feel like?", ["happy", "good", "bored", "tired", "warm"]], [6, "What is the person doing?", ["standing", "playing wii", "playing", "playing game", "talking"]], [7, "What does the person on the left look like?", ["face", "person", "man", "cartoon", "surprise"]], [8, "How does the person on the left feel like?", ["bored", "happy", "good", "sad", "tired"]], [9, "What does the person on the right look like?", ["person", "smile", "surprise", "man", "smiling"]], [10, "How does the person on the right feel like?", ["happy", "bored", "good", "tired", "confused"]], [11, "What are they doing?", ["playing wii", "playing", "playing video game", "playing game", "playing video games"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "yes",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bar",
+                "restaurant",
+                "store",
+                "indoors",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "clear",
+                "yes",
+                "busy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "person",
+                "male",
+                "casual",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "tired",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "playing wii",
+                "playing",
+                "playing game",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "person",
+                "man",
+                "cartoon",
+                "surprise"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "bored",
+                "happy",
+                "good",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "person",
+                "smile",
+                "surprise",
+                "man",
+                "smiling"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "tired",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "playing",
+                "playing video game",
+                "playing game",
+                "playing video games"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the bar. the person on the left looks like face or person and feels like bored and happy. the person on the right looks like person or smile and feels like happy and bored. they are playing wii or playing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "10"]], [2, "Where is this place?", ["house", "home", "inside", "living room", "kitchen"]], [3, "How is the environment feeling?", ["dark", "calm", "warm", "cool", "happy"]], [4, "What does the person look like?", ["man", "selfie", "fake", "casual", "business"]], [5, "How does the person feel like?", ["sad", "bored", "good", "happy", "tired"]], [6, "What is the person doing?", ["smiling", "standing", "sitting", "talking", "looking"]], [7, "What does the person on the left look like?", ["man", "nothing", "bird", "photographer", "ghost"]], [8, "How does the person on the left feel like?", ["sad", "tired", "good", "bored", "happy"]], [9, "What does the person on the right look like?", ["nothing", "selfie", "man", "himself", "color"]], [10, "How does the person on the right feel like?", ["sad", "bored", "tired", "good", "happy"]], [11, "What are they doing?", ["talking", "standing", "sitting", "playing", "looking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "10"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "home",
+                "inside",
+                "living room",
+                "kitchen"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "calm",
+                "warm",
+                "cool",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "selfie",
+                "fake",
+                "casual",
+                "business"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "standing",
+                "sitting",
+                "talking",
+                "looking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "nothing",
+                "bird",
+                "photographer",
+                "ghost"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "tired",
+                "good",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "nothing",
+                "selfie",
+                "man",
+                "himself",
+                "color"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "sitting",
+                "playing",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and calm. two people are in the house. the person on the left looks like man or nothing and feels like sad and tired. the person on the right looks like nothing or selfie and feels like sad and bored. they are talking or standing. "
+}

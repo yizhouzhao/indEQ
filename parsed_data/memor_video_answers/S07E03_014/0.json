@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "no"]], [2, "Where is this place?", ["car", "in car", "on road", "truck", "bus"]], [3, "How is the environment feeling?", ["calm", "good", "sunny", "clear", "cold"]], [4, "What does the person look like?", ["sad", "selfie", "happy", "woman", "female"]], [5, "How does the person feel like?", ["sad", "bored", "good", "tired", "happy"]], [6, "What is the person doing?", ["driving", "sitting", "looking out window", "riding", "listening to music"]], [7, "What does the person on the left look like?", ["mirror", "car", "smile", "person", "reflection"]], [8, "How does the person on the left feel like?", ["sad", "tired", "good", "bored", "happy"]], [9, "What does the person on the right look like?", ["selfie", "mirror", "smile", "glasses", "color"]], [10, "How does the person on the right feel like?", ["sad", "tired", "bored", "good", "happy"]], [11, "What are they doing?", ["driving", "sitting", "riding", "looking out window", "listening to music"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "on road",
+                "truck",
+                "bus"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "good",
+                "sunny",
+                "clear",
+                "cold"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "sad",
+                "selfie",
+                "happy",
+                "woman",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "sitting",
+                "looking out window",
+                "riding",
+                "listening to music"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "mirror",
+                "car",
+                "smile",
+                "person",
+                "reflection"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "tired",
+                "good",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "mirror",
+                "smile",
+                "glasses",
+                "color"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "tired",
+                "bored",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "driving",
+                "sitting",
+                "riding",
+                "looking out window",
+                "listening to music"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and good. two people are in the car. the person on the left looks like mirror or car and feels like sad and tired. the person on the right looks like selfie or mirror and feels like sad and tired. they are driving or sitting. "
+}

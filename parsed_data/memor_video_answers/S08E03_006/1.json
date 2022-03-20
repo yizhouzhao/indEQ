@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "2", "3", "standing"]], [2, "Where is this place?", ["gym", "school", "classroom", "inside", "office"]], [3, "How is the environment feeling?", ["fair", "poor", "good", "calm", "cool"]], [4, "What does the person look like?", ["man", "person", "kid", "male", "casual"]], [5, "How does the person feel like?", ["happy", "bored", "tired", "good", "calm"]], [6, "What is the person doing?", ["standing", "posing", "smiling", "pointing", "baseball"]], [7, "What does the person on the left look like?", ["man", "person", "himself", "eyes", "human"]], [8, "How does the person on the left feel like?", ["tired", "happy", "bored", "soft", "sad"]], [9, "What does the person on the right look like?", ["man", "person", "himself", "not possible", "beard"]], [10, "How does the person on the right feel like?", ["tired", "bored", "happy", "soft", "sad"]], [11, "What are they doing?", ["standing", "playing baseball", "baseball", "catching", "posing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "2",
+                "3",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "gym",
+                "school",
+                "classroom",
+                "inside",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "fair",
+                "poor",
+                "good",
+                "calm",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "person",
+                "kid",
+                "male",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "tired",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "posing",
+                "smiling",
+                "pointing",
+                "baseball"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "himself",
+                "eyes",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "tired",
+                "happy",
+                "bored",
+                "soft",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "person",
+                "himself",
+                "not possible",
+                "beard"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "bored",
+                "happy",
+                "soft",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "playing baseball",
+                "baseball",
+                "catching",
+                "posing"
+            ]
+        ]
+    ],
+    "description": "the environment feels fair and poor. one person is in the gym. the person looks like man or school and feels like happy and bored. the person is standing or posing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["0", "9", "2", "o", "3"]], [2, "Where is this place?", ["alaska", "mountains", "mountain", "airplane", "outside"]], [3, "How is the environment feeling?", ["cold", "clear", "good", "sunny", "calm"]], [4, "What does the person look like?", ["nothing", "old", "not sure", "big", "tall"]], [5, "How does the person feel like?", ["happy", "sad", "good", "tired", "bad"]], [6, "What is the person doing?", ["standing", "sitting", "nothing", "waiting", "eating"]], [7, "What does the person on the left look like?", ["ship", "nothing", "gun", "tree", "big"]], [8, "How does the person on the left feel like?", ["happy", "sad", "tired", "good", "bad"]], [9, "What does the person on the right look like?", ["big", "nothing", "pilot", "tall", "ship"]], [10, "How does the person on the right feel like?", ["happy", "tired", "sad", "good", "bad"]], [11, "What are they doing?", ["standing", "sitting", "waiting", "nothing", "skiing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "0",
+                "9",
+                "2",
+                "o",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "alaska",
+                "mountains",
+                "mountain",
+                "airplane",
+                "outside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cold",
+                "clear",
+                "good",
+                "sunny",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "nothing",
+                "old",
+                "not sure",
+                "big",
+                "tall"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "tired",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "sitting",
+                "nothing",
+                "waiting",
+                "eating"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ship",
+                "nothing",
+                "gun",
+                "tree",
+                "big"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "tired",
+                "good",
+                "bad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "big",
+                "nothing",
+                "pilot",
+                "tall",
+                "ship"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "tired",
+                "sad",
+                "good",
+                "bad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "sitting",
+                "waiting",
+                "nothing",
+                "skiing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cold and clear. nobody is in the alaska. "
+}

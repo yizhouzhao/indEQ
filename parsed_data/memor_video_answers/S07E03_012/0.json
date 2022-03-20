@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["0", "1", "no", "3", "2"]], [2, "Where is this place?", ["outside", "beach", "ocean", "outdoors", "not sure"]], [3, "How is the environment feeling?", ["clear", "good", "sunny", "windy", "don't know"]], [4, "What does the person look like?", ["cartoon", "fish", "don't know", "clear", "kite"]], [5, "How does the person feel like?", ["good", "cool", "warm", "sunny", "happy"]], [6, "What is the person doing?", ["flying kite", "standing", "parasailing", "kiting", "kite flying"]], [7, "What does the person on the left look like?", ["mask", "spider", "fish", "skull", "cartoon"]], [8, "How does the person on the left feel like?", ["good", "warm", "cool", "fun", "soft"]], [9, "What does the person on the right look like?", ["kite", "mask", "fish", "spider", "dragon"]], [10, "How does the person on the right feel like?", ["good", "warm", "happy", "cool", "fun"]], [11, "What are they doing?", ["flying kites", "flying kite", "parasailing", "kiting", "kite flying"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "0",
+                "1",
+                "no",
+                "3",
+                "2"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "beach",
+                "ocean",
+                "outdoors",
+                "not sure"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "clear",
+                "good",
+                "sunny",
+                "windy",
+                "don't know"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "cartoon",
+                "fish",
+                "don't know",
+                "clear",
+                "kite"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "cool",
+                "warm",
+                "sunny",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "flying kite",
+                "standing",
+                "parasailing",
+                "kiting",
+                "kite flying"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "mask",
+                "spider",
+                "fish",
+                "skull",
+                "cartoon"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "warm",
+                "cool",
+                "fun",
+                "soft"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "kite",
+                "mask",
+                "fish",
+                "spider",
+                "dragon"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "warm",
+                "happy",
+                "cool",
+                "fun"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "flying kites",
+                "flying kite",
+                "parasailing",
+                "kiting",
+                "kite flying"
+            ]
+        ]
+    ],
+    "description": "the environment feels clear and good. nobody is in the outside. "
+}

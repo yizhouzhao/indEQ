@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "0"]], [2, "Where is this place?", ["hospital", "school", "inside", "indoors", "office"]], [3, "How is the environment feeling?", ["good", "dark", "warm", "calm", "cool"]], [4, "What does the person look like?", ["suit", "business", "formal", "man", "clothes"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "tired"]], [6, "What is the person doing?", ["sitting", "waiting", "smiling", "standing", "talking"]], [7, "What does the person on the left look like?", ["nothing", "suit", "robot", "man", "microphone"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "confused", "tired"]], [9, "What does the person on the right look like?", ["suit", "microphone", "robot", "nothing", "business"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "sad", "tired"]], [11, "What are they doing?", ["talking", "sitting", "looking", "waiting", "working"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "hospital",
+                "school",
+                "inside",
+                "indoors",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "dark",
+                "warm",
+                "calm",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "suit",
+                "business",
+                "formal",
+                "man",
+                "clothes"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "waiting",
+                "smiling",
+                "standing",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "suit",
+                "robot",
+                "man",
+                "microphone"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "confused",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "suit",
+                "microphone",
+                "robot",
+                "nothing",
+                "business"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "looking",
+                "waiting",
+                "working"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and dark. two people are in the hospital. the person on the left looks like nothing or suit and feels like happy and sad. the person on the right looks like suit or microphone and feels like happy and good. they are talking or sitting. "
+}

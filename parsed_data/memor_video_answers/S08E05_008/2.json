@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["4", "5", "6", "7", "8"]], [2, "Where is this place?", ["restaurant", "home", "dining room", "house", "wedding"]], [3, "How is the environment feeling?", ["warm", "cold", "no", "happy", "yes"]], [4, "What does the person look like?", ["female", "woman", "smile", "sad", "smiling"]], [5, "How does the person feel like?", ["sad", "good", "happy", "no", "bored"]], [6, "What is the person doing?", ["smiling", "wine tasting", "drinking", "posing", "standing"]], [7, "What does the person on the left look like?", ["man", "woman", "person", "face", "herself"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "unknown", "full"]], [9, "What does the person on the right look like?", ["smile", "person", "man", "bride", "rabbit"]], [10, "How does the person on the right feel like?", ["good", "happy", "sad", "unknown", "full"]], [11, "What are they doing?", ["drinking", "wine tasting", "talking", "smiling", "standing"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "home",
+                "dining room",
+                "house",
+                "wedding"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "cold",
+                "no",
+                "happy",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "smile",
+                "sad",
+                "smiling"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "no",
+                "bored"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "wine tasting",
+                "drinking",
+                "posing",
+                "standing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "woman",
+                "person",
+                "face",
+                "herself"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "unknown",
+                "full"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "person",
+                "man",
+                "bride",
+                "rabbit"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "unknown",
+                "full"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "wine tasting",
+                "talking",
+                "smiling",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and cold. a group of people are in the restaurant. they are drinking or wine tasting. "
+}

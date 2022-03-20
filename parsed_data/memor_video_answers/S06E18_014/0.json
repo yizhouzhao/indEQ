@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "1", "5"]], [2, "Where is this place?", ["restaurant", "library", "school", "unknown", "church"]], [3, "How is the environment feeling?", ["good", "warm", "cool", "cold", "happy"]], [4, "What does the person look like?", ["business", "man", "selfie", "family", "casual"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "bad"]], [6, "What is the person doing?", ["texting", "singing", "phone", "on phone", "looking at phone"]], [7, "What does the person on the left look like?", ["robot", "ghost", "face", "business", "hand"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "confused", "bored"]], [9, "What does the person on the right look like?", ["himself", "surprise", "smile", "robot", "face"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "confused", "bored"]], [11, "What are they doing?", ["singing", "taking pictures", "texting", "taking picture", "writing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "1",
+                "5"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "library",
+                "school",
+                "unknown",
+                "church"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "warm",
+                "cool",
+                "cold",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "business",
+                "man",
+                "selfie",
+                "family",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "singing",
+                "phone",
+                "on phone",
+                "looking at phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "robot",
+                "ghost",
+                "face",
+                "business",
+                "hand"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "surprise",
+                "smile",
+                "robot",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "singing",
+                "taking pictures",
+                "texting",
+                "taking picture",
+                "writing"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and warm. two people are in the restaurant. the person on the left looks like robot or ghost and feels like good and happy. the person on the right looks like himself or surprise and feels like happy and good. they are singing or taking pictures. "
+}

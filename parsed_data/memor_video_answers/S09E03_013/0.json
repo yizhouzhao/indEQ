@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "10"]], [2, "Where is this place?", ["living room", "bedroom", "house", "home", "hotel"]], [3, "How is the environment feeling?", ["warm", "happy", "dark", "sunny", "good"]], [4, "What does the person look like?", ["woman", "sad", "smile", "female", "happy"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "tired"]], [6, "What is the person doing?", ["sitting", "talking", "smiling", "standing", "talking on phone"]], [7, "What does the person on the left look like?", ["smile", "shadow", "face", "nothing", "woman"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "love", "warm"]], [9, "What does the person on the right look like?", ["smile", "nothing", "sad", "herself", "glasses"]], [10, "How does the person on the right feel like?", ["good", "sad", "happy", "tired", "bored"]], [11, "What are they doing?", ["talking", "smiling", "sitting", "watching", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "10"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "bedroom",
+                "house",
+                "home",
+                "hotel"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "dark",
+                "sunny",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "sad",
+                "smile",
+                "female",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "talking",
+                "smiling",
+                "standing",
+                "talking on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "shadow",
+                "face",
+                "nothing",
+                "woman"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "love",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "nothing",
+                "sad",
+                "herself",
+                "glasses"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "smiling",
+                "sitting",
+                "watching",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the living room. the person on the left looks like smile or shadow and feels like sad and good. the person on the right looks like smile or nothing and feels like good and sad. they are talking or smiling. "
+}

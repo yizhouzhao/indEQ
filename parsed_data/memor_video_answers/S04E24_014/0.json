@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "0", "yes"]], [2, "Where is this place?", ["bedroom", "living room", "house", "inside", "room"]], [3, "How is the environment feeling?", ["warm", "calm", "happy", "dark", "cool"]], [4, "What does the person look like?", ["man", "male", "wii controller", "woman", "person"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "tired"]], [6, "What is the person doing?", ["sitting", "playing wii", "playing", "looking", "cooking"]], [7, "What does the person on the left look like?", ["person", "cat", "man", "dog", "nothing"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "bored", "tired"]], [9, "What does the person on the right look like?", ["man", "cat", "himself", "person", "face"]], [10, "How does the person on the right feel like?", ["bored", "happy", "sad", "confused", "tired"]], [11, "What are they doing?", ["playing wii", "watching tv", "sitting", "drinking", "wii"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "0",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bedroom",
+                "living room",
+                "house",
+                "inside",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "calm",
+                "happy",
+                "dark",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "male",
+                "wii controller",
+                "woman",
+                "person"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "playing wii",
+                "playing",
+                "looking",
+                "cooking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "cat",
+                "man",
+                "dog",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "cat",
+                "himself",
+                "person",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "happy",
+                "sad",
+                "confused",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing wii",
+                "watching tv",
+                "sitting",
+                "drinking",
+                "wii"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and calm. two people are in the bedroom. the person on the left looks like person or cat and feels like happy and good. the person on the right looks like man or cat and feels like bored and happy. they are playing wii or watching tv. "
+}

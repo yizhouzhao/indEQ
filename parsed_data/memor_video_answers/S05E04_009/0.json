@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["3", "4", "5", "6", "several"]], [2, "Where is this place?", ["outside", "city", "street", "party", "downtown"]], [3, "How is the environment feeling?", ["warm", "clear", "dark", "cool", "fair"]], [4, "What does the person look like?", ["man", "suit", "costume", "selfie", "old"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "cool"]], [6, "What is the person doing?", ["standing", "posing", "smiling", "walking", "dancing"]], [7, "What does the person on the left look like?", ["man", "suit", "statue", "person", "human"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "sad", "bored"]], [9, "What does the person on the right look like?", ["man", "suit", "person", "costume", "statue"]], [10, "How does the person on the right feel like?", ["happy", "good", "bored", "sad", "tired"]], [11, "What are they doing?", ["posing", "standing", "walking", "dancing", "taking picture"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "3",
+                "4",
+                "5",
+                "6",
+                "several"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "city",
+                "street",
+                "party",
+                "downtown"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "clear",
+                "dark",
+                "cool",
+                "fair"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "suit",
+                "costume",
+                "selfie",
+                "old"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "posing",
+                "smiling",
+                "walking",
+                "dancing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "suit",
+                "statue",
+                "person",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "suit",
+                "person",
+                "costume",
+                "statue"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "posing",
+                "standing",
+                "walking",
+                "dancing",
+                "taking picture"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and clear. a group of people are in the outside. they are posing or standing. "
+}

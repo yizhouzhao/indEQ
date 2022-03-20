@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "0", "yes", "1", "no"]], [2, "Where is this place?", ["inside", "indoors", "living room", "home", "house"]], [3, "How is the environment feeling?", ["happy", "dark", "cool", "no", "calm"]], [4, "What does the person look like?", ["casual", "selfie", "fake", "woman", "female"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "tired"]], [6, "What is the person doing?", ["talking", "standing", "looking", "sitting", "talking on phone"]], [7, "What does the person on the left look like?", ["nothing", "himself", "arm", "suit", "beard"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "tired", "bored"]], [9, "What does the person on the right look like?", ["himself", "nothing", "smile", "selfie", "beard"]], [10, "How does the person on the right feel like?", ["sad", "bored", "good", "tired", "happy"]], [11, "What are they doing?", ["talking", "standing", "looking", "watching", "hugging"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "0",
+                "yes",
+                "1",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "indoors",
+                "living room",
+                "home",
+                "house"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "dark",
+                "cool",
+                "no",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "selfie",
+                "fake",
+                "woman",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "standing",
+                "looking",
+                "sitting",
+                "talking on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "himself",
+                "arm",
+                "suit",
+                "beard"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "nothing",
+                "smile",
+                "selfie",
+                "beard"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "looking",
+                "watching",
+                "hugging"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and dark. two people are in the inside. the person on the left looks like nothing or himself and feels like sad and good. the person on the right looks like himself or nothing and feels like sad and bored. they are talking or standing. "
+}

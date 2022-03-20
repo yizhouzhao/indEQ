@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "yes"]], [2, "Where is this place?", ["living room", "house", "home", "couch", "inside"]], [3, "How is the environment feeling?", ["dark", "warm", "calm", "messy", "good"]], [4, "What does the person look like?", ["man", "serious", "surprise", "happy", "dark"]], [5, "How does the person feel like?", ["happy", "bored", "sad", "good", "tired"]], [6, "What is the person doing?", ["texting", "looking at phone", "taking pictures", "sitting", "standing"]], [7, "What does the person on the left look like?", ["nothing", "man", "no", "cat", "face"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "tired", "unknown"]], [9, "What does the person on the right look like?", ["nothing", "man", "cat", "himself", "smile"]], [10, "How does the person on the right feel like?", ["happy", "sad", "tired", "good", "bored"]], [11, "What are they doing?", ["taking pictures", "texting", "playing", "not sure", "looking at phone"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "couch",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "calm",
+                "messy",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "serious",
+                "surprise",
+                "happy",
+                "dark"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "sad",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "looking at phone",
+                "taking pictures",
+                "sitting",
+                "standing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "man",
+                "no",
+                "cat",
+                "face"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "nothing",
+                "man",
+                "cat",
+                "himself",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "tired",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking pictures",
+                "texting",
+                "playing",
+                "not sure",
+                "looking at phone"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like nothing or man and feels like happy and good. the person on the right looks like nothing or man and feels like happy and sad. they are taking pictures or texting. "
+}

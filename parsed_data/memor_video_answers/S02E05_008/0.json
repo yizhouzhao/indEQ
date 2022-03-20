@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "0", "1", "no"]], [2, "Where is this place?", ["bus", "car", "city", "on bus", "outside"]], [3, "How is the environment feeling?", ["poor", "cloudy", "rainy", "fair", "calm"]], [4, "What does the person look like?", ["selfie", "woman", "smile", "happy", "surprise"]], [5, "How does the person feel like?", ["sad", "good", "confused", "bored", "happy"]], [6, "What is the person doing?", ["smiling", "staring", "talking on phone", "waiting", "looking"]], [7, "What does the person on the left look like?", ["dog", "car", "face", "nothing", "person"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "confused", "tired"]], [9, "What does the person on the right look like?", ["dog", "smile", "surprise", "face", "nothing"]], [10, "How does the person on the right feel like?", ["sad", "happy", "confused", "bored", "tired"]], [11, "What are they doing?", ["looking", "talking", "standing", "waiting", "staring"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "0",
+                "1",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bus",
+                "car",
+                "city",
+                "on bus",
+                "outside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "poor",
+                "cloudy",
+                "rainy",
+                "fair",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "woman",
+                "smile",
+                "happy",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "confused",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "staring",
+                "talking on phone",
+                "waiting",
+                "looking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "car",
+                "face",
+                "nothing",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "confused",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "smile",
+                "surprise",
+                "face",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "looking",
+                "talking",
+                "standing",
+                "waiting",
+                "staring"
+            ]
+        ]
+    ],
+    "description": "the environment feels poor and cloudy. two people are in the bus. the person on the left looks like dog or car and feels like sad and happy. the person on the right looks like dog or smile and feels like sad and happy. they are looking or talking. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "0", "3"]], [2, "Where is this place?", ["car", "in car", "on road", "parking lot", "street"]], [3, "How is the environment feeling?", ["calm", "poor", "clear", "no", "good"]], [4, "What does the person look like?", ["selfie", "old", "glasses", "himself", "male"]], [5, "How does the person feel like?", ["bored", "sad", "tired", "good", "happy"]], [6, "What is the person doing?", ["driving", "riding", "sitting", "looking out window", "taking picture"]], [7, "What does the person on the left look like?", ["car", "glasses", "person", "fish", "ghost"]], [8, "How does the person on the left feel like?", ["yes", "good", "happy", "tired", "sad"]], [9, "What does the person on the right look like?", ["photographer", "himself", "selfie", "old", "person"]], [10, "How does the person on the right feel like?", ["tired", "sad", "happy", "bored", "good"]], [11, "What are they doing?", ["sitting", "riding", "traveling", "driving", "packing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "0",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "on road",
+                "parking lot",
+                "street"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "poor",
+                "clear",
+                "no",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "old",
+                "glasses",
+                "himself",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "tired",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "riding",
+                "sitting",
+                "looking out window",
+                "taking picture"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "car",
+                "glasses",
+                "person",
+                "fish",
+                "ghost"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "yes",
+                "good",
+                "happy",
+                "tired",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "photographer",
+                "himself",
+                "selfie",
+                "old",
+                "person"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "sad",
+                "happy",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "riding",
+                "traveling",
+                "driving",
+                "packing"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and poor. two people are in the car. the person on the left looks like car or glasses and feels like yes and good. the person on the right looks like photographer or himself and feels like tired and sad. they are sitting or riding. "
+}

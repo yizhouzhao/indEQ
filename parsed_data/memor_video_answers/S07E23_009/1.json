@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "0", "4"]], [2, "Where is this place?", ["farm", "fair", "hospital", "outside", "airport"]], [3, "How is the environment feeling?", ["rainy", "fair", "calm", "cool", "poor"]], [4, "What does the person look like?", ["animal", "dog", "red", "horse", "person"]], [5, "How does the person feel like?", ["sad", "happy", "tired", "bored", "good"]], [6, "What is the person doing?", ["looking", "watching", "standing", "waiting", "playing"]], [7, "What does the person on the left look like?", ["dog", "animal", "horse", "person", "bear"]], [8, "How does the person on the left feel like?", ["sad", "bored", "cold", "tired", "happy"]], [9, "What does the person on the right look like?", ["dog", "woman", "horse", "person", "animal"]], [10, "How does the person on the right feel like?", ["sad", "happy", "bored", "tired", "cold"]], [11, "What are they doing?", ["looking", "standing", "playing", "waiting", "shopping"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "farm",
+                "fair",
+                "hospital",
+                "outside",
+                "airport"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "rainy",
+                "fair",
+                "calm",
+                "cool",
+                "poor"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "animal",
+                "dog",
+                "red",
+                "horse",
+                "person"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "looking",
+                "watching",
+                "standing",
+                "waiting",
+                "playing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "animal",
+                "horse",
+                "person",
+                "bear"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "cold",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "woman",
+                "horse",
+                "person",
+                "animal"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "tired",
+                "cold"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "looking",
+                "standing",
+                "playing",
+                "waiting",
+                "shopping"
+            ]
+        ]
+    ],
+    "description": "the environment feels rainy and fair. one person is in the farm. the person looks like animal or fair and feels like sad and happy. the person is looking or watching. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "3", "0"]], [2, "Where is this place?", ["office", "classroom", "room", "inside", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "calm", "clear", "happy"]], [4, "What does the person look like?", ["man", "professional", "serious", "male", "face"]], [5, "How does the person feel like?", ["sad", "bored", "good", "tired", "happy"]], [6, "What is the person doing?", ["talking", "playing game", "looking", "playing", "playing video game"]], [7, "What does the person on the left look like?", ["man", "ghost", "robot", "mouse", "person"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "yes", "confused"]], [9, "What does the person on the right look like?", ["man", "robot", "ghost", "himself", "smile"]], [10, "How does the person on the right feel like?", ["bored", "tired", "confused", "sad", "good"]], [11, "What are they doing?", ["talking", "playing video game", "looking", "playing", "watching tv"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "classroom",
+                "room",
+                "inside",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "calm",
+                "clear",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "professional",
+                "serious",
+                "male",
+                "face"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "playing game",
+                "looking",
+                "playing",
+                "playing video game"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "ghost",
+                "robot",
+                "mouse",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "yes",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "robot",
+                "ghost",
+                "himself",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "tired",
+                "confused",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "playing video game",
+                "looking",
+                "playing",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the office. the person on the left looks like man or ghost and feels like sad and good. the person on the right looks like man or robot and feels like bored and tired. they are talking or playing video game. "
+}

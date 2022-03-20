@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "4"]], [2, "Where is this place?", ["living room", "home", "inside", "office", "room"]], [3, "How is the environment feeling?", ["dark", "warm", "happy", "good", "cool"]], [4, "What does the person look like?", ["man", "cartoon", "laptop", "mouse", "happy"]], [5, "How does the person feel like?", ["good", "happy", "bored", "sad", "confused"]], [6, "What is the person doing?", ["typing", "working", "using laptop", "using computer", "on laptop"]], [7, "What does the person on the left look like?", ["mouse", "laptop", "robot", "face", "cartoon"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "bored", "confused"]], [9, "What does the person on the right look like?", ["mouse", "cartoon", "man", "robot", "nothing"]], [10, "How does the person on the right feel like?", ["bored", "confused", "good", "happy", "sad"]], [11, "What are they doing?", ["working", "using laptop", "using computer", "reading", "on laptop"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "inside",
+                "office",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "happy",
+                "good",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "cartoon",
+                "laptop",
+                "mouse",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "bored",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "typing",
+                "working",
+                "using laptop",
+                "using computer",
+                "on laptop"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "mouse",
+                "laptop",
+                "robot",
+                "face",
+                "cartoon"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "mouse",
+                "cartoon",
+                "man",
+                "robot",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "confused",
+                "good",
+                "happy",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "using laptop",
+                "using computer",
+                "reading",
+                "on laptop"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like mouse or laptop and feels like good and happy. the person on the right looks like mouse or cartoon and feels like bored and confused. they are working or using laptop. "
+}

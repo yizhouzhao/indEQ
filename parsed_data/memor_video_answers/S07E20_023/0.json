@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "1", "5"]], [2, "Where is this place?", ["bar", "restaurant", "inside", "party", "yes"]], [3, "How is the environment feeling?", ["warm", "dark", "happy", "normal", "cool"]], [4, "What does the person look like?", ["woman", "surprise", "happy", "man", "smile"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "bad"]], [6, "What is the person doing?", ["sitting", "drinking", "smiling", "standing", "wine tasting"]], [7, "What does the person on the left look like?", ["face", "photograph", "himself", "smile", "photographer"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "confused", "bored"]], [9, "What does the person on the right look like?", ["photograph", "smile", "himself", "face", "ginger"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "sad", "bored"]], [11, "What are they doing?", ["drinking", "sitting", "talking", "wine tasting", "smiling"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "1",
+                "5"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bar",
+                "restaurant",
+                "inside",
+                "party",
+                "yes"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "happy",
+                "normal",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "surprise",
+                "happy",
+                "man",
+                "smile"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "drinking",
+                "smiling",
+                "standing",
+                "wine tasting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "photograph",
+                "himself",
+                "smile",
+                "photographer"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "photograph",
+                "smile",
+                "himself",
+                "face",
+                "ginger"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "sitting",
+                "talking",
+                "wine tasting",
+                "smiling"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the bar. the person on the left looks like face or photograph and feels like good and happy. the person on the right looks like photograph or smile and feels like happy and good. they are drinking or sitting. "
+}

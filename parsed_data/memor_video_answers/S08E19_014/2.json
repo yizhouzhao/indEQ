@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "0", "no"]], [2, "Where is this place?", ["car", "in car", "truck", "road", "outside"]], [3, "How is the environment feeling?", ["calm", "poor", "cold", "warm", "sunny"]], [4, "What does the person look like?", ["old", "fake", "sad", "blurry", "passenger"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "tired"]], [6, "What is the person doing?", ["driving", "sitting", "taking picture", "riding motorcycle", "riding"]], [7, "What does the person on the left look like?", ["car", "mouse", "plane", "i don't know", "duck"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "tired", "bored"]], [9, "What does the person on the right look like?", ["car", "dog", "old", "selfie", "photographer"]], [10, "How does the person on the right feel like?", ["happy", "tired", "sad", "good", "bored"]], [11, "What are they doing?", ["driving", "riding motorcycle", "sitting", "riding", "traveling"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "truck",
+                "road",
+                "outside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "poor",
+                "cold",
+                "warm",
+                "sunny"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "old",
+                "fake",
+                "sad",
+                "blurry",
+                "passenger"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "sitting",
+                "taking picture",
+                "riding motorcycle",
+                "riding"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "car",
+                "mouse",
+                "plane",
+                "i don't know",
+                "duck"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "car",
+                "dog",
+                "old",
+                "selfie",
+                "photographer"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "tired",
+                "sad",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "driving",
+                "riding motorcycle",
+                "sitting",
+                "riding",
+                "traveling"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and poor. two people are in the car. the person on the left looks like car or mouse and feels like sad and happy. the person on the right looks like car or dog and feels like happy and tired. they are driving or riding motorcycle. "
+}

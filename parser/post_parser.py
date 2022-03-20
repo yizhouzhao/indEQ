@@ -24,7 +24,7 @@ class VideoCausalityParser():
             description += f"the person looks like {qas[3][2][0]} or {qas[1][2][1]} and feels like {qas[4][2][0]} and {qas[4][2][1]}. "
             description += f"the person is {qas[5][2][0]} or {qas[5][2][1]}. "
         elif how_many_people == 2:
-            description += f"two people is in the {qas[1][2][0]}. "
+            description += f"two people are in the {qas[1][2][0]}. "
             description += f"the person on the left looks like {qas[6][2][0]} or {qas[6][2][1]} and feels like {qas[7][2][0]} and {qas[7][2][1]}. "
             description += f"the person on the right looks like {qas[8][2][0]} or {qas[8][2][1]} and feels like {qas[9][2][0]} and {qas[9][2][1]}. "
             description += f"they are {qas[10][2][0]} or {qas[10][2][1]}. "

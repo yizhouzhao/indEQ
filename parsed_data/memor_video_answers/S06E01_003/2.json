@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "2", "0", "standing"]], [2, "Where is this place?", ["bus", "subway", "train", "on train", "store"]], [3, "How is the environment feeling?", ["cool", "clear", "good", "warm", "poor"]], [4, "What does the person look like?", ["selfie", "face", "surprise", "pirate", "phone"]], [5, "How does the person feel like?", ["good", "happy", "bored", "sad", "bad"]], [6, "What is the person doing?", ["looking", "staring", "standing", "watching", "waiting"]], [7, "What does the person on the left look like?", ["face", "cat", "hat", "mouse", "person"]], [8, "How does the person on the left feel like?", ["good", "confused", "happy", "hungry", "sad"]], [9, "What does the person on the right look like?", ["face", "cat", "person", "himself", "gun"]], [10, "How does the person on the right feel like?", ["good", "happy", "confused", "bored", "tired"]], [11, "What are they doing?", ["looking", "standing", "talking", "working", "listening to music"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "2",
+                "0",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bus",
+                "subway",
+                "train",
+                "on train",
+                "store"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "clear",
+                "good",
+                "warm",
+                "poor"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "face",
+                "surprise",
+                "pirate",
+                "phone"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "bored",
+                "sad",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "looking",
+                "staring",
+                "standing",
+                "watching",
+                "waiting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "cat",
+                "hat",
+                "mouse",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "confused",
+                "happy",
+                "hungry",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "face",
+                "cat",
+                "person",
+                "himself",
+                "gun"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "confused",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "looking",
+                "standing",
+                "talking",
+                "working",
+                "listening to music"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and clear. one person is in the bus. the person looks like selfie or subway and feels like good and happy. the person is looking or staring. "
+}

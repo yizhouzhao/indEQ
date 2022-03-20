@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["3", "4", "2", "5", "6"]], [2, "Where is this place?", ["living room", "house", "home", "apartment", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "happy", "good", "messy"]], [4, "What does the person look like?", ["casual", "man", "old", "fake", "ghost"]], [5, "How does the person feel like?", ["sad", "happy", "bored", "good", "tired"]], [6, "What is the person doing?", ["sitting", "talking", "standing", "dancing", "watching"]], [7, "What does the person on the left look like?", ["ghost", "man", "statue", "nothing", "person"]], [8, "How does the person on the left feel like?", ["happy", "bored", "sad", "tired", "warm"]], [9, "What does the person on the right look like?", ["ghost", "man", "nothing", "statue", "old"]], [10, "How does the person on the right feel like?", ["bored", "happy", "tired", "sad", "good"]], [11, "What are they doing?", ["talking", "sitting", "watching tv", "relaxing", "dancing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "3",
+                "4",
+                "2",
+                "5",
+                "6"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "apartment",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "happy",
+                "good",
+                "messy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "man",
+                "old",
+                "fake",
+                "ghost"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "talking",
+                "standing",
+                "dancing",
+                "watching"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ghost",
+                "man",
+                "statue",
+                "nothing",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "bored",
+                "sad",
+                "tired",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "ghost",
+                "man",
+                "nothing",
+                "statue",
+                "old"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "happy",
+                "tired",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "watching tv",
+                "relaxing",
+                "dancing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. a group of people are in the living room. they are talking or sitting. "
+}

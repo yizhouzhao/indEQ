@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "4"]], [2, "Where is this place?", ["restaurant", "house", "home", "living room", "apartment"]], [3, "How is the environment feeling?", ["dark", "warm", "cool", "happy", "normal"]], [4, "What does the person look like?", ["selfie", "business", "surprise", "professional", "casual"]], [5, "How does the person feel like?", ["sad", "bored", "good", "happy", "tired"]], [6, "What is the person doing?", ["drinking", "talking", "sitting", "standing", "eating"]], [7, "What does the person on the left look like?", ["ghost", "human", "mouse", "dog", "hat"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "bored", "unknown"]], [9, "What does the person on the right look like?", ["ghost", "himself", "human", "pirate", "surprise"]], [10, "How does the person on the right feel like?", ["sad", "bored", "good", "happy", "tired"]], [11, "What are they doing?", ["drinking", "talking", "wine tasting", "eating", "sitting"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "house",
+                "home",
+                "living room",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "cool",
+                "happy",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "business",
+                "surprise",
+                "professional",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "drinking",
+                "talking",
+                "sitting",
+                "standing",
+                "eating"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ghost",
+                "human",
+                "mouse",
+                "dog",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "ghost",
+                "himself",
+                "human",
+                "pirate",
+                "surprise"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "talking",
+                "wine tasting",
+                "eating",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the restaurant. the person on the left looks like ghost or human and feels like sad and happy. the person on the right looks like ghost or himself and feels like sad and bored. they are drinking or talking. "
+}

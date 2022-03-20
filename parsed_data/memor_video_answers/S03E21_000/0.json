@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "4"]], [2, "Where is this place?", ["living room", "home", "house", "room", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "cool", "happy", "calm"]], [4, "What does the person look like?", ["man", "male", "casual", "himself", "business"]], [5, "How does the person feel like?", ["sad", "bored", "confused", "happy", "serious"]], [6, "What is the person doing?", ["standing", "smiling", "talking", "looking", "sitting"]], [7, "What does the person on the left look like?", ["man", "himself", "bird", "hat", "person"]], [8, "How does the person on the left feel like?", ["happy", "sad", "confused", "tired", "bored"]], [9, "What does the person on the right look like?", ["himself", "smile", "man", "hat", "not sure"]], [10, "How does the person on the right feel like?", ["confused", "sad", "tired", "bored", "happy"]], [11, "What are they doing?", ["standing", "talking", "playing", "listening", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "room",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "cool",
+                "happy",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "male",
+                "casual",
+                "himself",
+                "business"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "happy",
+                "serious"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "smiling",
+                "talking",
+                "looking",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "himself",
+                "bird",
+                "hat",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "confused",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "smile",
+                "man",
+                "hat",
+                "not sure"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "sad",
+                "tired",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "talking",
+                "playing",
+                "listening",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like man or himself and feels like happy and sad. the person on the right looks like himself or smile and feels like confused and sad. they are standing or talking. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "5", "1"]], [2, "Where is this place?", ["restaurant", "indoors", "bar", "inside", "home"]], [3, "How is the environment feeling?", ["warm", "dark", "happy", "cool", "normal"]], [4, "What does the person look like?", ["female", "woman", "smiling", "smile", "formal"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bad", "fun"]], [6, "What is the person doing?", ["drinking", "smiling", "wine tasting", "sitting", "posing"]], [7, "What does the person on the left look like?", ["man", "smile", "person", "herself", "nothing"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "bored", "bad"]], [9, "What does the person on the right look like?", ["man", "smile", "herself", "person", "woman"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "bored", "confused"]], [11, "What are they doing?", ["drinking", "wine tasting", "talking", "smiling", "sitting"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "5",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "indoors",
+                "bar",
+                "inside",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "happy",
+                "cool",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "smiling",
+                "smile",
+                "formal"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bad",
+                "fun"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "drinking",
+                "smiling",
+                "wine tasting",
+                "sitting",
+                "posing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "smile",
+                "person",
+                "herself",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "bored",
+                "bad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "smile",
+                "herself",
+                "person",
+                "woman"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "drinking",
+                "wine tasting",
+                "talking",
+                "smiling",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the restaurant. the person on the left looks like man or smile and feels like good and sad. the person on the right looks like man or smile and feels like happy and good. they are drinking or wine tasting. "
+}

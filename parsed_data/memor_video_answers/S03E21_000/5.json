@@ -1,1 +1,127 @@
-{"img_name": "5.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "yes"]], [2, "Where is this place?", ["restaurant", "bar", "kitchen", "office", "church"]], [3, "How is the environment feeling?", ["warm", "dark", "cool", "messy", "happy"]], [4, "What does the person look like?", ["surprise", "selfie", "surprised", "glasses", "happy"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "bad"]], [6, "What is the person doing?", ["eating", "cooking", "talking", "working", "serving"]], [7, "What does the person on the left look like?", ["face", "surprise", "eyes", "himself", "selfie"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "confused", "bored"]], [9, "What does the person on the right look like?", ["surprise", "himself", "face", "smile", "surprised"]], [10, "How does the person on the right feel like?", ["good", "happy", "confused", "bored", "sad"]], [11, "What are they doing?", ["eating", "cooking", "talking", "working", "sitting"]]]}
+{
+    "img_name": "5.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "bar",
+                "kitchen",
+                "office",
+                "church"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "cool",
+                "messy",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "surprise",
+                "selfie",
+                "surprised",
+                "glasses",
+                "happy"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "eating",
+                "cooking",
+                "talking",
+                "working",
+                "serving"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "surprise",
+                "eyes",
+                "himself",
+                "selfie"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "surprise",
+                "himself",
+                "face",
+                "smile",
+                "surprised"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "confused",
+                "bored",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "eating",
+                "cooking",
+                "talking",
+                "working",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the restaurant. the person on the left looks like face or surprise and feels like good and happy. the person on the right looks like surprise or himself and feels like good and happy. they are eating or cooking. "
+}

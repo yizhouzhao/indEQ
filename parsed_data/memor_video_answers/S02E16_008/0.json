@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "0"]], [2, "Where is this place?", ["living room", "house", "apartment", "home", "inside"]], [3, "How is the environment feeling?", ["happy", "warm", "dark", "good", "calm"]], [4, "What does the person look like?", ["man", "family", "casual", "selfie", "business"]], [5, "How does the person feel like?", ["sad", "happy", "good", "bored", "warm"]], [6, "What is the person doing?", ["typing", "using computer", "sitting", "working", "using laptop"]], [7, "What does the person on the left look like?", ["butterfly", "man", "ghost", "nothing", "woman"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "warm", "soft"]], [9, "What does the person on the right look like?", ["man", "butterfly", "friend", "color", "normal"]], [10, "How does the person on the right feel like?", ["sad", "happy", "bored", "good", "tired"]], [11, "What are they doing?", ["working", "using computer", "sitting", "reading", "using laptop"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "apartment",
+                "home",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "warm",
+                "dark",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "family",
+                "casual",
+                "selfie",
+                "business"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "typing",
+                "using computer",
+                "sitting",
+                "working",
+                "using laptop"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "butterfly",
+                "man",
+                "ghost",
+                "nothing",
+                "woman"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "warm",
+                "soft"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "butterfly",
+                "friend",
+                "color",
+                "normal"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "bored",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "using computer",
+                "sitting",
+                "reading",
+                "using laptop"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and warm. two people are in the living room. the person on the left looks like butterfly or man and feels like good and happy. the person on the right looks like man or butterfly and feels like sad and happy. they are working or using computer. "
+}

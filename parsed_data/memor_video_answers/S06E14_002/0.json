@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "yes", "0"]], [2, "Where is this place?", ["office", "classroom", "library", "school", "inside"]], [3, "How is the environment feeling?", ["messy", "warm", "dark", "good", "cool"]], [4, "What does the person look like?", ["man", "business", "casual", "male", "adult"]], [5, "How does the person feel like?", ["happy", "bored", "casual", "sad", "serious"]], [6, "What is the person doing?", ["working", "standing", "talking", "playing game", "typing"]], [7, "What does the person on the left look like?", ["man", "person", "adult", "ghost", "human"]], [8, "How does the person on the left feel like?", ["bored", "happy", "sad", "casual", "tired"]], [9, "What does the person on the right look like?", ["man", "adult", "person", "himself", "selfie"]], [10, "How does the person on the right feel like?", ["bored", "happy", "tired", "sad", "good"]], [11, "What are they doing?", ["working", "learning", "talking", "standing", "playing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "classroom",
+                "library",
+                "school",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "messy",
+                "warm",
+                "dark",
+                "good",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "business",
+                "casual",
+                "male",
+                "adult"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "casual",
+                "sad",
+                "serious"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "working",
+                "standing",
+                "talking",
+                "playing game",
+                "typing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "adult",
+                "ghost",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "bored",
+                "happy",
+                "sad",
+                "casual",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "adult",
+                "person",
+                "himself",
+                "selfie"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "happy",
+                "tired",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "learning",
+                "talking",
+                "standing",
+                "playing"
+            ]
+        ]
+    ],
+    "description": "the environment feels messy and warm. two people are in the office. the person on the left looks like man or person and feels like bored and happy. the person on the right looks like man or adult and feels like bored and happy. they are working or learning. "
+}

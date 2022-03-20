@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "5"]], [2, "Where is this place?", ["bar", "restaurant", "outside", "japan", "store"]], [3, "How is the environment feeling?", ["cool", "dark", "clear", "good", "happy"]], [4, "What does the person look like?", ["cartoon", "face", "casual", "person", "man"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "confused"]], [6, "What is the person doing?", ["smiling", "using laptop", "sitting", "talking", "typing"]], [7, "What does the person on the left look like?", ["person", "face", "cartoon", "mouse", "smile"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "confused", "yes"]], [9, "What does the person on the right look like?", ["smile", "face", "cartoon", "person", "eyes"]], [10, "How does the person on the right feel like?", ["happy", "confused", "good", "sad", "bored"]], [11, "What are they doing?", ["talking", "working", "nothing", "listening to music", "sitting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "5"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bar",
+                "restaurant",
+                "outside",
+                "japan",
+                "store"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "clear",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "cartoon",
+                "face",
+                "casual",
+                "person",
+                "man"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "using laptop",
+                "sitting",
+                "talking",
+                "typing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "face",
+                "cartoon",
+                "mouse",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "confused",
+                "yes"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "cartoon",
+                "person",
+                "eyes"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "confused",
+                "good",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "working",
+                "nothing",
+                "listening to music",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the bar. the person on the left looks like person or face and feels like sad and good. the person on the right looks like smile or face and feels like happy and confused. they are talking or working. "
+}

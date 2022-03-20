@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "4", "1"]], [2, "Where is this place?", ["office", "kitchen", "school", "classroom", "work"]], [3, "How is the environment feeling?", ["happy", "warm", "cool", "cold", "good"]], [4, "What does the person look like?", ["casual", "professional", "man", "business", "selfie"]], [5, "How does the person feel like?", ["happy", "good", "sad", "tired", "cold"]], [6, "What is the person doing?", ["working", "typing", "computer", "using laptop", "using computer"]], [7, "What does the person on the left look like?", ["face", "safe", "eyes", "robot", "person"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "yes", "confused"]], [9, "What does the person on the right look like?", ["adult", "kid", "man", "himself", "robot"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "sad", "cold"]], [11, "What are they doing?", ["working", "talking", "listening to music", "computer", "work"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "4",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "kitchen",
+                "school",
+                "classroom",
+                "work"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "warm",
+                "cool",
+                "cold",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "professional",
+                "man",
+                "business",
+                "selfie"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "cold"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "working",
+                "typing",
+                "computer",
+                "using laptop",
+                "using computer"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "safe",
+                "eyes",
+                "robot",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "adult",
+                "kid",
+                "man",
+                "himself",
+                "robot"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "cold"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "talking",
+                "listening to music",
+                "computer",
+                "work"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and warm. two people are in the office. the person on the left looks like face or safe and feels like happy and good. the person on the right looks like adult or kid and feels like happy and good. they are working or talking. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "yes"]], [2, "Where is this place?", ["restaurant", "bar", "church", "inside", "indoors"]], [3, "How is the environment feeling?", ["warm", "dark", "cool", "happy", "normal"]], [4, "What does the person look like?", ["surprise", "red", "happy", "casual", "surprised"]], [5, "How does the person feel like?", ["sad", "bored", "confused", "good", "tired"]], [6, "What is the person doing?", ["talking", "sitting", "eating", "looking", "working"]], [7, "What does the person on the left look like?", ["face", "himself", "smartphone", "pizza", "eyes"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "bored", "confused"]], [9, "What does the person on the right look like?", ["pizza", "surprise", "red", "cartoon", "face"]], [10, "How does the person on the right feel like?", ["sad", "bored", "confused", "good", "tired"]], [11, "What are they doing?", ["talking", "sitting", "eating", "drinking", "watching tv"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "bar",
+                "church",
+                "inside",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "cool",
+                "happy",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "surprise",
+                "red",
+                "happy",
+                "casual",
+                "surprised"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "sitting",
+                "eating",
+                "looking",
+                "working"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "himself",
+                "smartphone",
+                "pizza",
+                "eyes"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "pizza",
+                "surprise",
+                "red",
+                "cartoon",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "confused",
+                "good",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "eating",
+                "drinking",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the restaurant. the person on the left looks like face or himself and feels like sad and good. the person on the right looks like pizza or surprise and feels like sad and bored. they are talking or sitting. "
+}

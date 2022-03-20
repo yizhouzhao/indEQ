@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "1", "0", "no"]], [2, "Where is this place?", ["bus", "car", "in car", "train", "on bus"]], [3, "How is the environment feeling?", ["sunny", "warm", "calm", "fair", "happy"]], [4, "What does the person look like?", ["selfie", "surprise", "happy", "himself", "man"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "tired"]], [6, "What is the person doing?", ["talking on phone", "looking out window", "listening to music", "smiling", "using laptop"]], [7, "What does the person on the left look like?", ["face", "dog", "selfie", "himself", "phone"]], [8, "How does the person on the left feel like?", ["good", "happy", "confused", "sad", "yes"]], [9, "What does the person on the right look like?", ["himself", "selfie", "surprise", "happy", "smile"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "sad", "bored"]], [11, "What are they doing?", ["talking", "watching", "looking", "listening to music", "looking out window"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "1",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bus",
+                "car",
+                "in car",
+                "train",
+                "on bus"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "sunny",
+                "warm",
+                "calm",
+                "fair",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "surprise",
+                "happy",
+                "himself",
+                "man"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "looking out window",
+                "listening to music",
+                "smiling",
+                "using laptop"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "dog",
+                "selfie",
+                "himself",
+                "phone"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "confused",
+                "sad",
+                "yes"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "himself",
+                "selfie",
+                "surprise",
+                "happy",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "watching",
+                "looking",
+                "listening to music",
+                "looking out window"
+            ]
+        ]
+    ],
+    "description": "the environment feels sunny and warm. two people are in the bus. the person on the left looks like face or dog and feels like good and happy. the person on the right looks like himself or selfie and feels like happy and good. they are talking or watching. "
+}

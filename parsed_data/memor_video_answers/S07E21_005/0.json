@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "yes", "no"]], [2, "Where is this place?", ["home", "house", "inside", "kitchen", "store"]], [3, "How is the environment feeling?", ["cool", "dark", "clear", "no", "calm"]], [4, "What does the person look like?", ["man", "surprise", "selfie", "confused", "glasses"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "confused"]], [6, "What is the person doing?", ["texting", "smiling", "sitting", "looking at phone", "phone"]], [7, "What does the person on the left look like?", ["man", "person", "face", "nothing", "smile"]], [8, "How does the person on the left feel like?", ["sad", "good", "bored", "happy", "tired"]], [9, "What does the person on the right look like?", ["man", "smile", "selfie", "nothing", "himself"]], [10, "How does the person on the right feel like?", ["sad", "bored", "good", "happy", "confused"]], [11, "What are they doing?", ["texting", "looking at phone", "taking pictures", "playing", "talking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "yes",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "house",
+                "inside",
+                "kitchen",
+                "store"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "clear",
+                "no",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "surprise",
+                "selfie",
+                "confused",
+                "glasses"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "smiling",
+                "sitting",
+                "looking at phone",
+                "phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "person",
+                "face",
+                "nothing",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "smile",
+                "selfie",
+                "nothing",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "texting",
+                "looking at phone",
+                "taking pictures",
+                "playing",
+                "talking"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the home. the person on the left looks like man or person and feels like sad and good. the person on the right looks like man or smile and feels like sad and bored. they are texting or looking at phone. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "standing"]], [2, "Where is this place?", ["living room", "home", "inside", "office", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "cool", "happy", "normal"]], [4, "What does the person look like?", ["man", "color", "glasses", "serious", "surprise"]], [5, "How does the person feel like?", ["bored", "confused", "tired", "good", "happy"]], [6, "What is the person doing?", ["sitting", "working", "using computer", "typing", "using laptop"]], [7, "What does the person on the left look like?", ["tv", "keyboard", "nothing", "man", "dog"]], [8, "How does the person on the left feel like?", ["bored", "good", "confused", "sad", "tired"]], [9, "What does the person on the right look like?", ["man", "surprise", "himself", "smile", "keyboard"]], [10, "How does the person on the right feel like?", ["tired", "confused", "bored", "sad", "happy"]], [11, "What are they doing?", ["working", "sitting", "reading", "computer", "using computer"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "inside",
+                "office",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "cool",
+                "happy",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "color",
+                "glasses",
+                "serious",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "confused",
+                "tired",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "working",
+                "using computer",
+                "typing",
+                "using laptop"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "tv",
+                "keyboard",
+                "nothing",
+                "man",
+                "dog"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "bored",
+                "good",
+                "confused",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "surprise",
+                "himself",
+                "smile",
+                "keyboard"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "tired",
+                "confused",
+                "bored",
+                "sad",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "sitting",
+                "reading",
+                "computer",
+                "using computer"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the living room. the person on the left looks like tv or keyboard and feels like bored and good. the person on the right looks like man or surprise and feels like tired and confused. they are working or sitting. "
+}

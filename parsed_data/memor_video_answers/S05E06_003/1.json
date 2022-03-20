@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "4"]], [2, "Where is this place?", ["living room", "home", "house", "inside", "room"]], [3, "How is the environment feeling?", ["cool", "warm", "dark", "good", "no"]], [4, "What does the person look like?", ["cartoon", "family", "animal", "party", "sad"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bad", "fun"]], [6, "What is the person doing?", ["watching", "sitting", "watching tv", "working", "talking"]], [7, "What does the person on the left look like?", ["cartoon", "ghost", "animal", "butterfly", "person"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "bad", "sad"]], [9, "What does the person on the right look like?", ["cartoon", "ghost", "animal", "butterfly", "smile"]], [10, "How does the person on the right feel like?", ["happy", "sad", "good", "bad", "unknown"]], [11, "What are they doing?", ["sitting", "watching", "watching tv", "talking", "playing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "home",
+                "house",
+                "inside",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "warm",
+                "dark",
+                "good",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "cartoon",
+                "family",
+                "animal",
+                "party",
+                "sad"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bad",
+                "fun"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "watching",
+                "sitting",
+                "watching tv",
+                "working",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "cartoon",
+                "ghost",
+                "animal",
+                "butterfly",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "bad",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cartoon",
+                "ghost",
+                "animal",
+                "butterfly",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bad",
+                "unknown"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "watching",
+                "watching tv",
+                "talking",
+                "playing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and warm. two people are in the living room. the person on the left looks like cartoon or ghost and feels like happy and good. the person on the right looks like cartoon or ghost and feels like happy and sad. they are sitting or watching. "
+}

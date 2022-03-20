@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "3", "1", "0"]], [2, "Where is this place?", ["living room", "house", "inside", "home", "room"]], [3, "How is the environment feeling?", ["dark", "calm", "warm", "clear", "normal"]], [4, "What does the person look like?", ["man", "casual", "nothing", "selfie", "female"]], [5, "How does the person feel like?", ["sad", "bored", "good", "happy", "calm"]], [6, "What is the person doing?", ["talking on phone", "talking", "phone", "standing", "holding phone"]], [7, "What does the person on the left look like?", ["nothing", "dog", "man", "person", "hair"]], [8, "How does the person on the left feel like?", ["sad", "bored", "good", "happy", "tired"]], [9, "What does the person on the right look like?", ["nothing", "female", "not possible", "man", "face"]], [10, "How does the person on the right feel like?", ["bored", "sad", "calm", "happy", "tired"]], [11, "What are they doing?", ["talking on phone", "talking", "walking", "waiting", "standing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "3",
+                "1",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "inside",
+                "home",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "calm",
+                "warm",
+                "clear",
+                "normal"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "casual",
+                "nothing",
+                "selfie",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "talking",
+                "phone",
+                "standing",
+                "holding phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "dog",
+                "man",
+                "person",
+                "hair"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "nothing",
+                "female",
+                "not possible",
+                "man",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "calm",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking on phone",
+                "talking",
+                "walking",
+                "waiting",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and calm. two people are in the living room. the person on the left looks like nothing or dog and feels like sad and bored. the person on the right looks like nothing or female and feels like bored and sad. they are talking on phone or talking. "
+}

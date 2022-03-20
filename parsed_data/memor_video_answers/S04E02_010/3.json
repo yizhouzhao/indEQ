@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "3", "1", "no"]], [2, "Where is this place?", ["outside", "outdoors", "inside", "church", "home"]], [3, "How is the environment feeling?", ["cool", "dark", "warm", "yes", "clear"]], [4, "What does the person look like?", ["female", "woman", "child", "selfie", "girl"]], [5, "How does the person feel like?", ["sad", "happy", "good", "bored", "tired"]], [6, "What is the person doing?", ["talking on phone", "talking", "standing", "posing", "brushing"]], [7, "What does the person on the left look like?", ["person", "woman", "nothing", "smile", "girl"]], [8, "How does the person on the left feel like?", ["sad", "good", "happy", "bored", "warm"]], [9, "What does the person on the right look like?", ["herself", "smile", "girl", "person", "cat"]], [10, "How does the person on the right feel like?", ["sad", "bored", "happy", "tired", "good"]], [11, "What are they doing?", ["talking", "talking on phone", "posing", "standing", "singing"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "3",
+                "1",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "outdoors",
+                "inside",
+                "church",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "dark",
+                "warm",
+                "yes",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "child",
+                "selfie",
+                "girl"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "talking",
+                "standing",
+                "posing",
+                "brushing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "woman",
+                "nothing",
+                "smile",
+                "girl"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "herself",
+                "smile",
+                "girl",
+                "person",
+                "cat"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "talking on phone",
+                "posing",
+                "standing",
+                "singing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and dark. two people are in the outside. the person on the left looks like person or woman and feels like sad and good. the person on the right looks like herself or smile and feels like sad and bored. they are talking or talking on phone. "
+}

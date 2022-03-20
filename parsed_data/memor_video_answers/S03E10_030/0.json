@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "0"]], [2, "Where is this place?", ["bedroom", "hotel", "house", "home", "hospital"]], [3, "How is the environment feeling?", ["dark", "calm", "cool", "warm", "clear"]], [4, "What does the person look like?", ["glasses", "surprise", "old", "surprised", "confused"]], [5, "How does the person feel like?", ["sad", "bored", "good", "confused", "happy"]], [6, "What is the person doing?", ["taking selfie", "standing", "taking picture", "selfie", "talking on phone"]], [7, "What does the person on the left look like?", ["glasses", "nothing", "man", "fish", "bird"]], [8, "How does the person on the left feel like?", ["sad", "good", "confused", "yes", "happy"]], [9, "What does the person on the right look like?", ["glasses", "smile", "man", "himself", "nothing"]], [10, "How does the person on the right feel like?", ["sad", "confused", "bored", "good", "happy"]], [11, "What are they doing?", ["taking pictures", "talking", "looking", "standing", "playing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bedroom",
+                "hotel",
+                "house",
+                "home",
+                "hospital"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "calm",
+                "cool",
+                "warm",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "glasses",
+                "surprise",
+                "old",
+                "surprised",
+                "confused"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "taking selfie",
+                "standing",
+                "taking picture",
+                "selfie",
+                "talking on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "glasses",
+                "nothing",
+                "man",
+                "fish",
+                "bird"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "confused",
+                "yes",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "glasses",
+                "smile",
+                "man",
+                "himself",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "confused",
+                "bored",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking pictures",
+                "talking",
+                "looking",
+                "standing",
+                "playing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and calm. two people are in the bedroom. the person on the left looks like glasses or nothing and feels like sad and good. the person on the right looks like glasses or smile and feels like sad and confused. they are taking pictures or talking. "
+}

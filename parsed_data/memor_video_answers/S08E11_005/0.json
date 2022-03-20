@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "4"]], [2, "Where is this place?", ["hospital", "airplane", "office", "bathroom", "train"]], [3, "How is the environment feeling?", ["sunny", "fair", "cool", "warm", "good"]], [4, "What does the person look like?", ["chef", "costume", "man", "uniform", "bride"]], [5, "How does the person feel like?", ["good", "sad", "happy", "tired", "cool"]], [6, "What is the person doing?", ["taking picture", "cutting hair", "looking", "listening to music", "sitting"]], [7, "What does the person on the left look like?", ["gun", "mask", "head", "man", "soldier"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "tired", "hungry"]], [9, "What does the person on the right look like?", ["gun", "mask", "robot", "ghost", "soldier"]], [10, "How does the person on the right feel like?", ["good", "happy", "tired", "sad", "confused"]], [11, "What are they doing?", ["talking", "sitting", "cleaning", "working", "cooking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "hospital",
+                "airplane",
+                "office",
+                "bathroom",
+                "train"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "sunny",
+                "fair",
+                "cool",
+                "warm",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "chef",
+                "costume",
+                "man",
+                "uniform",
+                "bride"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "tired",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "taking picture",
+                "cutting hair",
+                "looking",
+                "listening to music",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "gun",
+                "mask",
+                "head",
+                "man",
+                "soldier"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "tired",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "gun",
+                "mask",
+                "robot",
+                "ghost",
+                "soldier"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "tired",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "sitting",
+                "cleaning",
+                "working",
+                "cooking"
+            ]
+        ]
+    ],
+    "description": "the environment feels sunny and fair. two people are in the hospital. the person on the left looks like gun or mask and feels like sad and happy. the person on the right looks like gun or mask and feels like good and happy. they are talking or sitting. "
+}

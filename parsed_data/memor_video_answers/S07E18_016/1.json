@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "no", "0", "4"]], [2, "Where is this place?", ["in car", "car", "outdoors", "outside", "parking lot"]], [3, "How is the environment feeling?", ["dark", "warm", "calm", "fair", "clear"]], [4, "What does the person look like?", ["selfie", "sad", "old", "fake", "passenger"]], [5, "How does the person feel like?", ["happy", "tired", "bored", "sad", "calm"]], [6, "What is the person doing?", ["driving", "sitting", "riding", "talking", "riding motorcycle"]], [7, "What does the person on the left look like?", ["car", "no cat", "ghost", "person", "photographer"]], [8, "How does the person on the left feel like?", ["sad", "happy", "tired", "bored", "unknown"]], [9, "What does the person on the right look like?", ["selfie", "photographer", "old", "dog", "person"]], [10, "How does the person on the right feel like?", ["happy", "tired", "bored", "sad", "good"]], [11, "What are they doing?", ["driving", "riding", "sitting", "parade", "traveling"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "no",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "in car",
+                "car",
+                "outdoors",
+                "outside",
+                "parking lot"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "calm",
+                "fair",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "sad",
+                "old",
+                "fake",
+                "passenger"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "tired",
+                "bored",
+                "sad",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "sitting",
+                "riding",
+                "talking",
+                "riding motorcycle"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "car",
+                "no cat",
+                "ghost",
+                "person",
+                "photographer"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "photographer",
+                "old",
+                "dog",
+                "person"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "tired",
+                "bored",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "driving",
+                "riding",
+                "sitting",
+                "parade",
+                "traveling"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the in car. the person on the left looks like car or no cat and feels like sad and happy. the person on the right looks like selfie or photographer and feels like happy and tired. they are driving or riding. "
+}

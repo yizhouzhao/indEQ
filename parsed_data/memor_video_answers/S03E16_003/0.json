@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "0", "1", "standing"]], [2, "Where is this place?", ["store", "mall", "bar", "indoors", "school"]], [3, "How is the environment feeling?", ["cool", "good", "warm", "busy", "happy"]], [4, "What does the person look like?", ["cartoon", "person", "kids", "face", "casual"]], [5, "How does the person feel like?", ["happy", "good", "bored", "fun", "bad"]], [6, "What is the person doing?", ["smiling", "standing", "talking", "sitting", "watching"]], [7, "What does the person on the left look like?", ["ghost", "man", "person", "robot", "cartoon"]], [8, "How does the person on the left feel like?", ["happy", "good", "bored", "sad", "warm"]], [9, "What does the person on the right look like?", ["person", "ghost", "robot", "smile", "cartoon"]], [10, "How does the person on the right feel like?", ["happy", "bored", "good", "sad", "confused"]], [11, "What are they doing?", ["talking", "playing", "dancing", "standing", "playing game"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "0",
+                "1",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "store",
+                "mall",
+                "bar",
+                "indoors",
+                "school"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "good",
+                "warm",
+                "busy",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "cartoon",
+                "person",
+                "kids",
+                "face",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "fun",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "standing",
+                "talking",
+                "sitting",
+                "watching"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ghost",
+                "man",
+                "person",
+                "robot",
+                "cartoon"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "person",
+                "ghost",
+                "robot",
+                "smile",
+                "cartoon"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "playing",
+                "dancing",
+                "standing",
+                "playing game"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and good. two people are in the store. the person on the left looks like ghost or man and feels like happy and good. the person on the right looks like person or ghost and feels like happy and bored. they are talking or playing. "
+}

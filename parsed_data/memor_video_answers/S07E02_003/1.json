@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "standing"]], [2, "Where is this place?", ["house", "living room", "home", "inside", "indoors"]], [3, "How is the environment feeling?", ["happy", "good", "cool", "cold", "warm"]], [4, "What does the person look like?", ["costume", "fake", "dress", "baby", "umbrella"]], [5, "How does the person feel like?", ["happy", "good", "sad", "cold", "cool"]], [6, "What is the person doing?", ["posing", "smiling", "standing", "talking", "laughing"]], [7, "What does the person on the left look like?", ["costume", "dress", "umbrella", "whale", "arm"]], [8, "How does the person on the left feel like?", ["cold", "happy", "sad", "good", "cool"]], [9, "What does the person on the right look like?", ["costume", "umbrella", "dress", "scarf", "smile"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "cold", "cool"]], [11, "What are they doing?", ["talking", "posing", "smiling", "hugging", "laughing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "living room",
+                "home",
+                "inside",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "cold",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "costume",
+                "fake",
+                "dress",
+                "baby",
+                "umbrella"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "cold",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "posing",
+                "smiling",
+                "standing",
+                "talking",
+                "laughing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "costume",
+                "dress",
+                "umbrella",
+                "whale",
+                "arm"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "cold",
+                "happy",
+                "sad",
+                "good",
+                "cool"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "costume",
+                "umbrella",
+                "dress",
+                "scarf",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "cold",
+                "cool"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "posing",
+                "smiling",
+                "hugging",
+                "laughing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and good. two people are in the house. the person on the left looks like costume or dress and feels like cold and happy. the person on the right looks like costume or umbrella and feels like happy and good. they are talking or posing. "
+}

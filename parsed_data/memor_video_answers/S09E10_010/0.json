@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "2 people"]], [2, "Where is this place?", ["kitchen", "restaurant", "office", "indoors", "inside"]], [3, "How is the environment feeling?", ["cool", "warm", "happy", "calm", "dark"]], [4, "What does the person look like?", ["casual", "family", "selfie", "smiling", "surprise"]], [5, "How does the person feel like?", ["sad", "good", "bored", "confused", "happy"]], [6, "What is the person doing?", ["texting", "looking at phone", "on phone", "playing", "sitting"]], [7, "What does the person on the left look like?", ["face", "eyes", "person", "smile", "animal"]], [8, "How does the person on the left feel like?", ["confused", "sad", "happy", "good", "hungry"]], [9, "What does the person on the right look like?", ["smile", "face", "eyes", "giraffe", "happy"]], [10, "How does the person on the right feel like?", ["confused", "sad", "good", "bored", "happy"]], [11, "What are they doing?", ["texting", "playing", "looking at phone", "taking pictures", "playing game"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "2 people"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "restaurant",
+                "office",
+                "indoors",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "warm",
+                "happy",
+                "calm",
+                "dark"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "family",
+                "selfie",
+                "smiling",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "texting",
+                "looking at phone",
+                "on phone",
+                "playing",
+                "sitting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "eyes",
+                "person",
+                "smile",
+                "animal"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "confused",
+                "sad",
+                "happy",
+                "good",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "eyes",
+                "giraffe",
+                "happy"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "sad",
+                "good",
+                "bored",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "texting",
+                "playing",
+                "looking at phone",
+                "taking pictures",
+                "playing game"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and warm. two people are in the kitchen. the person on the left looks like face or eyes and feels like confused and sad. the person on the right looks like smile or face and feels like confused and sad. they are texting or playing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "yes", "3", "0", "1"]], [2, "Where is this place?", ["kitchen", "house", "home", "inside", "office"]], [3, "How is the environment feeling?", ["dark", "cool", "warm", "clear", "good"]], [4, "What does the person look like?", ["selfie", "man", "casual", "surprise", "red"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "confused"]], [6, "What is the person doing?", ["talking on phone", "talking", "standing", "looking out window", "on phone"]], [7, "What does the person on the left look like?", ["glasses", "face", "man", "selfie", "smile"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "yes", "bored"]], [9, "What does the person on the right look like?", ["smile", "selfie", "kid", "dad", "cat"]], [10, "How does the person on the right feel like?", ["sad", "bored", "good", "confused", "happy"]], [11, "What are they doing?", ["talking on phone", "talking", "looking out window", "standing", "listening"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "yes",
+                "3",
+                "0",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "inside",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "cool",
+                "warm",
+                "clear",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "man",
+                "casual",
+                "surprise",
+                "red"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking on phone",
+                "talking",
+                "standing",
+                "looking out window",
+                "on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "glasses",
+                "face",
+                "man",
+                "selfie",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "yes",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "selfie",
+                "kid",
+                "dad",
+                "cat"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "confused",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking on phone",
+                "talking",
+                "looking out window",
+                "standing",
+                "listening"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and cool. two people are in the kitchen. the person on the left looks like glasses or face and feels like sad and happy. the person on the right looks like smile or selfie and feels like sad and bored. they are talking on phone or talking. "
+}

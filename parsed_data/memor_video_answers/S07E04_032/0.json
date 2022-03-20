@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "10", "yes"]], [2, "Where is this place?", ["home", "inside", "indoors", "house", "living room"]], [3, "How is the environment feeling?", ["warm", "happy", "calm", "good", "fair"]], [4, "What does the person look like?", ["woman", "female", "dress", "bride", "prom"]], [5, "How does the person feel like?", ["sad", "good", "happy", "warm", "calm"]], [6, "What is the person doing?", ["posing", "sitting", "standing", "smiling", "dancing"]], [7, "What does the person on the left look like?", ["woman", "yes", "doll", "girl", "dress"]], [8, "How does the person on the left feel like?", ["sad", "good", "warm", "happy", "yes"]], [9, "What does the person on the right look like?", ["woman", "dress", "yes", "no", "female"]], [10, "How does the person on the right feel like?", ["sad", "good", "happy", "tired", "bored"]], [11, "What are they doing?", ["talking", "dancing", "posing", "sitting", "prom"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "10",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "home",
+                "inside",
+                "indoors",
+                "house",
+                "living room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "calm",
+                "good",
+                "fair"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "woman",
+                "female",
+                "dress",
+                "bride",
+                "prom"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "warm",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "posing",
+                "sitting",
+                "standing",
+                "smiling",
+                "dancing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "woman",
+                "yes",
+                "doll",
+                "girl",
+                "dress"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "good",
+                "warm",
+                "happy",
+                "yes"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "woman",
+                "dress",
+                "yes",
+                "no",
+                "female"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "dancing",
+                "posing",
+                "sitting",
+                "prom"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. one person is in the home. the person looks like woman or inside and feels like sad and good. the person is posing or sitting. "
+}

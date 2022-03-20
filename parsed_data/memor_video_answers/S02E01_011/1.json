@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "0"]], [2, "Where is this place?", ["inside", "garage", "home", "outside", "church"]], [3, "How is the environment feeling?", ["dark", "warm", "cool", "calm", "clear"]], [4, "What does the person look like?", ["man", "baseball", "male", "baseball player", "person"]], [5, "How does the person feel like?", ["happy", "good", "calm", "cool", "bored"]], [6, "What is the person doing?", ["standing", "posing", "batting", "smiling", "playing baseball"]], [7, "What does the person on the left look like?", ["dog", "person", "man", "bull", "giraffe"]], [8, "How does the person on the left feel like?", ["good", "happy", "yes", "confused", "sad"]], [9, "What does the person on the right look like?", ["dog", "person", "giraffe", "man", "baseball"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "bored", "tired"]], [11, "What are they doing?", ["standing", "posing", "playing baseball", "baseball", "batting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "garage",
+                "home",
+                "outside",
+                "church"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "cool",
+                "calm",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "baseball",
+                "male",
+                "baseball player",
+                "person"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "calm",
+                "cool",
+                "bored"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "posing",
+                "batting",
+                "smiling",
+                "playing baseball"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "person",
+                "man",
+                "bull",
+                "giraffe"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "yes",
+                "confused",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "person",
+                "giraffe",
+                "man",
+                "baseball"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "posing",
+                "playing baseball",
+                "baseball",
+                "batting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the inside. the person on the left looks like dog or person and feels like good and happy. the person on the right looks like dog or person and feels like happy and good. they are standing or posing. "
+}

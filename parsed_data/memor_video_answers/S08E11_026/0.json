@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "yes"]], [2, "Where is this place?", ["car", "bus", "on bus", "train", "in car"]], [3, "How is the environment feeling?", ["no", "dark", "calm", "poor", "night"]], [4, "What does the person look like?", ["sad", "dark", "happy", "fake", "serious"]], [5, "How does the person feel like?", ["happy", "good", "bored", "tired", "calm"]], [6, "What is the person doing?", ["sitting", "smiling", "talking on phone", "looking out window", "texting"]], [7, "What does the person on the left look like?", ["person", "photographer", "no cat", "glasses", "man"]], [8, "How does the person on the left feel like?", ["sad", "happy", "tired", "bored", "good"]], [9, "What does the person on the right look like?", ["photographer", "himself", "sad", "old", "color"]], [10, "How does the person on the right feel like?", ["happy", "bored", "tired", "sad", "good"]], [11, "What are they doing?", ["sitting", "talking", "traveling", "watching", "relaxing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "bus",
+                "on bus",
+                "train",
+                "in car"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "dark",
+                "calm",
+                "poor",
+                "night"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "sad",
+                "dark",
+                "happy",
+                "fake",
+                "serious"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "tired",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "smiling",
+                "talking on phone",
+                "looking out window",
+                "texting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "photographer",
+                "no cat",
+                "glasses",
+                "man"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "photographer",
+                "himself",
+                "sad",
+                "old",
+                "color"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "tired",
+                "sad",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "talking",
+                "traveling",
+                "watching",
+                "relaxing"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and dark. two people are in the car. the person on the left looks like person or photographer and feels like sad and happy. the person on the right looks like photographer or himself and feels like happy and bored. they are sitting or talking. "
+}

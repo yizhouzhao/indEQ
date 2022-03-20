@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "no"]], [2, "Where is this place?", ["restaurant", "dining room", "home", "kitchen", "apartment"]], [3, "How is the environment feeling?", ["warm", "happy", "good", "sunny", "clear"]], [4, "What does the person look like?", ["happy", "smile", "photo", "smiling", "dinner"]], [5, "How does the person feel like?", ["happy", "good", "sad", "yes", "hungry"]], [6, "What is the person doing?", ["eating", "sitting", "smiling", "dining", "wine tasting"]], [7, "What does the person on the left look like?", ["smile", "himself", "person", "rabbit", "man"]], [8, "How does the person on the left feel like?", ["good", "happy", "sad", "hungry", "full"]], [9, "What does the person on the right look like?", ["smile", "himself", "bride", "happy", "human"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "hungry", "confused"]], [11, "What are they doing?", ["eating", "dining", "sitting", "talking", "smiling"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "dining room",
+                "home",
+                "kitchen",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "good",
+                "sunny",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "happy",
+                "smile",
+                "photo",
+                "smiling",
+                "dinner"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "hungry"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "eating",
+                "sitting",
+                "smiling",
+                "dining",
+                "wine tasting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "himself",
+                "person",
+                "rabbit",
+                "man"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "hungry",
+                "full"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "himself",
+                "bride",
+                "happy",
+                "human"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "hungry",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "eating",
+                "dining",
+                "sitting",
+                "talking",
+                "smiling"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. two people are in the restaurant. the person on the left looks like smile or himself and feels like good and happy. the person on the right looks like smile or himself and feels like happy and good. they are eating or dining. "
+}

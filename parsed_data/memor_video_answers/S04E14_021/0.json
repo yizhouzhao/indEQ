@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "2", "0", "3"]], [2, "Where is this place?", ["office", "bedroom", "indoors", "home", "inside"]], [3, "How is the environment feeling?", ["dark", "poor", "calm", "happy", "clear"]], [4, "What does the person look like?", ["selfie", "taking selfie", "taking picture", "woman", "picture"]], [5, "How does the person feel like?", ["happy", "good", "bad", "fun", "cool"]], [6, "What is the person doing?", ["taking picture", "taking selfie", "selfie", "taking photo", "smiling"]], [7, "What does the person on the left look like?", ["selfie", "person", "man", "glasses", "camera"]], [8, "How does the person on the left feel like?", ["happy", "good", "confused", "yes", "hungry"]], [9, "What does the person on the right look like?", ["selfie", "smile", "himself", "taking selfie", "person"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "happiness", "calm"]], [11, "What are they doing?", ["taking picture", "selfie", "taking selfie", "talking", "taking pictures"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "2",
+                "0",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "bedroom",
+                "indoors",
+                "home",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "poor",
+                "calm",
+                "happy",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "taking selfie",
+                "taking picture",
+                "woman",
+                "picture"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bad",
+                "fun",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "taking picture",
+                "taking selfie",
+                "selfie",
+                "taking photo",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "selfie",
+                "person",
+                "man",
+                "glasses",
+                "camera"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "yes",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "smile",
+                "himself",
+                "taking selfie",
+                "person"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "happiness",
+                "calm"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking picture",
+                "selfie",
+                "taking selfie",
+                "talking",
+                "taking pictures"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and poor. one person is in the office. the person looks like selfie or bedroom and feels like happy and good. the person is taking picture or taking selfie. "
+}

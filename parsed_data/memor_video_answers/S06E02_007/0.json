@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "10"]], [2, "Where is this place?", ["inside", "car", "airport", "bus", "airplane"]], [3, "How is the environment feeling?", ["no", "warm", "cloudy", "clear", "cold"]], [4, "What does the person look like?", ["dark", "no", "sad", "nothing", "casual"]], [5, "How does the person feel like?", ["sad", "bored", "no", "tired", "confused"]], [6, "What is the person doing?", ["sitting", "talking", "using computer", "looking", "listening"]], [7, "What does the person on the left look like?", ["no cat", "model", "nothing", "laptop", "fire"]], [8, "How does the person on the left feel like?", ["sad", "bored", "tired", "confused", "no"]], [9, "What does the person on the right look like?", ["casual", "surprise", "nothing", "cartoon", "sad"]], [10, "How does the person on the right feel like?", ["sad", "bored", "tired", "confused", "good"]], [11, "What are they doing?", ["sitting", "talking", "looking", "listening", "watching"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "10"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "car",
+                "airport",
+                "bus",
+                "airplane"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "warm",
+                "cloudy",
+                "clear",
+                "cold"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "dark",
+                "no",
+                "sad",
+                "nothing",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "no",
+                "tired",
+                "confused"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "talking",
+                "using computer",
+                "looking",
+                "listening"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "no cat",
+                "model",
+                "nothing",
+                "laptop",
+                "fire"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "confused",
+                "no"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "casual",
+                "surprise",
+                "nothing",
+                "cartoon",
+                "sad"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "bored",
+                "tired",
+                "confused",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "talking",
+                "looking",
+                "listening",
+                "watching"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and warm. two people are in the inside. the person on the left looks like no cat or model and feels like sad and bored. the person on the right looks like casual or surprise and feels like sad and bored. they are sitting or talking. "
+}

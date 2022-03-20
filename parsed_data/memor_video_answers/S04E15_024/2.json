@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "0", "yes", "2 men"]], [2, "Where is this place?", ["office", "store", "bar", "library", "japan"]], [3, "How is the environment feeling?", ["cool", "good", "dark", "busy", "clear"]], [4, "What does the person look like?", ["business", "suit", "glasses", "man", "formal"]], [5, "How does the person feel like?", ["happy", "good", "cool", "yes", "warm"]], [6, "What is the person doing?", ["smiling", "standing", "posing", "laughing", "talking"]], [7, "What does the person on the left look like?", ["suit", "microphone", "nothing", "hand", "glasses"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "confused", "bored"]], [9, "What does the person on the right look like?", ["suit", "microphone", "glasses", "tie", "nothing"]], [10, "How does the person on the right feel like?", ["happy", "good", "confused", "bored", "calm"]], [11, "What are they doing?", ["standing", "smiling", "shaking hands", "talking", "posing"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "0",
+                "yes",
+                "2 men"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "store",
+                "bar",
+                "library",
+                "japan"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cool",
+                "good",
+                "dark",
+                "busy",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "business",
+                "suit",
+                "glasses",
+                "man",
+                "formal"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "yes",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "standing",
+                "posing",
+                "laughing",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "suit",
+                "microphone",
+                "nothing",
+                "hand",
+                "glasses"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "suit",
+                "microphone",
+                "glasses",
+                "tie",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "confused",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "smiling",
+                "shaking hands",
+                "talking",
+                "posing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cool and good. two people are in the office. the person on the left looks like suit or microphone and feels like happy and good. the person on the right looks like suit or microphone and feels like happy and good. they are standing or smiling. "
+}

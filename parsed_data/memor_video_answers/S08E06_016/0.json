@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "3", "yes", "4"]], [2, "Where is this place?", ["airport", "bar", "outside", "garage", "night"]], [3, "How is the environment feeling?", ["no", "poor", "dark", "night", "clear"]], [4, "What does the person look like?", ["dog", "robin", "man", "cartoon", "smile"]], [5, "How does the person feel like?", ["sad", "bored", "happy", "tired", "calm"]], [6, "What is the person doing?", ["posing", "standing", "smiling", "staring", "looking at camera"]], [7, "What does the person on the left look like?", ["smiley face", "hat", "cat", "face", "dog"]], [8, "How does the person on the left feel like?", ["sad", "happy", "confused", "bored", "good"]], [9, "What does the person on the right look like?", ["hat", "smiley face", "smile", "cat", "dog"]], [10, "How does the person on the right feel like?", ["sad", "happy", "confused", "bored", "tired"]], [11, "What are they doing?", ["standing", "posing", "staring", "smiling", "watching"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "3",
+                "yes",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "airport",
+                "bar",
+                "outside",
+                "garage",
+                "night"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "no",
+                "poor",
+                "dark",
+                "night",
+                "clear"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "dog",
+                "robin",
+                "man",
+                "cartoon",
+                "smile"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "bored",
+                "happy",
+                "tired",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "posing",
+                "standing",
+                "smiling",
+                "staring",
+                "looking at camera"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smiley face",
+                "hat",
+                "cat",
+                "face",
+                "dog"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "hat",
+                "smiley face",
+                "smile",
+                "cat",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "confused",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "posing",
+                "staring",
+                "smiling",
+                "watching"
+            ]
+        ]
+    ],
+    "description": "the environment feels no and poor. one person is in the airport. the person looks like dog or bar and feels like sad and bored. the person is posing or standing. "
+}

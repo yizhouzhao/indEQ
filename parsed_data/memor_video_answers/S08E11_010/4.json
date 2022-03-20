@@ -1,1 +1,127 @@
-{"img_name": "4.jpg", "question_answer": [[1, "How many people?", ["1", "2", "yes", "0", "3"]], [2, "Where is this place?", ["hospital", "office", "inside", "bathroom", "home"]], [3, "How is the environment feeling?", ["good", "messy", "happy", "warm", "calm"]], [4, "What does the person look like?", ["suit", "man", "costume", "picture", "casual"]], [5, "How does the person feel like?", ["happy", "good", "cool", "sad", "calm"]], [6, "What is the person doing?", ["standing", "pointing", "looking", "working", "tying tie"]], [7, "What does the person on the left look like?", ["head", "man", "suit", "gun", "hat"]], [8, "How does the person on the left feel like?", ["happy", "sad", "cool", "good", "calm"]], [9, "What does the person on the right look like?", ["gun", "ghost", "suit", "man", "nothing"]], [10, "How does the person on the right feel like?", ["happy", "good", "cool", "sad", "tired"]], [11, "What are they doing?", ["talking", "cutting cake", "cutting", "baking", "cooking"]]]}
+{
+    "img_name": "4.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "yes",
+                "0",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "hospital",
+                "office",
+                "inside",
+                "bathroom",
+                "home"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "messy",
+                "happy",
+                "warm",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "suit",
+                "man",
+                "costume",
+                "picture",
+                "casual"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "sad",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "pointing",
+                "looking",
+                "working",
+                "tying tie"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "head",
+                "man",
+                "suit",
+                "gun",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "cool",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "gun",
+                "ghost",
+                "suit",
+                "man",
+                "nothing"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "cool",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "cutting cake",
+                "cutting",
+                "baking",
+                "cooking"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and messy. one person is in the hospital. the person looks like suit or office and feels like happy and good. the person is standing or pointing. "
+}

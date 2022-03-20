@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "4", "1", "yes"]], [2, "Where is this place?", ["kitchen", "restaurant", "home", "house", "living room"]], [3, "How is the environment feeling?", ["warm", "calm", "happy", "good", "cool"]], [4, "What does the person look like?", ["face", "surprise", "cartoon", "man", "selfie"]], [5, "How does the person feel like?", ["happy", "good", "hungry", "sad", "unknown"]], [6, "What is the person doing?", ["eating", "cooking", "talking", "looking", "serving"]], [7, "What does the person on the left look like?", ["dog", "face", "smiley face", "person", "ghost"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "hungry", "unknown"]], [9, "What does the person on the right look like?", ["smile", "face", "surprise", "smiley face", "dog"]], [10, "How does the person on the right feel like?", ["happy", "good", "unknown", "hungry", "sad"]], [11, "What are they doing?", ["eating", "cooking", "talking", "dining", "sitting"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "4",
+                "1",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "restaurant",
+                "home",
+                "house",
+                "living room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "calm",
+                "happy",
+                "good",
+                "cool"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "face",
+                "surprise",
+                "cartoon",
+                "man",
+                "selfie"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "hungry",
+                "sad",
+                "unknown"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "eating",
+                "cooking",
+                "talking",
+                "looking",
+                "serving"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "face",
+                "smiley face",
+                "person",
+                "ghost"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "hungry",
+                "unknown"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "surprise",
+                "smiley face",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "unknown",
+                "hungry",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "eating",
+                "cooking",
+                "talking",
+                "dining",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and calm. two people are in the kitchen. the person on the left looks like dog or face and feels like happy and good. the person on the right looks like smile or face and feels like happy and good. they are eating or cooking. "
+}

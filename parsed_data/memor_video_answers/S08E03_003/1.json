@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["4", "3", "5", "0", "2"]], [2, "Where is this place?", ["car", "in car", "bus", "city", "street"]], [3, "How is the environment feeling?", ["warm", "calm", "dark", "happy", "no"]], [4, "What does the person look like?", ["happy", "sad", "white", "woman", "female"]], [5, "How does the person feel like?", ["happy", "good", "sad", "warm", "yes"]], [6, "What is the person doing?", ["smiling", "sitting", "posing", "talking", "talking on phone"]], [7, "What does the person on the left look like?", ["smile", "face", "person", "glasses", "hair"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "soft", "sad"]], [9, "What does the person on the right look like?", ["happy", "smile", "bob", "glasses", "cat"]], [10, "How does the person on the right feel like?", ["happy", "good", "bored", "sad", "tired"]], [11, "What are they doing?", ["sitting", "talking", "posing", "smiling", "watching tv"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "4",
+                "3",
+                "5",
+                "0",
+                "2"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "bus",
+                "city",
+                "street"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "calm",
+                "dark",
+                "happy",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "happy",
+                "sad",
+                "white",
+                "woman",
+                "female"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "warm",
+                "yes"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "sitting",
+                "posing",
+                "talking",
+                "talking on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "face",
+                "person",
+                "glasses",
+                "hair"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "soft",
+                "sad"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "happy",
+                "smile",
+                "bob",
+                "glasses",
+                "cat"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "talking",
+                "posing",
+                "smiling",
+                "watching tv"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and calm. a group of people are in the car. they are sitting or talking. "
+}

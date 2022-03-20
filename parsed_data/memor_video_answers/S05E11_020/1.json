@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "0", "4"]], [2, "Where is this place?", ["kitchen", "house", "home", "dining room", "apartment"]], [3, "How is the environment feeling?", ["warm", "dark", "calm", "good", "happy"]], [4, "What does the person look like?", ["man", "male", "face", "surprise", "smile"]], [5, "How does the person feel like?", ["happy", "bored", "sad", "calm", "good"]], [6, "What is the person doing?", ["standing", "cooking", "smiling", "eating", "playing wii"]], [7, "What does the person on the left look like?", ["man", "himself", "face", "ghost", "smile"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "bad", "bored"]], [9, "What does the person on the right look like?", ["surprise", "himself", "man", "face", "smile"]], [10, "How does the person on the right feel like?", ["happy", "bored", "good", "calm", "sad"]], [11, "What are they doing?", ["standing", "playing wii", "cooking", "eating", "playing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "dining room",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "calm",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "male",
+                "face",
+                "surprise",
+                "smile"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "bored",
+                "sad",
+                "calm",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "cooking",
+                "smiling",
+                "eating",
+                "playing wii"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "himself",
+                "face",
+                "ghost",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bad",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "surprise",
+                "himself",
+                "man",
+                "face",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "calm",
+                "sad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "playing wii",
+                "cooking",
+                "eating",
+                "playing"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the kitchen. the person on the left looks like man or himself and feels like happy and good. the person on the right looks like surprise or himself and feels like happy and bored. they are standing or playing wii. "
+}

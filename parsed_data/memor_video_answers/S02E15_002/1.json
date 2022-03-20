@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "no"]], [2, "Where is this place?", ["inside", "house", "home", "indoors", "hospital"]], [3, "How is the environment feeling?", ["warm", "calm", "fair", "clear", "good"]], [4, "What does the person look like?", ["female", "woman", "dress", "model", "clothes"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "warm"]], [6, "What is the person doing?", ["posing", "brushing hair", "playing tennis", "stretching", "smiling"]], [7, "What does the person on the left look like?", ["smile", "doll", "person", "ghost", "woman"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "tired", "warm"]], [9, "What does the person on the right look like?", ["woman", "smile", "person", "dress", "costume"]], [10, "How does the person on the right feel like?", ["happy", "tired", "sad", "bored", "good"]], [11, "What are they doing?", ["posing", "brushing hair", "talking", "dancing", "smiling"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "house",
+                "home",
+                "indoors",
+                "hospital"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "calm",
+                "fair",
+                "clear",
+                "good"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "female",
+                "woman",
+                "dress",
+                "model",
+                "clothes"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "posing",
+                "brushing hair",
+                "playing tennis",
+                "stretching",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "doll",
+                "person",
+                "ghost",
+                "woman"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "tired",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "woman",
+                "smile",
+                "person",
+                "dress",
+                "costume"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "tired",
+                "sad",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "posing",
+                "brushing hair",
+                "talking",
+                "dancing",
+                "smiling"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and calm. two people are in the inside. the person on the left looks like smile or doll and feels like good and sad. the person on the right looks like woman or smile and feels like happy and tired. they are posing or brushing hair. "
+}

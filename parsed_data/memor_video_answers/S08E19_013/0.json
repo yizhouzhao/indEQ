@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["0", "1", "2", "o", "no"]], [2, "Where is this place?", ["outside", "road", "outdoors", "california", "parking lot"]], [3, "How is the environment feeling?", ["warm", "good", "poor", "rough", "fair"]], [4, "What does the person look like?", ["car", "old", "passenger", "photographer", "truck"]], [5, "How does the person feel like?", ["happy", "sad", "fun", "tired", "good"]], [6, "What is the person doing?", ["driving", "parked", "taking picture", "car", "taking photo"]], [7, "What does the person on the left look like?", ["car", "dog", "truck", "mirror", "person"]], [8, "How does the person on the left feel like?", ["happy", "sad", "tired", "bad", "good"]], [9, "What does the person on the right look like?", ["car", "dog", "old", "unknown", "photographer"]], [10, "How does the person on the right feel like?", ["happy", "sad", "tired", "good", "bad"]], [11, "What are they doing?", ["driving", "parking", "parked", "looking", "walking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "0",
+                "1",
+                "2",
+                "o",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "road",
+                "outdoors",
+                "california",
+                "parking lot"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "good",
+                "poor",
+                "rough",
+                "fair"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "car",
+                "old",
+                "passenger",
+                "photographer",
+                "truck"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "fun",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "driving",
+                "parked",
+                "taking picture",
+                "car",
+                "taking photo"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "car",
+                "dog",
+                "truck",
+                "mirror",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "tired",
+                "bad",
+                "good"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "car",
+                "dog",
+                "old",
+                "unknown",
+                "photographer"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "tired",
+                "good",
+                "bad"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "driving",
+                "parking",
+                "parked",
+                "looking",
+                "walking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and good. nobody is in the outside. "
+}

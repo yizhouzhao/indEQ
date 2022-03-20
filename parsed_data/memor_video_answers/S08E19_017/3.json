@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "yes", "0"]], [2, "Where is this place?", ["car", "in car", "not sure", "road", "on road"]], [3, "How is the environment feeling?", ["good", "sunny", "calm", "fair", "warm"]], [4, "What does the person look like?", ["selfie", "happy", "himself", "person", "surprise"]], [5, "How does the person feel like?", ["happy", "sad", "good", "bored", "tired"]], [6, "What is the person doing?", ["listening to music", "driving", "reading", "taking picture", "taking selfie"]], [7, "What does the person on the left look like?", ["dog", "person", "face", "mouse", "car"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "yes", "tired"]], [9, "What does the person on the right look like?", ["dog", "himself", "smile", "selfie", "person"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "tired", "bored"]], [11, "What are they doing?", ["listening to music", "texting", "looking", "driving", "taking selfie"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "yes",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "not sure",
+                "road",
+                "on road"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "sunny",
+                "calm",
+                "fair",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "happy",
+                "himself",
+                "person",
+                "surprise"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "listening to music",
+                "driving",
+                "reading",
+                "taking picture",
+                "taking selfie"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "dog",
+                "person",
+                "face",
+                "mouse",
+                "car"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "himself",
+                "smile",
+                "selfie",
+                "person"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "listening to music",
+                "texting",
+                "looking",
+                "driving",
+                "taking selfie"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and sunny. two people are in the car. the person on the left looks like dog or person and feels like happy and good. the person on the right looks like dog or himself and feels like happy and good. they are listening to music or texting. "
+}

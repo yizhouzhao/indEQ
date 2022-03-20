@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "0"]], [2, "Where is this place?", ["car", "in car", "park", "california", "outside"]], [3, "How is the environment feeling?", ["calm", "good", "fair", "warm", "sunny"]], [4, "What does the person look like?", ["selfie", "sad", "glasses", "happy", "reflection"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "calm"]], [6, "What is the person doing?", ["sitting", "driving", "smiling", "talking on phone", "looking out window"]], [7, "What does the person on the left look like?", ["glasses", "photographer", "person", "car", "smile"]], [8, "How does the person on the left feel like?", ["sad", "no", "tired", "bored", "yes"]], [9, "What does the person on the right look like?", ["selfie", "glasses", "photographer", "sad", "mirror"]], [10, "How does the person on the right feel like?", ["sad", "tired", "bored", "good", "happy"]], [11, "What are they doing?", ["listening to music", "sitting", "driving", "looking out window", "riding"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "car",
+                "in car",
+                "park",
+                "california",
+                "outside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "good",
+                "fair",
+                "warm",
+                "sunny"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "sad",
+                "glasses",
+                "happy",
+                "reflection"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "driving",
+                "smiling",
+                "talking on phone",
+                "looking out window"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "glasses",
+                "photographer",
+                "person",
+                "car",
+                "smile"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "no",
+                "tired",
+                "bored",
+                "yes"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "glasses",
+                "photographer",
+                "sad",
+                "mirror"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "tired",
+                "bored",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "listening to music",
+                "sitting",
+                "driving",
+                "looking out window",
+                "riding"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and good. two people are in the car. the person on the left looks like glasses or photographer and feels like sad and no. the person on the right looks like selfie or glasses and feels like sad and tired. they are listening to music or sitting. "
+}

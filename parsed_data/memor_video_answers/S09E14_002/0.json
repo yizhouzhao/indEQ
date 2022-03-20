@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["6", "5", "7", "4", "8"]], [2, "Where is this place?", ["airport", "mall", "japan", "store", "hotel"]], [3, "How is the environment feeling?", ["cold", "cool", "clean", "good", "warm"]], [4, "What does the person look like?", ["casual", "person", "jeans", "man", "unclear"]], [5, "How does the person feel like?", ["bored", "happy", "sad", "cold", "tired"]], [6, "What is the person doing?", ["standing", "talking", "walking", "waiting", "talking on phone"]], [7, "What does the person on the left look like?", ["person", "dog", "man", "ghost", "nothing"]], [8, "How does the person on the left feel like?", ["bored", "sad", "yes", "tired", "happy"]], [9, "What does the person on the right look like?", ["dog", "jeans", "person", "casual", "kid"]], [10, "How does the person on the right feel like?", ["bored", "tired", "happy", "sad", "unknown"]], [11, "What are they doing?", ["walking", "waiting", "talking", "standing", "dancing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "6",
+                "5",
+                "7",
+                "4",
+                "8"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "airport",
+                "mall",
+                "japan",
+                "store",
+                "hotel"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "cold",
+                "cool",
+                "clean",
+                "good",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "person",
+                "jeans",
+                "man",
+                "unclear"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "happy",
+                "sad",
+                "cold",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "talking",
+                "walking",
+                "waiting",
+                "talking on phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "dog",
+                "man",
+                "ghost",
+                "nothing"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "bored",
+                "sad",
+                "yes",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "dog",
+                "jeans",
+                "person",
+                "casual",
+                "kid"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "tired",
+                "happy",
+                "sad",
+                "unknown"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "walking",
+                "waiting",
+                "talking",
+                "standing",
+                "dancing"
+            ]
+        ]
+    ],
+    "description": "the environment feels cold and cool. a group of people are in the airport. they are walking or waiting. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["1", "yes", "standing", "2", "3"]], [2, "Where is this place?", ["kitchen", "house", "home", "office", "garage"]], [3, "How is the environment feeling?", ["warm", "calm", "good", "messy", "dark"]], [4, "What does the person look like?", ["giraffe", "man", "pizza", "color", "person"]], [5, "How does the person feel like?", ["happy", "good", "yes", "cool", "fun"]], [6, "What is the person doing?", ["cutting", "standing", "playing", "sitting", "posing"]], [7, "What does the person on the left look like?", ["giraffe", "man", "person", "pizza", "human"]], [8, "How does the person on the left feel like?", ["happy", "good", "yes", "cool", "soft"]], [9, "What does the person on the right look like?", ["giraffe", "man", "pizza", "person", "kid"]], [10, "How does the person on the right feel like?", ["happy", "good", "yes", "unknown", "happiness"]], [11, "What are they doing?", ["playing", "cutting", "standing", "dancing", "talking"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "yes",
+                "standing",
+                "2",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "office",
+                "garage"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "calm",
+                "good",
+                "messy",
+                "dark"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "giraffe",
+                "man",
+                "pizza",
+                "color",
+                "person"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "cool",
+                "fun"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "cutting",
+                "standing",
+                "playing",
+                "sitting",
+                "posing"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "giraffe",
+                "man",
+                "person",
+                "pizza",
+                "human"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "cool",
+                "soft"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "giraffe",
+                "man",
+                "pizza",
+                "person",
+                "kid"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "yes",
+                "unknown",
+                "happiness"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "playing",
+                "cutting",
+                "standing",
+                "dancing",
+                "talking"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and calm. one person is in the kitchen. the person looks like giraffe or house and feels like happy and good. the person is cutting or standing. "
+}

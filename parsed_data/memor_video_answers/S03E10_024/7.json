@@ -1,1 +1,127 @@
-{"img_name": "7.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "0", "standing"]], [2, "Where is this place?", ["living room", "house", "home", "inside", "apartment"]], [3, "How is the environment feeling?", ["warm", "sunny", "good", "happy", "calm"]], [4, "What does the person look like?", ["sad", "professional", "old", "female", "family"]], [5, "How does the person feel like?", ["happy", "good", "sad", "yes", "tired"]], [6, "What is the person doing?", ["reading", "writing", "sitting", "typing", "texting"]], [7, "What does the person on the left look like?", ["monitor", "sofa", "animal", "butterfly", "no man"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "tired", "cool"]], [9, "What does the person on the right look like?", ["animal", "cat", "not possible", "color", "female"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "tired", "unknown"]], [11, "What are they doing?", ["reading", "writing", "relaxing", "sitting", "working"]]]}
+{
+    "img_name": "7.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "0",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "living room",
+                "house",
+                "home",
+                "inside",
+                "apartment"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "sunny",
+                "good",
+                "happy",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "sad",
+                "professional",
+                "old",
+                "female",
+                "family"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "reading",
+                "writing",
+                "sitting",
+                "typing",
+                "texting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "monitor",
+                "sofa",
+                "animal",
+                "butterfly",
+                "no man"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "cool"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "animal",
+                "cat",
+                "not possible",
+                "color",
+                "female"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "tired",
+                "unknown"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "reading",
+                "writing",
+                "relaxing",
+                "sitting",
+                "working"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and sunny. two people are in the living room. the person on the left looks like monitor or sofa and feels like happy and good. the person on the right looks like animal or cat and feels like happy and good. they are reading or writing. "
+}

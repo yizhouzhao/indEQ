@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "1", "4", "yes"]], [2, "Where is this place?", ["library", "office", "living room", "inside", "classroom"]], [3, "How is the environment feeling?", ["good", "messy", "warm", "calm", "cluttered"]], [4, "What does the person look like?", ["man", "student", "messy", "casual", "cartoon"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "casual"]], [6, "What is the person doing?", ["working", "typing", "using computer", "sitting", "computer"]], [7, "What does the person on the left look like?", ["face", "keyboard", "man", "cartoon", "father"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "bored", "casual"]], [9, "What does the person on the right look like?", ["cartoon", "adult", "father", "man", "serious"]], [10, "How does the person on the right feel like?", ["happy", "sad", "bored", "good", "serious"]], [11, "What are they doing?", ["working", "reading", "sitting", "using computer", "writing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "1",
+                "4",
+                "yes"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "library",
+                "office",
+                "living room",
+                "inside",
+                "classroom"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "messy",
+                "warm",
+                "calm",
+                "cluttered"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "student",
+                "messy",
+                "casual",
+                "cartoon"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "casual"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "working",
+                "typing",
+                "using computer",
+                "sitting",
+                "computer"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "keyboard",
+                "man",
+                "cartoon",
+                "father"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "bored",
+                "casual"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cartoon",
+                "adult",
+                "father",
+                "man",
+                "serious"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "bored",
+                "good",
+                "serious"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "reading",
+                "sitting",
+                "using computer",
+                "writing"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and messy. two people are in the library. the person on the left looks like face or keyboard and feels like happy and sad. the person on the right looks like cartoon or adult and feels like happy and sad. they are working or reading. "
+}

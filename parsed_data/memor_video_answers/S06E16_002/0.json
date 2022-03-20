@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "0", "3"]], [2, "Where is this place?", ["school", "classroom", "indoors", "home", "house"]], [3, "How is the environment feeling?", ["good", "fair", "cool", "calm", "warm"]], [4, "What does the person look like?", ["man", "female", "surprise", "cartoon", "person"]], [5, "How does the person feel like?", ["happy", "good", "bored", "sad", "warm"]], [6, "What is the person doing?", ["sitting", "looking", "not sure", "reading", "smiling"]], [7, "What does the person on the left look like?", ["animal", "whale", "cartoon", "person", "butterfly"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "yes", "bored"]], [9, "What does the person on the right look like?", ["cartoon", "animal", "butterfly", "cat", "whale"]], [10, "How does the person on the right feel like?", ["good", "happy", "bored", "sad", "confused"]], [11, "What are they doing?", ["sitting", "standing", "playing", "talking", "dancing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "0",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "school",
+                "classroom",
+                "indoors",
+                "home",
+                "house"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "good",
+                "fair",
+                "cool",
+                "calm",
+                "warm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "female",
+                "surprise",
+                "cartoon",
+                "person"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bored",
+                "sad",
+                "warm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "looking",
+                "not sure",
+                "reading",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "animal",
+                "whale",
+                "cartoon",
+                "person",
+                "butterfly"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "yes",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "cartoon",
+                "animal",
+                "butterfly",
+                "cat",
+                "whale"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "happy",
+                "bored",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "standing",
+                "playing",
+                "talking",
+                "dancing"
+            ]
+        ]
+    ],
+    "description": "the environment feels good and fair. two people are in the school. the person on the left looks like animal or whale and feels like happy and good. the person on the right looks like cartoon or animal and feels like good and happy. they are sitting or standing. "
+}

@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["1", "2", "yes", "4", "3"]], [2, "Where is this place?", ["inside", "indoors", "outside", "home", "office"]], [3, "How is the environment feeling?", ["calm", "cool", "dark", "clear", "cloudy"]], [4, "What does the person look like?", ["selfie", "himself", "happy", "blurry", "bad"]], [5, "How does the person feel like?", ["good", "happy", "bored", "sad", "bad"]], [6, "What is the person doing?", ["taking picture", "holding phone", "taking photo", "taking selfie", "selfie"]], [7, "What does the person on the left look like?", ["selfie", "himself", "glasses", "phone", "cell phone"]], [8, "How does the person on the left feel like?", ["confused", "sad", "happy", "good", "hungry"]], [9, "What does the person on the right look like?", ["selfie", "himself", "blurry", "cell phone", "smile"]], [10, "How does the person on the right feel like?", ["confused", "good", "happy", "sad", "bored"]], [11, "What are they doing?", ["taking picture", "taking pictures", "taking photo", "selfie", "looking at phone"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "2",
+                "yes",
+                "4",
+                "3"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "inside",
+                "indoors",
+                "outside",
+                "home",
+                "office"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "cool",
+                "dark",
+                "clear",
+                "cloudy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "himself",
+                "happy",
+                "blurry",
+                "bad"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "bored",
+                "sad",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "taking picture",
+                "holding phone",
+                "taking photo",
+                "taking selfie",
+                "selfie"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "selfie",
+                "himself",
+                "glasses",
+                "phone",
+                "cell phone"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "confused",
+                "sad",
+                "happy",
+                "good",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "himself",
+                "blurry",
+                "cell phone",
+                "smile"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "confused",
+                "good",
+                "happy",
+                "sad",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking picture",
+                "taking pictures",
+                "taking photo",
+                "selfie",
+                "looking at phone"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and cool. one person is in the inside. the person looks like selfie or indoors and feels like good and happy. the person is taking picture or holding phone. "
+}

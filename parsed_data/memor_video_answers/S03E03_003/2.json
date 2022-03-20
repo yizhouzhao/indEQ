@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "4", "0"]], [2, "Where is this place?", ["kitchen", "home", "house", "garage", "dining room"]], [3, "How is the environment feeling?", ["warm", "dark", "happy", "calm", "cold"]], [4, "What does the person look like?", ["picture", "smiling", "female", "surprise", "professional"]], [5, "How does the person feel like?", ["sad", "happy", "good", "hungry", "calm"]], [6, "What is the person doing?", ["cooking", "talking", "eating", "cleaning", "cutting"]], [7, "What does the person on the left look like?", ["smile", "man", "person", "face", "himself"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "hungry", "warm"]], [9, "What does the person on the right look like?", ["smile", "robot", "himself", "picture", "face"]], [10, "How does the person on the right feel like?", ["happy", "good", "hungry", "sad", "confused"]], [11, "What are they doing?", ["cooking", "eating", "talking", "cleaning", "working"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "home",
+                "house",
+                "garage",
+                "dining room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "dark",
+                "happy",
+                "calm",
+                "cold"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "picture",
+                "smiling",
+                "female",
+                "surprise",
+                "professional"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "hungry",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "cooking",
+                "talking",
+                "eating",
+                "cleaning",
+                "cutting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "man",
+                "person",
+                "face",
+                "himself"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "hungry",
+                "warm"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "robot",
+                "himself",
+                "picture",
+                "face"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "hungry",
+                "sad",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "cooking",
+                "eating",
+                "talking",
+                "cleaning",
+                "working"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and dark. two people are in the kitchen. the person on the left looks like smile or man and feels like happy and sad. the person on the right looks like smile or robot and feels like happy and good. they are cooking or eating. "
+}

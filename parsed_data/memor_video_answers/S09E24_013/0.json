@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "1", "0"]], [2, "Where is this place?", ["airplane", "car", "plane", "train", "inside"]], [3, "How is the environment feeling?", ["calm", "no", "happy", "warm", "cloudy"]], [4, "What does the person look like?", ["happy", "selfie", "sad", "female", "confused"]], [5, "How does the person feel like?", ["sad", "good", "happy", "bored", "tired"]], [6, "What is the person doing?", ["smiling", "talking on phone", "sitting", "listening to music", "talking"]], [7, "What does the person on the left look like?", ["smile", "nothing", "camera", "glasses", "person"]], [8, "How does the person on the left feel like?", ["sad", "happy", "good", "bored", "tired"]], [9, "What does the person on the right look like?", ["smile", "happy", "glasses", "camera", "selfie"]], [10, "How does the person on the right feel like?", ["sad", "happy", "tired", "bored", "good"]], [11, "What are they doing?", ["listening to music", "sitting", "talking", "watching", "traveling"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "1",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "airplane",
+                "car",
+                "plane",
+                "train",
+                "inside"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "no",
+                "happy",
+                "warm",
+                "cloudy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "happy",
+                "selfie",
+                "sad",
+                "female",
+                "confused"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "smiling",
+                "talking on phone",
+                "sitting",
+                "listening to music",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "nothing",
+                "camera",
+                "glasses",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "happy",
+                "glasses",
+                "camera",
+                "selfie"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "listening to music",
+                "sitting",
+                "talking",
+                "watching",
+                "traveling"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and no. two people are in the airplane. the person on the left looks like smile or nothing and feels like sad and happy. the person on the right looks like smile or happy and feels like sad and happy. they are listening to music or sitting. "
+}

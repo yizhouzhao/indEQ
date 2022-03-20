@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "0", "4"]], [2, "Where is this place?", ["house", "restaurant", "home", "office", "indoors"]], [3, "How is the environment feeling?", ["dark", "warm", "cool", "clear", "calm"]], [4, "What does the person look like?", ["business", "glasses", "formal", "man", "old"]], [5, "How does the person feel like?", ["sad", "confused", "bored", "good", "calm"]], [6, "What is the person doing?", ["talking", "standing", "waiting", "listening", "shaking hands"]], [7, "What does the person on the left look like?", ["microphone", "speaker", "suit", "nothing", "face"]], [8, "How does the person on the left feel like?", ["confused", "bored", "sad", "good", "happy"]], [9, "What does the person on the right look like?", ["microphone", "speaker", "suit", "pilot", "big"]], [10, "How does the person on the right feel like?", ["bored", "confused", "sad", "tired", "good"]], [11, "What are they doing?", ["talking", "standing", "meeting", "shaking hands", "waiting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "0",
+                "4"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "restaurant",
+                "home",
+                "office",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "cool",
+                "clear",
+                "calm"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "business",
+                "glasses",
+                "formal",
+                "man",
+                "old"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "confused",
+                "bored",
+                "good",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "standing",
+                "waiting",
+                "listening",
+                "shaking hands"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "microphone",
+                "speaker",
+                "suit",
+                "nothing",
+                "face"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "confused",
+                "bored",
+                "sad",
+                "good",
+                "happy"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "microphone",
+                "speaker",
+                "suit",
+                "pilot",
+                "big"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "confused",
+                "sad",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "meeting",
+                "shaking hands",
+                "waiting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the house. the person on the left looks like microphone or speaker and feels like confused and bored. the person on the right looks like microphone or speaker and feels like bored and confused. they are talking or standing. "
+}

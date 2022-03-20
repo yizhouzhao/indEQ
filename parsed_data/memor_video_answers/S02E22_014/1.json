@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "3", "yes", "no", "1"]], [2, "Where is this place?", ["house", "inside", "home", "store", "school"]], [3, "How is the environment feeling?", ["dark", "cool", "cold", "no", "yes"]], [4, "What does the person look like?", ["selfie", "business", "casual", "fake", "man"]], [5, "How does the person feel like?", ["sad", "good", "happy", "bored", "calm"]], [6, "What is the person doing?", ["talking", "standing", "talking on phone", "smiling", "staring"]], [7, "What does the person on the left look like?", ["nothing", "himself", "no man", "selfie", "robe"]], [8, "How does the person on the left feel like?", ["sad", "happy", "tired", "bored", "cold"]], [9, "What does the person on the right look like?", ["selfie", "himself", "nothing", "tie", "suit"]], [10, "How does the person on the right feel like?", ["sad", "tired", "happy", "bored", "good"]], [11, "What are they doing?", ["talking", "standing", "staring", "looking", "waiting"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "3",
+                "yes",
+                "no",
+                "1"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "house",
+                "inside",
+                "home",
+                "store",
+                "school"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "cool",
+                "cold",
+                "no",
+                "yes"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "selfie",
+                "business",
+                "casual",
+                "fake",
+                "man"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "happy",
+                "bored",
+                "calm"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "talking",
+                "standing",
+                "talking on phone",
+                "smiling",
+                "staring"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "nothing",
+                "himself",
+                "no man",
+                "selfie",
+                "robe"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "happy",
+                "tired",
+                "bored",
+                "cold"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "selfie",
+                "himself",
+                "nothing",
+                "tie",
+                "suit"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "tired",
+                "happy",
+                "bored",
+                "good"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "talking",
+                "standing",
+                "staring",
+                "looking",
+                "waiting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and cool. two people are in the house. the person on the left looks like nothing or himself and feels like sad and happy. the person on the right looks like selfie or himself and feels like sad and tired. they are talking or standing. "
+}

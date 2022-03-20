@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["5", "6", "4", "7", "8"]], [2, "Where is this place?", ["restaurant", "bar", "store", "inside", "kitchen"]], [3, "How is the environment feeling?", ["warm", "happy", "cool", "good", "no"]], [4, "What does the person look like?", ["smile", "surprise", "woman", "happy", "surprised"]], [5, "How does the person feel like?", ["sad", "happy", "good", "hungry", "tired"]], [6, "What is the person doing?", ["taking picture", "texting", "taking photo", "phone", "looking at phone"]], [7, "What does the person on the left look like?", ["smile", "face", "smiley face", "dog", "herself"]], [8, "How does the person on the left feel like?", ["good", "sad", "happy", "love", "hungry"]], [9, "What does the person on the right look like?", ["smile", "face", "surprise", "smiley face", "herself"]], [10, "How does the person on the right feel like?", ["sad", "happy", "good", "bored", "confused"]], [11, "What are they doing?", ["taking pictures", "taking picture", "texting", "drinking", "playing game"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "5",
+                "6",
+                "4",
+                "7",
+                "8"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "restaurant",
+                "bar",
+                "store",
+                "inside",
+                "kitchen"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "warm",
+                "happy",
+                "cool",
+                "good",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "smile",
+                "surprise",
+                "woman",
+                "happy",
+                "surprised"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "hungry",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "taking picture",
+                "texting",
+                "taking photo",
+                "phone",
+                "looking at phone"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "smile",
+                "face",
+                "smiley face",
+                "dog",
+                "herself"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "good",
+                "sad",
+                "happy",
+                "love",
+                "hungry"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "face",
+                "surprise",
+                "smiley face",
+                "herself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "sad",
+                "happy",
+                "good",
+                "bored",
+                "confused"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "taking pictures",
+                "taking picture",
+                "texting",
+                "drinking",
+                "playing game"
+            ]
+        ]
+    ],
+    "description": "the environment feels warm and happy. a group of people are in the restaurant. they are taking pictures or taking picture. "
+}

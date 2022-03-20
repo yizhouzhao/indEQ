@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "4", "0"]], [2, "Where is this place?", ["office", "inside", "living room", "restaurant", "indoors"]], [3, "How is the environment feeling?", ["calm", "warm", "dark", "cool", "clean"]], [4, "What does the person look like?", ["casual", "old", "suit", "ghost", "business"]], [5, "How does the person feel like?", ["bored", "sad", "happy", "tired", "good"]], [6, "What is the person doing?", ["sitting", "talking on phone", "talking", "reading", "waiting"]], [7, "What does the person on the left look like?", ["ghost", "no man", "painting", "nothing", "bird"]], [8, "How does the person on the left feel like?", ["sad", "bored", "good", "happy", "no"]], [9, "What does the person on the right look like?", ["ghost", "no man", "person", "old", "unknown"]], [10, "How does the person on the right feel like?", ["bored", "sad", "good", "tired", "happy"]], [11, "What are they doing?", ["sitting", "waiting", "talking", "watching", "looking"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "4",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "office",
+                "inside",
+                "living room",
+                "restaurant",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "calm",
+                "warm",
+                "dark",
+                "cool",
+                "clean"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "casual",
+                "old",
+                "suit",
+                "ghost",
+                "business"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "bored",
+                "sad",
+                "happy",
+                "tired",
+                "good"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "talking on phone",
+                "talking",
+                "reading",
+                "waiting"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "ghost",
+                "no man",
+                "painting",
+                "nothing",
+                "bird"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "sad",
+                "bored",
+                "good",
+                "happy",
+                "no"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "ghost",
+                "no man",
+                "person",
+                "old",
+                "unknown"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "bored",
+                "sad",
+                "good",
+                "tired",
+                "happy"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "sitting",
+                "waiting",
+                "talking",
+                "watching",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels calm and warm. two people are in the office. the person on the left looks like ghost or no man and feels like sad and bored. the person on the right looks like ghost or no man and feels like bored and sad. they are sitting or waiting. "
+}

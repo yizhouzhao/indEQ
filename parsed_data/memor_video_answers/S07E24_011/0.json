@@ -1,1 +1,127 @@
-{"img_name": "0.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "0"]], [2, "Where is this place?", ["bedroom", "office", "home", "living room", "room"]], [3, "How is the environment feeling?", ["dark", "warm", "calm", "happy", "no"]], [4, "What does the person look like?", ["happy", "sad", "smiling", "surprise", "selfie"]], [5, "How does the person feel like?", ["happy", "good", "sad", "bored", "bad"]], [6, "What is the person doing?", ["typing", "sitting", "using laptop", "working", "using computer"]], [7, "What does the person on the left look like?", ["face", "nothing", "smile", "mouse", "head"]], [8, "How does the person on the left feel like?", ["happy", "sad", "bored", "good", "confused"]], [9, "What does the person on the right look like?", ["smile", "smiling", "nothing", "happy", "himself"]], [10, "How does the person on the right feel like?", ["happy", "bored", "good", "sad", "tired"]], [11, "What are they doing?", ["watching", "working", "typing", "sitting", "nothing"]]]}
+{
+    "img_name": "0.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bedroom",
+                "office",
+                "home",
+                "living room",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "warm",
+                "calm",
+                "happy",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "happy",
+                "sad",
+                "smiling",
+                "surprise",
+                "selfie"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "bored",
+                "bad"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "typing",
+                "sitting",
+                "using laptop",
+                "working",
+                "using computer"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "nothing",
+                "smile",
+                "mouse",
+                "head"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "bored",
+                "good",
+                "confused"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "smile",
+                "smiling",
+                "nothing",
+                "happy",
+                "himself"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "bored",
+                "good",
+                "sad",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "watching",
+                "working",
+                "typing",
+                "sitting",
+                "nothing"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and warm. two people are in the bedroom. the person on the left looks like face or nothing and feels like happy and sad. the person on the right looks like smile or smiling and feels like happy and bored. they are watching or working. "
+}

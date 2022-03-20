@@ -1,1 +1,127 @@
-{"img_name": "3.jpg", "question_answer": [[1, "How many people?", ["2", "1", "0", "yes", "no"]], [2, "Where is this place?", ["bedroom", "home", "office", "inside", "indoors"]], [3, "How is the environment feeling?", ["dark", "no", "cool", "warm", "happy"]], [4, "What does the person look like?", ["man", "glasses", "happy", "serious", "male"]], [5, "How does the person feel like?", ["sad", "good", "bored", "happy", "tired"]], [6, "What is the person doing?", ["sitting", "typing", "smiling", "using laptop", "using computer"]], [7, "What does the person on the left look like?", ["man", "face", "himself", "serious", "glasses"]], [8, "How does the person on the left feel like?", ["happy", "sad", "good", "tired", "bored"]], [9, "What does the person on the right look like?", ["man", "smile", "surprise", "glasses", "serious"]], [10, "How does the person on the right feel like?", ["happy", "tired", "sad", "good", "bored"]], [11, "What are they doing?", ["working", "using laptop", "using computer", "on laptop", "sitting"]]]}
+{
+    "img_name": "3.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "0",
+                "yes",
+                "no"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "bedroom",
+                "home",
+                "office",
+                "inside",
+                "indoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dark",
+                "no",
+                "cool",
+                "warm",
+                "happy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "man",
+                "glasses",
+                "happy",
+                "serious",
+                "male"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "sad",
+                "good",
+                "bored",
+                "happy",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "sitting",
+                "typing",
+                "smiling",
+                "using laptop",
+                "using computer"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "man",
+                "face",
+                "himself",
+                "serious",
+                "glasses"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "good",
+                "tired",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "man",
+                "smile",
+                "surprise",
+                "glasses",
+                "serious"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "tired",
+                "sad",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "working",
+                "using laptop",
+                "using computer",
+                "on laptop",
+                "sitting"
+            ]
+        ]
+    ],
+    "description": "the environment feels dark and no. two people are in the bedroom. the person on the left looks like man or face and feels like happy and sad. the person on the right looks like man or smile and feels like happy and tired. they are working or using laptop. "
+}

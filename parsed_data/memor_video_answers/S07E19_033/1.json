@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["2", "1", "3", "10", "0"]], [2, "Where is this place?", ["wedding", "museum", "hospital", "christmas", "store"]], [3, "How is the environment feeling?", ["happy", "cool", "dark", "warm", "rainy"]], [4, "What does the person look like?", ["bear", "suit", "costume", "santa", "pirate"]], [5, "How does the person feel like?", ["happy", "good", "bad", "sad", "cool"]], [6, "What is the person doing?", ["dancing", "posing", "looking", "standing", "taking picture"]], [7, "What does the person on the left look like?", ["bear", "costume", "santa", "flag", "hat"]], [8, "How does the person on the left feel like?", ["love", "happy", "costume", "nothing", "i don't know"]], [9, "What does the person on the right look like?", ["costume", "bear", "santa", "person", "butterfly"]], [10, "How does the person on the right feel like?", ["happy", "good", "sad", "love", "cool"]], [11, "What are they doing?", ["dancing", "posing", "hugging", "taking picture", "standing"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "3",
+                "10",
+                "0"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "wedding",
+                "museum",
+                "hospital",
+                "christmas",
+                "store"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "cool",
+                "dark",
+                "warm",
+                "rainy"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "bear",
+                "suit",
+                "costume",
+                "santa",
+                "pirate"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "good",
+                "bad",
+                "sad",
+                "cool"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "dancing",
+                "posing",
+                "looking",
+                "standing",
+                "taking picture"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "bear",
+                "costume",
+                "santa",
+                "flag",
+                "hat"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "love",
+                "happy",
+                "costume",
+                "nothing",
+                "i don't know"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "costume",
+                "bear",
+                "santa",
+                "person",
+                "butterfly"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "love",
+                "cool"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "dancing",
+                "posing",
+                "hugging",
+                "taking picture",
+                "standing"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and cool. two people are in the wedding. the person on the left looks like bear or costume and feels like love and happy. the person on the right looks like costume or bear and feels like happy and good. they are dancing or posing. "
+}

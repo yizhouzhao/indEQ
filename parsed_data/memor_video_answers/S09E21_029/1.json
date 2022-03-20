@@ -1,1 +1,127 @@
-{"img_name": "1.jpg", "question_answer": [[1, "How many people?", ["1", "0", "no", "3", "o"]], [2, "Where is this place?", ["outside", "backyard", "patio", "house", "outdoors"]], [3, "How is the environment feeling?", ["dirty", "wet", "dark", "poor", "bad"]], [4, "What does the person look like?", ["person", "fake", "statue", "man", "selfie"]], [5, "How does the person feel like?", ["happy", "sad", "calm", "good", "bored"]], [6, "What is the person doing?", ["standing", "sitting", "posing", "looking", "smiling"]], [7, "What does the person on the left look like?", ["person", "hat", "man", "statue", "dog"]], [8, "How does the person on the left feel like?", ["happy", "sad", "bored", "unknown", "tired"]], [9, "What does the person on the right look like?", ["pirate", "person", "statue", "hat", "dog"]], [10, "How does the person on the right feel like?", ["happy", "sad", "bored", "tired", "calm"]], [11, "What are they doing?", ["standing", "nothing", "sitting", "resting", "walking"]]]}
+{
+    "img_name": "1.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "1",
+                "0",
+                "no",
+                "3",
+                "o"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "outside",
+                "backyard",
+                "patio",
+                "house",
+                "outdoors"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "dirty",
+                "wet",
+                "dark",
+                "poor",
+                "bad"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "person",
+                "fake",
+                "statue",
+                "man",
+                "selfie"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "happy",
+                "sad",
+                "calm",
+                "good",
+                "bored"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "sitting",
+                "posing",
+                "looking",
+                "smiling"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "person",
+                "hat",
+                "man",
+                "statue",
+                "dog"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "sad",
+                "bored",
+                "unknown",
+                "tired"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "pirate",
+                "person",
+                "statue",
+                "hat",
+                "dog"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "happy",
+                "sad",
+                "bored",
+                "tired",
+                "calm"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "nothing",
+                "sitting",
+                "resting",
+                "walking"
+            ]
+        ]
+    ],
+    "description": "the environment feels dirty and wet. one person is in the outside. the person looks like person or backyard and feels like happy and sad. the person is standing or sitting. "
+}

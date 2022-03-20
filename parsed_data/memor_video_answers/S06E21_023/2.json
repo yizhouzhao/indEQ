@@ -1,1 +1,127 @@
-{"img_name": "2.jpg", "question_answer": [[1, "How many people?", ["2", "1", "yes", "3", "standing"]], [2, "Where is this place?", ["kitchen", "house", "home", "living room", "room"]], [3, "How is the environment feeling?", ["happy", "dark", "good", "warm", "no"]], [4, "What does the person look like?", ["face", "surprise", "man", "pirate", "bad"]], [5, "How does the person feel like?", ["good", "happy", "sad", "bored", "tired"]], [6, "What is the person doing?", ["standing", "smiling", "posing", "cooking", "talking"]], [7, "What does the person on the left look like?", ["face", "cat", "cartoon", "robot", "person"]], [8, "How does the person on the left feel like?", ["happy", "good", "sad", "confused", "bored"]], [9, "What does the person on the right look like?", ["face", "pirate", "smile", "surprise", "cartoon"]], [10, "How does the person on the right feel like?", ["good", "confused", "happy", "bored", "tired"]], [11, "What are they doing?", ["standing", "cooking", "talking", "posing", "looking"]]]}
+{
+    "img_name": "2.jpg",
+    "question_answer": [
+        [
+            1,
+            "How many people?",
+            [
+                "2",
+                "1",
+                "yes",
+                "3",
+                "standing"
+            ]
+        ],
+        [
+            2,
+            "Where is this place?",
+            [
+                "kitchen",
+                "house",
+                "home",
+                "living room",
+                "room"
+            ]
+        ],
+        [
+            3,
+            "How is the environment feeling?",
+            [
+                "happy",
+                "dark",
+                "good",
+                "warm",
+                "no"
+            ]
+        ],
+        [
+            4,
+            "What does the person look like?",
+            [
+                "face",
+                "surprise",
+                "man",
+                "pirate",
+                "bad"
+            ]
+        ],
+        [
+            5,
+            "How does the person feel like?",
+            [
+                "good",
+                "happy",
+                "sad",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            6,
+            "What is the person doing?",
+            [
+                "standing",
+                "smiling",
+                "posing",
+                "cooking",
+                "talking"
+            ]
+        ],
+        [
+            7,
+            "What does the person on the left look like?",
+            [
+                "face",
+                "cat",
+                "cartoon",
+                "robot",
+                "person"
+            ]
+        ],
+        [
+            8,
+            "How does the person on the left feel like?",
+            [
+                "happy",
+                "good",
+                "sad",
+                "confused",
+                "bored"
+            ]
+        ],
+        [
+            9,
+            "What does the person on the right look like?",
+            [
+                "face",
+                "pirate",
+                "smile",
+                "surprise",
+                "cartoon"
+            ]
+        ],
+        [
+            10,
+            "How does the person on the right feel like?",
+            [
+                "good",
+                "confused",
+                "happy",
+                "bored",
+                "tired"
+            ]
+        ],
+        [
+            11,
+            "What are they doing?",
+            [
+                "standing",
+                "cooking",
+                "talking",
+                "posing",
+                "looking"
+            ]
+        ]
+    ],
+    "description": "the environment feels happy and dark. two people are in the kitchen. the person on the left looks like face or cat and feels like happy and good. the person on the right looks like face or pirate and feels like good and confused. they are standing or cooking. "
+}
